@@ -6,7 +6,6 @@ alias pip3='python3 -m pip'
 alias gcom='git add . && git commit -m "@$USER"'
 alias gpush='gcom; git push'
 
-alias ..="cd .."
 alias psearch='grep -rnw . -e'
 alias vpy='python3 -m venv'
 alias py='python3'
