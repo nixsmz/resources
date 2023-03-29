@@ -1,0 +1,470 @@
+[
+    {
+        "Name": "One FM",
+        "Country": "Suisse",
+        "URL": "https://onefm.ice.infomaniak.ch/onefm-high.mp3",
+        "Logo": "one_fm.png"
+    },
+    {
+        "Name": "Rouge FM",
+        "Country": "Suisse",
+        "URL": "http://rougefm.ice.infomaniak.ch/rougefm-high.mp3",
+        "Logo": "rouge_fm.png"
+    },
+    {
+        "Name": "Radio Lac",
+        "Country": "Suisse",
+        "URL": "https://radiolac.ice.infomaniak.ch/radiolac-high.mp3",
+        "Logo": "radio_lac.png"
+    },
+    {
+        "Name": "Lausanne FM",
+        "Country": "Suisse",
+        "URL": "https://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3",
+        "Logo": "lausanne_fm.png"
+    },
+    {
+        "Name": "Rhone FM",
+        "Country": "Suisse",
+        "URL": "https://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3",
+        "Logo": "rhone_fm.png"
+    },
+    {
+        "Name": "RTS Option Musique",
+        "Country": "Suisse",
+        "URL": "https://stream.srg-ssr.ch/m/option-musique/mp3_128",
+        "Logo": "rts_option_musique.png"
+    },
+    {
+        "Name": "Couleur 3",
+        "Country": "Suisse",
+        "URL": "http://stream.srg-ssr.ch/m/couleur3/mp3_128",
+        "Logo": "couleur_3.png"
+    },
+    {
+        "Name": "Espace 2",
+        "Country": "Suisse",
+        "URL": "https://stream.srg-ssr.ch/m/espace-2/mp3_128",
+        "Logo": "espace_2.png"
+    },
+    {
+        "Name": "Radio Chablais",
+        "Country": "Suisse",
+        "URL": "https://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3",
+        "Logo": "radio_chablais.png"
+    },
+    {
+        "Name": "Radio Fribourg",
+        "Country": "Suisse",
+        "URL": "https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3",
+        "Logo": "radio_fribourg.png"
+    },
+    {
+        "Name": "La Première",
+        "Country": "Suisse",
+        "URL": "https://stream.srg-ssr.ch/m/la-1ere/mp3_128",
+        "Logo": "la_première.png"
+    },
+    {
+        "Name": "Rete Uno",
+        "Country": "Suisse",
+        "URL": "https://stream.srg-ssr.ch/m/reteuno/mp3_128",
+        "Logo": "rete_uno.png"
+    },
+    {
+        "Name": "Swiss Pop",
+        "Country": "Suisse",
+        "URL": "https://stream.srg-ssr.ch/m/rsp/mp3_128",
+        "Logo": "swiss_pop.png"
+    },
+    {
+        "Name": "Rete Tre",
+        "Country": "Suisse",
+        "URL": "https://stream.srg-ssr.ch/m/retetre/mp3_128",
+        "Logo": "rete_tre.png"
+    },
+    {
+        "Name": "Energy Bern",
+        "Country": "Suisse",
+        "URL": "https://energybern.ice.infomaniak.ch/energybern-high.mp3",
+        "Logo": "energy_bern.png"
+    },
+    {
+        "Name": "Rete Due",
+        "Country": "Suisse",
+        "URL": "https://stream.srg-ssr.ch/m/retedue/mp3_128",
+        "Logo": "rete_due.png"
+    },
+    {
+        "Name": "NRJ Leman",
+        "Country": "Suisse",
+        "URL": "https://scdn.nrjaudio.fm/ch/50001/mp3_128.mp3?cdn_path=audio_lbs12&access_token=44fbd566e1bc41ffb9f71b46cc38f96c",
+        "Logo": "nrj_leman.png"
+    },
+    {
+        "Name": "Radio Plus",
+        "Country": "France",
+        "URL": "https://laradioplus.ice.infomaniak.ch:80/laradioplus-high.mp3",
+        "Logo": "radio_plus.png"
+    },
+    {
+        "Name": "Nostalgie",
+        "Country": "France",
+        "URL": "https://scdn.nrjaudio.fm/adwz2/fr/30601/mp3_128.mp3?origine=radio.net",
+        "Logo": "nostalgie.png"
+    },
+    {
+        "Name": "Skyrock",
+        "Country": "France",
+        "URL": "https://icecast.skyrock.net/s/natio_aac_96k",
+        "Logo": "skyrock.png"
+    },
+    {
+        "Name": "France Inter",
+        "Country": "France",
+        "URL": "https://icecast.radiofrance.fr/franceinter-lofi.mp3",
+        "Logo": "france_inter.png"
+    },
+    {
+        "Name": "NRJ",
+        "Country": "France",
+        "URL": "http://185.52.127.155/fr/30001/mp3_128.mp3",
+        "Logo": "nrj.png"
+    },
+    {
+        "Name": "France Info",
+        "Country": "France",
+        "URL": "https://icecast.radiofrance.fr/franceinfo-midfi.mp3",
+        "Logo": "france_info.png"
+    },
+    {
+        "Name": "Europe 1",
+        "Country": "France",
+        "URL": "http://ais-live.cloud-services.paris:8000/europe1.mp3",
+        "Logo": "europe_1.png"
+    },
+    {
+        "Name": "RTL",
+        "Country": "France",
+        "URL": "https://streamer-03.rtl.fr/rtl-1-44-128",
+        "Logo": "rtl.png"
+    },
+    {
+        "Name": "RMC FM",
+        "Country": "France",
+        "URL": "https://audio.bfmtv.com/rmcradio_128.mp3?aw_0_1st.aggregator=unknow_from_dvmr",
+        "Logo": "rmc_fm.png"
+    },
+    {
+        "Name": "Fun Radio",
+        "Country": "France",
+        "URL": "https://streamer-03.rtl.fr/fun-1-44-64",
+        "Logo": "fun_radio.png"
+    },
+    {
+        "Name": "Cerise FM",
+        "Country": "France",
+        "URL": "https://n26a-eu.rcs.revma.com/q90fb3dwnwzuv.mp3?rj-ttl=5&rj-tok=AAABgpc_-yoAjKVhVkKfShwMpQ",
+        "Logo": "cerise_fm.png"
+    },
+    {
+        "Name": "RFM",
+        "Country": "France",
+        "URL": "http://ais-live.cloud-services.paris:8000/rfm.mp3",
+        "Logo": "rfm.png"
+    },
+    {
+        "Name": "Chérie FM",
+        "Country": "France",
+        "URL": "http://185.52.127.155/fr/30201/mp3_128.mp3",
+        "Logo": "chérie_fm.png"
+    },
+    {
+        "Name": "RTL 2",
+        "Country": "France",
+        "URL": "https://streamer-02.rtl.fr/rtl2-1-44-128",
+        "Logo": "rtl_2.png"
+    },
+    {
+        "Name": "Autoroute Info",
+        "Country": "France",
+        "URL": "http://media.autorouteinfo.fr:8000/direct_sud.mp3",
+        "Logo": "autoroute_info.png"
+    },
+    {
+        "Name": "Radio Classique",
+        "Country": "France",
+        "URL": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
+        "Logo": "radio_classique.png"
+    },
+    {
+        "Name": "Sud Radio",
+        "Country": "France",
+        "URL": "https://ice.creacast.com/sudradio",
+        "Logo": "sud_radio.png"
+    },
+    {
+        "Name": "BFM Radio",
+        "Country": "France",
+        "URL": "https://audio.bfmtv.com/bfmradio_128.mp3",
+        "Logo": "bfm_radio.png"
+    },
+    {
+        "Name": "France Culture",
+        "Country": "France",
+        "URL": "https://icecast.radiofrance.fr/franceculture-midfi.mp3",
+        "Logo": "france_culture.png"
+    },
+    {
+        "Name": "Medi 1 Nayda",
+        "Country": "Maroc",
+        "URL": "http://live.medi1.com/Nayda#.mp3",
+        "Logo": "medi_1_nayda.png"
+    },
+    {
+        "Name": "Hit Radio",
+        "Country": "Maroc",
+        "URL": "http://icepe1.infomaniak.ch/hitradio-maroc-128.mp3",
+        "Logo": "hit_radio.png"
+    },
+    {
+        "Name": "Med Radio",
+        "Country": "Maroc",
+        "URL": "https://streamer.eagrpservices.com/audio/medradio.mp3",
+        "Logo": "med_radio.png"
+    },
+    {
+        "Name": "Aswat FM",
+        "Country": "Maroc",
+        "URL": "https://broadcast.ice.infomaniak.ch/aswat-high.mp3",
+        "Logo": "aswat_fm.png"
+    },
+    {
+        "Name": "MFM",
+        "Country": "Maroc",
+        "URL": "https://streamer.eagrpservices.com/audio/mfmradio.ogg",
+        "Logo": "mfm.png"
+    },
+    {
+        "Name": "Chada FM",
+        "Country": "Maroc",
+        "URL": "https://streamer.eagrpservices.com/audio/chadafm.mp3",
+        "Logo": "chada_fm.png"
+    },
+    {
+        "Name": "Radio Mars",
+        "Country": "Maroc",
+        "URL": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+        "Logo": "radio_mars.png"
+    },
+    {
+        "Name": "Medina FM",
+        "Country": "Maroc",
+        "URL": "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3",
+        "Logo": "medina_fm.png"
+    },
+    {
+        "Name": "Atlantic Radio",
+        "Country": "Maroc",
+        "URL": "http://68.168.117.130:8000/stream",
+        "Logo": "atlantic_radio.png"
+    },
+    {
+        "Name": "Radio Sawa Maghreb",
+        "Country": "Maroc",
+        "URL": "https://n08.radiojar.com/7yh1c22r92quv?rj-ttl=5&rj-tok=AAABgpUKewUAwGaEGccREWUBFw",
+        "Logo": "radio_sawa_maghreb.png"
+    },
+    {
+        "Name": "DIB Radio",
+        "Country": "Maroc",
+        "URL": "https://streaming2.rimradio.ma/dibradio",
+        "Logo": "dib_radio.png"
+    },
+    {
+        "Name": "Hit Radio Mgharba",
+        "Country": "Maroc",
+        "URL": "https://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
+        "Logo": "hit_radio_mgharba.png"
+    },
+    {
+        "Name": "Medi 1 Andalouse",
+        "Country": "Maroc",
+        "URL": "https://live.medi1.com/Andalouse#.mp3",
+        "Logo": "medi_1_andalouse.png"
+    },
+    {
+        "Name": "Adwaa FM",
+        "Country": "Maroc",
+        "URL": "https://stream-38.zeno.fm/5bxh2nh0x1zuv?zs=D92uDW4_SECV4WAxJyOp4A",
+        "Logo": "adwaa_fm.png"
+    },
+    {
+        "Name": "Adwaa FM 2",
+        "Country": "Maroc",
+        "URL": "https://stream-49.zeno.fm/vrrtqsh0x1zuv?zs=fmJFnQHyROa3O_cHPUquwQ",
+        "Logo": "adwaa_fm_2.png"
+    },
+    {
+        "Name": "Adwaa FM 3",
+        "Country": "Maroc",
+        "URL": "https://stream-38.zeno.fm/x4451xh0x1zuv?zs=znuA7GraRKGAYDiSVDMiww",
+        "Logo": "adwaa_fm_3.png"
+    },
+    {
+        "Name": "Yabiladi",
+        "Country": "Maroc",
+        "URL": "http://media.yabiladi.com:8000/stream",
+        "Logo": "yabiladi.png"
+    },
+    {
+        "Name": "Skyrock Casablanca",
+        "Country": "Maroc",
+        "URL": "https://icecast.skyrock.net/s/casa_aac_64k",
+        "Logo": "skyrock_casablanca.png"
+    },
+    {
+        "Name": "Rai 1",
+        "Country": "Italie",
+        "URL": "https://icestreaming.rai.it/1.mp3",
+        "Logo": "rai_1.png"
+    },
+    {
+        "Name": "Rai 2",
+        "Country": "Italie",
+        "URL": "https://icestreaming.rai.it/2.mp3",
+        "Logo": "rai_2.png"
+    },
+    {
+        "Name": "Rai 3",
+        "Country": "Italie",
+        "URL": "https://icestreaming.rai.it/3.mp3",
+        "Logo": "rai_3.png"
+    },
+    {
+        "Name": "Radio Freccia",
+        "Country": "Italie",
+        "URL": "https://streamingv2.shoutcast.com/radiofreccia",
+        "Logo": "radio_freccia.png"
+    },
+    {
+        "Name": "Virgin Radio",
+        "Country": "Italie",
+        "URL": "https://icecast.unitedradio.it/Virgin.mp3",
+        "Logo": "virgin_radio.png"
+    },
+    {
+        "Name": "Radio Globo",
+        "Country": "Italie",
+        "URL": "https://stream.lolliradio.net/lolli_italia.mp3?mp=/globorm128",
+        "Logo": "radio_globo.png"
+    },
+    {
+        "Name": "Radio Lombardia",
+        "Country": "Italie",
+        "URL": "https://stream6.xdevel.com/audio0s976574-1328/stream/icecast.audio",
+        "Logo": "radio_lombardia.png"
+    },
+    {
+        "Name": "Radio Italia 5",
+        "Country": "Italie",
+        "URL": "https://stream1.xdevel.com/audio0s975662-256/stream/icecast.audio",
+        "Logo": "radio_italia_5.png"
+    },
+    {
+        "Name": "Canale Italia Plus",
+        "Country": "Italie",
+        "URL": "http://rci.canaleitalia.tv:8005/",
+        "Logo": "canale_italia_plus.png"
+    },
+    {
+        "Name": "Rai 1 Sport",
+        "Country": "Italie",
+        "URL": "https://icestreaming.rai.it/13.mp3",
+        "Logo": "rai_1_sport.png"
+    },
+    {
+        "Name": "RTT",
+        "Country": "Italie",
+        "URL": "https://str01.fluidstream.net/rtt.mp3",
+        "Logo": "rtt.png"
+    },
+    {
+        "Name": "Radio Millenium",
+        "Country": "Italie",
+        "URL": "https://mln.fluidstream.eu/millennium1.mp3",
+        "Logo": "radio_millenium.png"
+    },
+    {
+        "Name": "Umbria Radio",
+        "Country": "Italie",
+        "URL": "http://s3.shoutitaly.com:8065/stream",
+        "Logo": "umbria_radio.png"
+    },
+    {
+        "Name": "Radio Toscana",
+        "Country": "Italie",
+        "URL": "http://stream5.xdevel.com/audio4s976317-1148/stream/icecast.audio",
+        "Logo": "radio_toscana.png"
+    },
+    {
+        "Name": "Radio Torino",
+        "Country": "Italie",
+        "URL": "http://stream15.top-ix.org:8000/radiotorino",
+        "Logo": "radio_torino.png"
+    },
+    {
+        "Name": "Radio Spazio",
+        "Country": "Italie",
+        "URL": "http://nrf1.newradio.it:10228/stream",
+        "Logo": "radio_spazio.png"
+    },
+    {
+        "Name": "Canale Bari",
+        "Country": "Italie",
+        "URL": "http://betelgeuse.dribbcast.com:4014/stream",
+        "Logo": "canale_bari.png"
+    },
+    {
+        "Name": "Radio Azzura Sud",
+        "Country": "Italie",
+        "URL": "https://ice09.fluidstream.net/fluid0906.mp3",
+        "Logo": "radio_azzura_sud.png"
+    },
+    {
+        "Name": "Radio Verona",
+        "Country": "Italie",
+        "URL": "https://ice04.fluidstream.net/fluid0405.mp3",
+        "Logo": "radio_verona.png"
+    },
+    {
+        "Name": "Radio Napoli",
+        "Country": "Italie",
+        "URL": "https://ice06.fluidstream.net/RadioNapoli.mp3",
+        "Logo": "radio_napoli.png"
+    },
+    {
+        "Name": "Radio Galileo",
+        "Country": "Italie",
+        "URL": "http://81.25.96.98:8000/RG",
+        "Logo": "radio_galileo.png"
+    },
+    {
+        "Name": "Radio Più",
+        "Country": "Italie",
+        "URL": "http://distorzi.radioca.st:8532/1",
+        "Logo": "radio_più.png"
+    },
+    {
+        "Name": "Radio Puglia",
+        "Country": "Italie",
+        "URL": "http://audio1.meway.tv:8108/;",
+        "Logo": "radio_puglia.png"
+    },
+    {
+        "Name": "Radio Stella Città",
+        "Country": "Italie",
+        "URL": "http://onair18.xdevel.com:8086/;",
+        "Logo": "radio_stella_città.png"
+    }
+]
