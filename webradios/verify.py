@@ -10,9 +10,8 @@ if len(sys.argv) != 2:
 file = open(sys.argv[1])
 for obj in json.load(file):
     try:
-        filename = obj['Name'].lower().replace(' ','_')
-        if Image.open(f"images/{filename}.png").size[:2] != SIZE:
+        if Image.open(f"images/{obj['icon']}").size[:2] != SIZE:
             raise Exception("Size does not match")
-        print(f"OK - {obj['Name']}")
-    except Exception as e: print(f"   - {obj['Name']} : {e}")
+        print(f"OK - {obj['name']}")
+    except Exception as e: print(f"   - {obj['name']} : {e}")
 file.close()
