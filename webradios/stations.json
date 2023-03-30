@@ -264,12 +264,6 @@
         "Logo": "medina_fm.png"
     },
     {
-        "Name": "Atlantic Radio",
-        "Country": "Maroc",
-        "URL": "http://68.168.117.130:8000/stream",
-        "Logo": "atlantic_radio.png"
-    },
-    {
         "Name": "Radio Sawa Maghreb",
         "Country": "Maroc",
         "URL": "https://n08.radiojar.com/7yh1c22r92quv?rj-ttl=5&rj-tok=AAABgpUKewUAwGaEGccREWUBFw",
