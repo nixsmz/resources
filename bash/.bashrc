@@ -1,4 +1,4 @@
-PS1='\[\033[1;47m\]\[\033[1;30m\]Nix -\[\033[1;34m\] \w \[\033[1;30m\]$ \[\033[0m\] '
+PS1='\[\033[1;47m\]\[\033[1;30m\]\u -\[\033[1;34m\] \w \[\033[1;30m\]$ \[\033[0m\] '
 
 alias msys='sudo apt update -y ; sudo apt upgrade -y ; sudo apt --purge autoremove -y'
 alias nano='nano -ilm -T 4'

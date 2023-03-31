@@ -3,11 +3,8 @@ DEST=.build
 EXENAME=main
 SRC=$(shell find ../ -name "*.c")
 OBJ=$(SRC:.c=.o)
-LIBS=-lpthread -lcurl -lvlc -lrt -lm
+LIBS=-lm
 CFLAGS=-Wall -Wextra -pedantic -g -fsanitize=address -fno-omit-frame-pointer
-ifeq ($(HOSTTYPE), aarch64)
-	LIBS+= -lwiringPi
-endif
 
 renew: clean main
 
