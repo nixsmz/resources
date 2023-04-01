@@ -528,6 +528,12 @@
         "icon": "belgium_antipode_fm.png"
     },
     {
+        "name": "Bel RTL",
+        "country": "Belgium",
+        "url": "https://belrtl.ice.infomaniak.ch/belrtl-mp3-128.mp3",
+        "icon": "belgium_bel_rtl.png"
+    },
+    {
         "name": "BRF 1",
         "country": "Belgium",
         "url": "https://streaming.brf.be/brf1-mid.mp3",
@@ -538,12 +544,6 @@
         "country": "Belgium",
         "url": "https://streaming.brf.be/brf2-mid.mp3",
         "icon": "belgium_brf_2.png"
-    },
-    {
-        "name": "Bel RTL",
-        "country": "Belgium",
-        "url": "https://belrtl.ice.infomaniak.ch/belrtl-mp3-128.mp3",
-        "icon": "belgium_bel_rtl.png"
     },
     {
         "name": "Bruzz",
@@ -564,16 +564,16 @@
         "icon": "belgium_classic_21_(rtbf).png"
     },
     {
-        "name": "DH Radio Belgium",
-        "country": "Belgium",
-        "url": "https://stream.rcs.revma.com/th89pet3pzzuv",
-        "icon": "belgium_dh_radio_belgium.png"
-    },
-    {
         "name": "Deva",
         "country": "Belgium",
         "url": "https://ice.cr2.streamzilla.xlcdn.com:8000/sz=fmbrussel=BruzzBackupStream",
         "icon": "belgium_deva.png"
+    },
+    {
+        "name": "DH Radio Belgium",
+        "country": "Belgium",
+        "url": "https://stream.rcs.revma.com/th89pet3pzzuv",
+        "icon": "belgium_dh_radio_belgium.png"
     },
     {
         "name": "Family Radio",
@@ -588,6 +588,12 @@
         "icon": "belgium_jam.png"
     },
     {
+        "name": "Maximum FM",
+        "country": "Belgium",
+        "url": "https://stream.rcs.revma.com/vnmbzemrmm0uv",
+        "icon": "belgium_maximum_fm.png"
+    },
+    {
         "name": "MNM",
         "country": "Belgium",
         "url": "https://icecast.vrtcdn.be/mnm-mid-fallback.mp3",
@@ -600,28 +606,22 @@
         "icon": "belgium_mnm_hits.png"
     },
     {
-        "name": "Maximum FM",
-        "country": "Belgium",
-        "url": "https://stream.rcs.revma.com/vnmbzemrmm0uv",
-        "icon": "belgium_maximum_fm.png"
-    },
-    {
         "name": "Must FM",
         "country": "Belgium",
         "url": "https://stream.rcs.revma.com/cm96zpmrmm0uv",
         "icon": "belgium_must_fm.png"
     },
     {
-        "name": "NRJ FM",
-        "country": "Belgium",
-        "url": "https://scdn.nrjaudio.fm/adwz1/be/34007/mp3_128.mp3",
-        "icon": "belgium_nrj_fm.png"
-    },
-    {
         "name": "Nostalgie - Plus",
         "country": "Belgium",
         "url": "https://streamingv2.shoutcast.com/nostaplus-mp3",
         "icon": "belgium_nostalgie_-_plus.png"
+    },
+    {
+        "name": "NRJ FM",
+        "country": "Belgium",
+        "url": "https://scdn.nrjaudio.fm/adwz1/be/34007/mp3_128.mp3",
+        "icon": "belgium_nrj_fm.png"
     },
     {
         "name": "Oldies Radio RGR",
@@ -634,54 +634,6 @@
         "country": "Belgium",
         "url": "https://radio.potz.be/omnia",
         "icon": "belgium_potz_-_music_is_love.png"
-    },
-    {
-        "name": "RBS Radio",
-        "country": "Belgium",
-        "url": "https://streams.movemedia.eu/rbs",
-        "icon": "belgium_rbs_radio.png"
-    },
-    {
-        "name": "RTBF La Premiere",
-        "country": "Belgium",
-        "url": "https://radios.rtbf.be/laprem1ere-128.mp3",
-        "icon": "belgium_rtbf_la_premiere.png"
-    },
-    {
-        "name": "RTBF MIX",
-        "country": "Belgium",
-        "url": "https://radios.rtbf.be/rtbfmix-64.aac",
-        "icon": "belgium_rtbf_mix.png"
-    },
-    {
-        "name": "RTBF Musiq 3",
-        "country": "Belgium",
-        "url": "https://radios.rtbf.be/musiq3-128.mp3",
-        "icon": "belgium_rtbf_musiq_3.png"
-    },
-    {
-        "name": "RTBF Tarmac",
-        "country": "Belgium",
-        "url": "https://radios.rtbf.be/tarmac-64.aac",
-        "icon": "belgium_rtbf_tarmac.png"
-    },
-    {
-        "name": "RTBF Tipik",
-        "country": "Belgium",
-        "url": "https://radios.rtbf.be/pure-128.mp3",
-        "icon": "belgium_rtbf_tipik.png"
-    },
-    {
-        "name": "RTBF Ukraine",
-        "country": "Belgium",
-        "url": "https://radios.rtbf.be/wr-poc-spot-128.mp3",
-        "icon": "belgium_rtbf_ukraine.png"
-    },
-    {
-        "name": "RTBF Viva+",
-        "country": "Belgium",
-        "url": "https://radios.rtbf.be/vivaplus-128.mp3",
-        "icon": "belgium_rtbf_viva+.png"
     },
     {
         "name": "Radio 700",
@@ -738,10 +690,52 @@
         "icon": "belgium_radio_rbs_fm.png"
     },
     {
-        "name": "STAR FM",
+        "name": "RBS Radio",
         "country": "Belgium",
-        "url": "http://mvserver.be:3191/;",
-        "icon": "belgium_star_fm.png"
+        "url": "https://streams.movemedia.eu/rbs",
+        "icon": "belgium_rbs_radio.png"
+    },
+    {
+        "name": "RTBF La Premiere",
+        "country": "Belgium",
+        "url": "https://radios.rtbf.be/laprem1ere-128.mp3",
+        "icon": "belgium_rtbf_la_premiere.png"
+    },
+    {
+        "name": "RTBF MIX",
+        "country": "Belgium",
+        "url": "https://radios.rtbf.be/rtbfmix-64.aac",
+        "icon": "belgium_rtbf_mix.png"
+    },
+    {
+        "name": "RTBF Musiq 3",
+        "country": "Belgium",
+        "url": "https://radios.rtbf.be/musiq3-128.mp3",
+        "icon": "belgium_rtbf_musiq_3.png"
+    },
+    {
+        "name": "RTBF Tarmac",
+        "country": "Belgium",
+        "url": "https://radios.rtbf.be/tarmac-64.aac",
+        "icon": "belgium_rtbf_tarmac.png"
+    },
+    {
+        "name": "RTBF Tipik",
+        "country": "Belgium",
+        "url": "https://radios.rtbf.be/pure-128.mp3",
+        "icon": "belgium_rtbf_tipik.png"
+    },
+    {
+        "name": "RTBF Ukraine",
+        "country": "Belgium",
+        "url": "https://radios.rtbf.be/wr-poc-spot-128.mp3",
+        "icon": "belgium_rtbf_ukraine.png"
+    },
+    {
+        "name": "RTBF Viva+",
+        "country": "Belgium",
+        "url": "https://radios.rtbf.be/vivaplus-128.mp3",
+        "icon": "belgium_rtbf_viva+.png"
     },
     {
         "name": "Stadsradio I Radio O",
@@ -756,6 +750,12 @@
         "icon": "belgium_stadsradio_vlaanderen.png"
     },
     {
+        "name": "STAR FM",
+        "country": "Belgium",
+        "url": "http://mvserver.be:3191/;",
+        "icon": "belgium_star_fm.png"
+    },
+    {
         "name": "Sud Radio",
         "country": "Belgium",
         "url": "https://sudradio.ice.infomaniak.ch/sudradio-96.aac",
@@ -766,6 +766,12 @@
         "country": "Belgium",
         "url": "https://stream.ceit.be/sudradio-hainaut",
         "icon": "belgium_sud_radio_-_mons.png"
+    },
+    {
+        "name": "Vivacite (RTBF)",
+        "country": "Belgium",
+        "url": "https://radios.rtbf.be/vivacharleroi-64.aac",
+        "icon": "belgium_vivacite_(rtbf).png"
     },
     {
         "name": "VRT Klara",
@@ -790,12 +796,6 @@
         "country": "Belgium",
         "url": "https://icecast.vrtcdn.be/ra2ant-mid-fallback.mp3",
         "icon": "belgium_vrt_radio_2.png"
-    },
-    {
-        "name": "Vivacite (RTBF)",
-        "country": "Belgium",
-        "url": "https://radios.rtbf.be/vivacharleroi-64.aac",
-        "icon": "belgium_vivacite_(rtbf).png"
     },
     {
         "name": "WVL Radio 2",
@@ -1146,6 +1146,12 @@
         "icon": "croatia_radio_101.png"
     },
     {
+        "name": "Radio akovo",
+        "country": "Croatia",
+        "url": "https://ec2s.crolive.com.hr:8300/stream",
+        "icon": "croatia_radio_akovo.png"
+    },
+    {
         "name": "Radio Banovina",
         "country": "Croatia",
         "url": "http://stream1.radio-banovina.hr:8010/;",
@@ -1342,12 +1348,6 @@
         "country": "Croatia",
         "url": "http://c2.hostingcentar.com:9452/;",
         "icon": "croatia_radio_vrbovec.png"
-    },
-    {
-        "name": "Radio akovo",
-        "country": "Croatia",
-        "url": "https://ec2s.crolive.com.hr:8300/stream",
-        "icon": "croatia_radio_akovo.png"
     },
     {
         "name": "Radiopostaja Vinkovci FM",
@@ -1734,16 +1734,16 @@
         "icon": "finland_bassoradio_fm.png"
     },
     {
-        "name": "FM 95.7",
-        "country": "Finland",
-        "url": "https://stream.bauermedia.fi/radio957/radio957_128.mp3",
-        "icon": "finland_fm_95.7.png"
-    },
-    {
         "name": "Fin Est FM",
         "country": "Finland",
         "url": "http://212.47.220.188:8000/;",
         "icon": "finland_fin_est_fm.png"
+    },
+    {
+        "name": "FM 95.7",
+        "country": "Finland",
+        "url": "https://stream.bauermedia.fi/radio957/radio957_128.mp3",
+        "icon": "finland_fm_95.7.png"
     },
     {
         "name": "Hamsi - Espoo Finland FM",
@@ -1788,12 +1788,6 @@
         "icon": "finland_kaamos_radio.png"
     },
     {
-        "name": "KAH Radio",
-        "country": "Finland",
-        "url": "https://ec5.yesstreaming.net:2170/stream",
-        "icon": "finland_kah_radio.png"
-    },
-    {
         "name": "Kaaosradio",
         "country": "Finland",
         "url": "http://stream.kaaosradio.fi:8000/chip",
@@ -1822,6 +1816,12 @@
         "country": "Finland",
         "url": "https://kaaosradio.fi:8001/stream2",
         "icon": "finland_kaaosradio_-_hard_techno_trance_freeform.png"
+    },
+    {
+        "name": "KAH Radio",
+        "country": "Finland",
+        "url": "https://ec5.yesstreaming.net:2170/stream",
+        "icon": "finland_kah_radio.png"
     },
     {
         "name": "Kaupunkiradio",
@@ -1956,12 +1956,6 @@
         "icon": "finland_radio_ramona.png"
     },
     {
-        "name": "Radio SUN",
-        "country": "Finland",
-        "url": "https://st.downtime.fi/sun.mp3",
-        "icon": "finland_radio_sun.png"
-    },
-    {
         "name": "Radio Sandels",
         "country": "Finland",
         "url": "http://suomiradio.pro:8080/;",
@@ -1972,6 +1966,12 @@
         "country": "Finland",
         "url": "https://streaming.radiostreamlive.com/radiosantaclaus_devices",
         "icon": "finland_radio_santa_claus.png"
+    },
+    {
+        "name": "Radio SUN",
+        "country": "Finland",
+        "url": "https://st.downtime.fi/sun.mp3",
+        "icon": "finland_radio_sun.png"
     },
     {
         "name": "Radio Tutka",
@@ -2040,16 +2040,16 @@
         "icon": "france_b_fm_business.png"
     },
     {
-        "name": "BFM RADIO",
-        "country": "France",
-        "url": "https://audio.bfmtv.com/bfmradio_128.mp3",
-        "icon": "france_bfm_radio.png"
-    },
-    {
         "name": "Beur FM",
         "country": "France",
         "url": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
         "icon": "france_beur_fm.png"
+    },
+    {
+        "name": "BFM RADIO",
+        "country": "France",
+        "url": "https://audio.bfmtv.com/bfmradio_128.mp3",
+        "icon": "france_bfm_radio.png"
     },
     {
         "name": "Cerise FM",
@@ -2092,12 +2092,6 @@
         "country": "France",
         "url": "https://direct.fipradio.fr/live/fipnantes-lofi.mp3",
         "icon": "france_fip.png"
-    },
-    {
-        "name": "FUN Radio",
-        "country": "France",
-        "url": "https://icecast.funradio.fr/fun-1-44-64",
-        "icon": "france_fun_radio.png"
     },
     {
         "name": "Forum FM",
@@ -2250,6 +2244,12 @@
         "icon": "france_france_musique.png"
     },
     {
+        "name": "FUN Radio",
+        "country": "France",
+        "url": "https://icecast.funradio.fr/fun-1-44-64",
+        "icon": "france_fun_radio.png"
+    },
+    {
         "name": "Generations FM",
         "country": "France",
         "url": "https://generationfm.ice.infomaniak.ch/generationfm-high.mp3",
@@ -2292,12 +2292,6 @@
         "icon": "france_mouv_fm.png"
     },
     {
-        "name": "NRJ",
-        "country": "France",
-        "url": "http://185.52.127.155/fr/30001/mp3_128.mp3",
-        "icon": "france_nrj.png"
-    },
-    {
         "name": "Nostalgie",
         "country": "France",
         "url": "https://scdn.nrjaudio.fm/adwz2/fr/30601/mp3_128.mp3",
@@ -2310,88 +2304,10 @@
         "icon": "france_nova_paris.png"
     },
     {
-        "name": "RCF",
+        "name": "NRJ",
         "country": "France",
-        "url": "https://rcf.streamakaci.com/rcf17.mp3",
-        "icon": "france_rcf.png"
-    },
-    {
-        "name": "RCF Haute-Savoie",
-        "country": "France",
-        "url": "https://rcf.streamakaci.com/rcf74.mp3",
-        "icon": "france_rcf_haute-savoie.png"
-    },
-    {
-        "name": "RCF Jura",
-        "country": "France",
-        "url": "https://rcf.streamakaci.com/rcf39.mp3",
-        "icon": "france_rcf_jura.png"
-    },
-    {
-        "name": "RCF M",
-        "country": "France",
-        "url": "https://rcf.streamakaci.com/rcf83.mp3",
-        "icon": "france_rcf_m.png"
-    },
-    {
-        "name": "RCF Maguelone Herault",
-        "country": "France",
-        "url": "https://rcf.streamakaci.com/rcf34.mp3",
-        "icon": "france_rcf_maguelone_herault.png"
-    },
-    {
-        "name": "RCF Poitou",
-        "country": "France",
-        "url": "https://rcf.streamakaci.com/rcf86.mp3",
-        "icon": "france_rcf_poitou.png"
-    },
-    {
-        "name": "RCF Puy de Dome",
-        "country": "France",
-        "url": "https://rcf.streamakaci.com/rcf63.mp3",
-        "icon": "france_rcf_puy_de_dome.png"
-    },
-    {
-        "name": "RCF Savoie",
-        "country": "France",
-        "url": "https://rcf.streamakaci.com/rcf73.mp3",
-        "icon": "france_rcf_savoie.png"
-    },
-    {
-        "name": "RCF Vendee",
-        "country": "France",
-        "url": "https://rcf.streamakaci.com/rcf85.mp3",
-        "icon": "france_rcf_vendee.png"
-    },
-    {
-        "name": "RCF en Bourgogne",
-        "country": "France",
-        "url": "https://rcf.streamakaci.com/rcf21.mp3",
-        "icon": "france_rcf_en_bourgogne.png"
-    },
-    {
-        "name": "RFM",
-        "country": "France",
-        "url": "http://ais-live.cloud-services.paris:8000/rfm.mp3",
-        "icon": "france_rfm.png"
-    },
-    {
-        "name": "RMC FM",
-        "country": "France",
-        "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
-        "icon": "france_rmc_fm.png"
-    },
-    {
-        "name": "RTL",
-        "country": "France",
-        "url": "https://icecast.funradio.fr/rtl-1-44-64",
-        "icon": "france_rtl.png"
-    },
-    {
-        "name": "RTL 2",
-        "country": "France",
-        "url": "https://streamer-02.rtl.fr/rtl2-1-44-128",
-        "icon": "france_rtl_2.png"
+        "url": "http://185.52.127.155/fr/30001/mp3_128.mp3",
+        "icon": "france_nrj.png"
     },
     {
         "name": "Radio Benin",
@@ -2470,6 +2386,90 @@
         "country": "France",
         "url": "https://str0.creacast.com/radio_vinci_autoroutes_4",
         "icon": "france_radio_vinci_autoroutes.png"
+    },
+    {
+        "name": "RCF",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf17.mp3",
+        "icon": "france_rcf.png"
+    },
+    {
+        "name": "RCF en Bourgogne",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf21.mp3",
+        "icon": "france_rcf_en_bourgogne.png"
+    },
+    {
+        "name": "RCF Haute-Savoie",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf74.mp3",
+        "icon": "france_rcf_haute-savoie.png"
+    },
+    {
+        "name": "RCF Jura",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf39.mp3",
+        "icon": "france_rcf_jura.png"
+    },
+    {
+        "name": "RCF M",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf83.mp3",
+        "icon": "france_rcf_m.png"
+    },
+    {
+        "name": "RCF Maguelone Herault",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf34.mp3",
+        "icon": "france_rcf_maguelone_herault.png"
+    },
+    {
+        "name": "RCF Poitou",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf86.mp3",
+        "icon": "france_rcf_poitou.png"
+    },
+    {
+        "name": "RCF Puy de Dome",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf63.mp3",
+        "icon": "france_rcf_puy_de_dome.png"
+    },
+    {
+        "name": "RCF Savoie",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf73.mp3",
+        "icon": "france_rcf_savoie.png"
+    },
+    {
+        "name": "RCF Vendee",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf85.mp3",
+        "icon": "france_rcf_vendee.png"
+    },
+    {
+        "name": "RFM",
+        "country": "France",
+        "url": "http://ais-live.cloud-services.paris:8000/rfm.mp3",
+        "icon": "france_rfm.png"
+    },
+    {
+        "name": "RMC FM",
+        "country": "France",
+        "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
+        "icon": "france_rmc_fm.png"
+    },
+    {
+        "name": "RTL",
+        "country": "France",
+        "url": "https://icecast.funradio.fr/rtl-1-44-64",
+        "icon": "france_rtl.png"
+    },
+    {
+        "name": "RTL 2",
+        "country": "France",
+        "url": "https://streamer-02.rtl.fr/rtl2-1-44-128",
+        "icon": "france_rtl_2.png"
     },
     {
         "name": "Sanef",
@@ -3042,6 +3042,30 @@
         "icon": "greece_ditika_fm.png"
     },
     {
+        "name": "Easy 972",
+        "country": "Greece",
+        "url": "https://stream.rcs.revma.com/4vr91u5r4a0uv",
+        "icon": "greece_easy_972.png"
+    },
+    {
+        "name": "Ekklesia tis Ellados Athens",
+        "country": "Greece",
+        "url": "http://85.10.206.222:8002/;",
+        "icon": "greece_ekklesia_tis_ellados_athens.png"
+    },
+    {
+        "name": "Ellinikos 93.2",
+        "country": "Greece",
+        "url": "https://orange.live24.gr/orange9320",
+        "icon": "greece_ellinikos_93.2.png"
+    },
+    {
+        "name": "Emphasis FM",
+        "country": "Greece",
+        "url": "https://streams.enjoyfm.gr:48502/emfasis.mp3",
+        "icon": "greece_emphasis_fm.png"
+    },
+    {
         "name": "ERA 1 Proto Programma",
         "country": "Greece",
         "url": "https://radiostreaming.ert.gr/ert-proto",
@@ -3162,40 +3186,16 @@
         "icon": "greece_era_sport.png"
     },
     {
-        "name": "ERT Rodou",
-        "country": "Greece",
-        "url": "https://radiostreaming.ert.gr/ert-rodos",
-        "icon": "greece_ert_rodou.png"
-    },
-    {
-        "name": "Easy 972",
-        "country": "Greece",
-        "url": "https://stream.rcs.revma.com/4vr91u5r4a0uv",
-        "icon": "greece_easy_972.png"
-    },
-    {
-        "name": "Ekklesia tis Ellados Athens",
-        "country": "Greece",
-        "url": "http://85.10.206.222:8002/;",
-        "icon": "greece_ekklesia_tis_ellados_athens.png"
-    },
-    {
-        "name": "Ellinikos 93.2",
-        "country": "Greece",
-        "url": "https://orange.live24.gr/orange9320",
-        "icon": "greece_ellinikos_93.2.png"
-    },
-    {
-        "name": "Emphasis FM",
-        "country": "Greece",
-        "url": "https://streams.enjoyfm.gr:48502/emfasis.mp3",
-        "icon": "greece_emphasis_fm.png"
-    },
-    {
         "name": "Erotikos FM",
         "country": "Greece",
         "url": "http://eu1.fastcast4u.com:21624/;",
         "icon": "greece_erotikos_fm.png"
+    },
+    {
+        "name": "ERT Rodou",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-rodos",
+        "icon": "greece_ert_rodou.png"
     },
     {
         "name": "Evripos FM",
@@ -3306,12 +3306,6 @@
         "icon": "greece_piraiki_ekklisia.png"
     },
     {
-        "name": "RSO",
-        "country": "Greece",
-        "url": "http://tachyon.shoutca.st:8594/;",
-        "icon": "greece_rso.png"
-    },
-    {
         "name": "Radio Anamnisi",
         "country": "Greece",
         "url": "https://sp.19clouds.net/8112/stream",
@@ -3358,6 +3352,12 @@
         "country": "Greece",
         "url": "https://stream.radiojar.com/red90s",
         "icon": "greece_red_96.3.png"
+    },
+    {
+        "name": "RSO",
+        "country": "Greece",
+        "url": "http://tachyon.shoutca.st:8594/;",
+        "icon": "greece_rso.png"
     },
     {
         "name": "Rythmos FM",
@@ -3448,66 +3448,6 @@
         "country": "Italy",
         "url": "https://ice17.fluidstream.net/love02.mp3",
         "icon": "italy_love_fm.png"
-    },
-    {
-        "name": "RAI Suedtirol",
-        "country": "Italy",
-        "url": "https://radiobzlive.rai.it/RAI_Suedtirol",
-        "icon": "italy_rai_suedtirol.png"
-    },
-    {
-        "name": "RMC Radio Monte Carlo",
-        "country": "Italy",
-        "url": "https://icecast.unitedradio.it/RMC.mp3",
-        "icon": "italy_rmc_radio_monte_carlo.png"
-    },
-    {
-        "name": "RR News",
-        "country": "Italy",
-        "url": "https://live.radioradicale.it/dab.mp3",
-        "icon": "italy_rr_news.png"
-    },
-    {
-        "name": "RTL - Best",
-        "country": "Italy",
-        "url": "https://streamingv2.shoutcast.com/rtl-1025-best",
-        "icon": "italy_rtl_-_best.png"
-    },
-    {
-        "name": "RTL - Napule",
-        "country": "Italy",
-        "url": "https://streamingv2.shoutcast.com/rtl-1025-napule",
-        "icon": "italy_rtl_-_napule.png"
-    },
-    {
-        "name": "RTL - Romeo & Juliet",
-        "country": "Italy",
-        "url": "https://streamingv2.shoutcast.com/rtl-1025-romeoandjuliet",
-        "icon": "italy_rtl_-_romeo_&_juliet.png"
-    },
-    {
-        "name": "RTL 102.5",
-        "country": "Italy",
-        "url": "https://streamingv2.shoutcast.com/rtl-1025",
-        "icon": "italy_rtl_102.5.png"
-    },
-    {
-        "name": "RTL 102.5 DOC",
-        "country": "Italy",
-        "url": "https://streamingv2.shoutcast.com/rtl-1025-doc",
-        "icon": "italy_rtl_102.5_doc.png"
-    },
-    {
-        "name": "RTL Via Radio",
-        "country": "Italy",
-        "url": "http://eu9.fastcast4u.com:5068/;",
-        "icon": "italy_rtl_via_radio.png"
-    },
-    {
-        "name": "RTT",
-        "country": "Italy",
-        "url": "https://str01.fluidstream.net/rtt.mp3",
-        "icon": "italy_rtt.png"
     },
     {
         "name": "Radio 1 Mondo",
@@ -3654,6 +3594,12 @@
         "icon": "italy_radio_mille_note.png"
     },
     {
+        "name": "Radio Napoli",
+        "country": "Italy",
+        "url": "https://ice06.fluidstream.net/RadioNapoli.mp3",
+        "icon": "italy_radio_napoli.png"
+    },
+    {
         "name": "Radio NBC Rete Regione",
         "country": "Italy",
         "url": "https://trentov2.meway.host/live",
@@ -3664,12 +3610,6 @@
         "country": "Italy",
         "url": "http://audio1.meway.tv:8016/;",
         "icon": "italy_radio_nbc_rete_regione_-_bolzano.png"
-    },
-    {
-        "name": "Radio Napoli",
-        "country": "Italy",
-        "url": "https://ice06.fluidstream.net/RadioNapoli.mp3",
-        "icon": "italy_radio_napoli.png"
     },
     {
         "name": "Radio Nostalgia",
@@ -3864,10 +3804,70 @@
         "icon": "italy_rai_sudtirol.png"
     },
     {
+        "name": "RAI Suedtirol",
+        "country": "Italy",
+        "url": "https://radiobzlive.rai.it/RAI_Suedtirol",
+        "icon": "italy_rai_suedtirol.png"
+    },
+    {
         "name": "Rete Sport",
         "country": "Italy",
         "url": "https://icecast.ithost.it/retesport.ogg",
         "icon": "italy_rete_sport.png"
+    },
+    {
+        "name": "RMC Radio Monte Carlo",
+        "country": "Italy",
+        "url": "https://icecast.unitedradio.it/RMC.mp3",
+        "icon": "italy_rmc_radio_monte_carlo.png"
+    },
+    {
+        "name": "RR News",
+        "country": "Italy",
+        "url": "https://live.radioradicale.it/dab.mp3",
+        "icon": "italy_rr_news.png"
+    },
+    {
+        "name": "RTL - Best",
+        "country": "Italy",
+        "url": "https://streamingv2.shoutcast.com/rtl-1025-best",
+        "icon": "italy_rtl_-_best.png"
+    },
+    {
+        "name": "RTL - Napule",
+        "country": "Italy",
+        "url": "https://streamingv2.shoutcast.com/rtl-1025-napule",
+        "icon": "italy_rtl_-_napule.png"
+    },
+    {
+        "name": "RTL - Romeo & Juliet",
+        "country": "Italy",
+        "url": "https://streamingv2.shoutcast.com/rtl-1025-romeoandjuliet",
+        "icon": "italy_rtl_-_romeo_&_juliet.png"
+    },
+    {
+        "name": "RTL 102.5",
+        "country": "Italy",
+        "url": "https://streamingv2.shoutcast.com/rtl-1025",
+        "icon": "italy_rtl_102.5.png"
+    },
+    {
+        "name": "RTL 102.5 DOC",
+        "country": "Italy",
+        "url": "https://streamingv2.shoutcast.com/rtl-1025-doc",
+        "icon": "italy_rtl_102.5_doc.png"
+    },
+    {
+        "name": "RTL Via Radio",
+        "country": "Italy",
+        "url": "http://eu9.fastcast4u.com:5068/;",
+        "icon": "italy_rtl_via_radio.png"
+    },
+    {
+        "name": "RTT",
+        "country": "Italy",
+        "url": "https://str01.fluidstream.net/rtt.mp3",
+        "icon": "italy_rtt.png"
     },
     {
         "name": "Subasio PIU",
@@ -3912,6 +3912,12 @@
         "icon": "morocco_aswat_fm.png"
     },
     {
+        "name": "aswatalweb",
+        "country": "Morocco",
+        "url": "https://stream.zeno.fm/wfu6dm8w1qruv",
+        "icon": "morocco_aswatalweb.png"
+    },
+    {
         "name": "Azawan Amazigh",
         "country": "Morocco",
         "url": "http://151.80.33.75:9000/;",
@@ -3940,6 +3946,18 @@
         "country": "Morocco",
         "url": "https://streaming2.rimradio.ma/dibradio",
         "icon": "morocco_dib_radio.png"
+    },
+    {
+        "name": "Hexagone FM",
+        "country": "Morocco",
+        "url": "https://streamingv2.shoutcast.com/HexagoneFM-LaFabuleuseMusique",
+        "icon": "morocco_hexagone_fm.png"
+    },
+    {
+        "name": "Hit Radio",
+        "country": "Morocco",
+        "url": "http://icepe1.infomaniak.ch/hitradio-Morocco-128.mp3",
+        "icon": "morocco_hit_radio.png"
     },
     {
         "name": "HIT Radio Buzz",
@@ -3976,18 +3994,6 @@
         "country": "Morocco",
         "url": "https://rnb.ice.infomaniak.ch/rnb-128.mp3",
         "icon": "morocco_hit_radio_rnb.png"
-    },
-    {
-        "name": "Hexagone FM",
-        "country": "Morocco",
-        "url": "https://streamingv2.shoutcast.com/HexagoneFM-LaFabuleuseMusique",
-        "icon": "morocco_hexagone_fm.png"
-    },
-    {
-        "name": "Hit Radio",
-        "country": "Morocco",
-        "url": "http://icepe1.infomaniak.ch/hitradio-Morocco-128.mp3",
-        "icon": "morocco_hit_radio.png"
     },
     {
         "name": "IzlanZik",
@@ -4120,12 +4126,6 @@
         "country": "Morocco",
         "url": "http://media.yabiladi.com:8000/stream",
         "icon": "morocco_yabiladi.png"
-    },
-    {
-        "name": "aswatalweb",
-        "country": "Morocco",
-        "url": "https://stream.zeno.fm/wfu6dm8w1qruv",
-        "icon": "morocco_aswatalweb.png"
     },
     {
         "name": "Ariel radio",
@@ -4656,54 +4656,6 @@
         "icon": "portugal_popular_fm.png"
     },
     {
-        "name": "RCI FM",
-        "country": "Portugal",
-        "url": "https://nl.digitalrm.pt:8002/stream",
-        "icon": "portugal_rci_fm.png"
-    },
-    {
-        "name": "RDP Africa",
-        "country": "Portugal",
-        "url": "https://radiocast.rtp.pt/rdpafrica80a.mp3",
-        "icon": "portugal_rdp_africa.png"
-    },
-    {
-        "name": "RDP Antena 1",
-        "country": "Portugal",
-        "url": "https://radiocast.rtp.pt/antena180a.mp3",
-        "icon": "portugal_rdp_antena_1.png"
-    },
-    {
-        "name": "RDP Antena 3",
-        "country": "Portugal",
-        "url": "https://radiocast.rtp.pt/antena380a.mp3",
-        "icon": "portugal_rdp_antena_3.png"
-    },
-    {
-        "name": "RDP Internacional",
-        "country": "Portugal",
-        "url": "https://radiocast.rtp.pt/rdpint80a.mp3",
-        "icon": "portugal_rdp_internacional.png"
-    },
-    {
-        "name": "RPS Radio Popular de Soure",
-        "country": "Portugal",
-        "url": "https://nl.digitalrm.pt:8072/stream",
-        "icon": "portugal_rps_radio_popular_de_soure.png"
-    },
-    {
-        "name": "RTP Antena 2",
-        "country": "Portugal",
-        "url": "https://radiocast.rtp.pt/antena280a.mp3",
-        "icon": "portugal_rtp_antena_2.png"
-    },
-    {
-        "name": "RVB Radio Voz Basto",
-        "country": "Portugal",
-        "url": "https://radios.justweb.pt/8018/;",
-        "icon": "portugal_rvb_radio_voz_basto.png"
-    },
-    {
         "name": "Radio 5",
         "country": "Portugal",
         "url": "https://radios.justweb.pt/8042/stream",
@@ -4758,12 +4710,6 @@
         "icon": "portugal_radio_cister_fm.png"
     },
     {
-        "name": "Radio Clube Foz do Mondego",
-        "country": "Portugal",
-        "url": "https://nl.digitalrm.pt:8216/stream",
-        "icon": "portugal_radio_clube_foz_do_mondego.png"
-    },
-    {
         "name": "Radio Clube de Arganil",
         "country": "Portugal",
         "url": "http://cast.evsportugal.com:8135/stream",
@@ -4792,6 +4738,12 @@
         "country": "Portugal",
         "url": "http://link.radios.pt/radioclubedepenafiel",
         "icon": "portugal_radio_clube_de_penafiel.png"
+    },
+    {
+        "name": "Radio Clube Foz do Mondego",
+        "country": "Portugal",
+        "url": "https://nl.digitalrm.pt:8216/stream",
+        "icon": "portugal_radio_clube_foz_do_mondego.png"
     },
     {
         "name": "Radio Comercial",
@@ -4950,10 +4902,58 @@
         "icon": "portugal_radio_xl_romantica.png"
     },
     {
+        "name": "RCI FM",
+        "country": "Portugal",
+        "url": "https://nl.digitalrm.pt:8002/stream",
+        "icon": "portugal_rci_fm.png"
+    },
+    {
+        "name": "RDP Africa",
+        "country": "Portugal",
+        "url": "https://radiocast.rtp.pt/rdpafrica80a.mp3",
+        "icon": "portugal_rdp_africa.png"
+    },
+    {
+        "name": "RDP Antena 1",
+        "country": "Portugal",
+        "url": "https://radiocast.rtp.pt/antena180a.mp3",
+        "icon": "portugal_rdp_antena_1.png"
+    },
+    {
+        "name": "RDP Antena 3",
+        "country": "Portugal",
+        "url": "https://radiocast.rtp.pt/antena380a.mp3",
+        "icon": "portugal_rdp_antena_3.png"
+    },
+    {
+        "name": "RDP Internacional",
+        "country": "Portugal",
+        "url": "https://radiocast.rtp.pt/rdpint80a.mp3",
+        "icon": "portugal_rdp_internacional.png"
+    },
+    {
         "name": "Record FM",
         "country": "Portugal",
         "url": "https://nl.digitalrm.pt:8010/stream",
         "icon": "portugal_record_fm.png"
+    },
+    {
+        "name": "RPS Radio Popular de Soure",
+        "country": "Portugal",
+        "url": "https://nl.digitalrm.pt:8072/stream",
+        "icon": "portugal_rps_radio_popular_de_soure.png"
+    },
+    {
+        "name": "RTP Antena 2",
+        "country": "Portugal",
+        "url": "https://radiocast.rtp.pt/antena280a.mp3",
+        "icon": "portugal_rtp_antena_2.png"
+    },
+    {
+        "name": "RVB Radio Voz Basto",
+        "country": "Portugal",
+        "url": "https://radios.justweb.pt/8018/;",
+        "icon": "portugal_rvb_radio_voz_basto.png"
     },
     {
         "name": "Smooth FM",
@@ -4974,12 +4974,6 @@
         "icon": "portugal_tds.png"
     },
     {
-        "name": "TSF Radio Noticias",
-        "country": "Portugal",
-        "url": "https://tsfdirecto.tsf.pt/tsfdirecto.mp3",
-        "icon": "portugal_tsf_radio_noticias.png"
-    },
-    {
         "name": "Terra Quente FM",
         "country": "Portugal",
         "url": "http://centova.radios.pt:9402",
@@ -4996,6 +4990,12 @@
         "country": "Portugal",
         "url": "https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream",
         "icon": "portugal_tropical_fm.png"
+    },
+    {
+        "name": "TSF Radio Noticias",
+        "country": "Portugal",
+        "url": "https://tsfdirecto.tsf.pt/tsfdirecto.mp3",
+        "icon": "portugal_tsf_radio_noticias.png"
     },
     {
         "name": "Vodafone FM",
@@ -5020,12 +5020,6 @@
         "country": "Spain",
         "url": "http://nerbioi.radiopopular.eus:8000/bizkaiairratia2",
         "icon": "spain_bizkaia_irratia.png"
-    },
-    {
-        "name": "COPE",
-        "country": "Spain",
-        "url": "http://centova.nsprimario.com:8008/stream",
-        "icon": "spain_cope.png"
     },
     {
         "name": "Cadena 100",
@@ -5064,16 +5058,22 @@
         "icon": "spain_ciudad_real.png"
     },
     {
-        "name": "Crtvg RG Musica",
+        "name": "COPE",
         "country": "Spain",
-        "url": "https://canalextremadura-radio.flumotion.com/radiogalega-musica/live.mp3",
-        "icon": "spain_crtvg_rg_musica.png"
+        "url": "http://centova.nsprimario.com:8008/stream",
+        "icon": "spain_cope.png"
     },
     {
         "name": "Crtvg Radio Galega",
         "country": "Spain",
         "url": "https://wecast-b01-02.flumotion.com/radiogalega/live.mp3",
         "icon": "spain_crtvg_radio_galega.png"
+    },
+    {
+        "name": "Crtvg RG Musica",
+        "country": "Spain",
+        "url": "https://canalextremadura-radio.flumotion.com/radiogalega-musica/live.mp3",
+        "icon": "spain_crtvg_rg_musica.png"
     },
     {
         "name": "Decisiun Radio",
@@ -5104,6 +5104,12 @@
         "country": "Spain",
         "url": "http://mp3-eitb.stream.flumotion.com/eitb/eitbmusika.mp3",
         "icon": "spain_eitb_musika.png"
+    },
+    {
+        "name": "esRadio",
+        "country": "Spain",
+        "url": "https://server10.emitironline.com:9604/radio.mp3",
+        "icon": "spain_esradio.png"
     },
     {
         "name": "Euskadi Irratia",
@@ -5220,30 +5226,6 @@
         "icon": "spain_onda_vasca_gipuzkoa.png"
     },
     {
-        "name": "RNE Radio 5 Todo Noticias",
-        "country": "Spain",
-        "url": "https://dispatcher.rndfnk.com/crtve/rne5/nav/mp3/high",
-        "icon": "spain_rne_radio_5_todo_noticias.png"
-    },
-    {
-        "name": "RNE Radio Nacional",
-        "country": "Spain",
-        "url": "https://dispatcher.rndfnk.com/crtve/rne1/ara/mp3/high",
-        "icon": "spain_rne_radio_nacional.png"
-    },
-    {
-        "name": "RNE Radio Nacional Madrid",
-        "country": "Spain",
-        "url": "https://dispatcher.rndfnk.com/crtve/rne1/mad/mp3/high",
-        "icon": "spain_rne_radio_nacional_madrid.png"
-    },
-    {
-        "name": "RNE Radio Nacional Navarra",
-        "country": "Spain",
-        "url": "https://dispatcher.rndfnk.com/crtve/rne1/nav/mp3/high",
-        "icon": "spain_rne_radio_nacional_navarra.png"
-    },
-    {
         "name": "Radio 010",
         "country": "Spain",
         "url": "http://hyades.shoutca.st:8544/;",
@@ -5352,6 +5334,30 @@
         "icon": "spain_radio_vitoria.png"
     },
     {
+        "name": "RNE Radio 5 Todo Noticias",
+        "country": "Spain",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne5/nav/mp3/high",
+        "icon": "spain_rne_radio_5_todo_noticias.png"
+    },
+    {
+        "name": "RNE Radio Nacional",
+        "country": "Spain",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne1/ara/mp3/high",
+        "icon": "spain_rne_radio_nacional.png"
+    },
+    {
+        "name": "RNE Radio Nacional Madrid",
+        "country": "Spain",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne1/mad/mp3/high",
+        "icon": "spain_rne_radio_nacional_madrid.png"
+    },
+    {
+        "name": "RNE Radio Nacional Navarra",
+        "country": "Spain",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne1/nav/mp3/high",
+        "icon": "spain_rne_radio_nacional_navarra.png"
+    },
+    {
         "name": "Rock FM",
         "country": "Spain",
         "url": "https://flucast-b02-02.flumotion.com/cope/rockfm-low.mp3",
@@ -5374,12 +5380,6 @@
         "country": "Spain",
         "url": "http://ns3.mycloud-apps.es:8039/stream",
         "icon": "spain_vida_fm.png"
-    },
-    {
-        "name": "esRadio",
-        "country": "Spain",
-        "url": "https://server10.emitironline.com:9604/radio.mp3",
-        "icon": "spain_esradio.png"
     },
     {
         "name": "Bandit classic",
@@ -5862,12 +5862,6 @@
         "icon": "switzerland_classix_radio.png"
     },
     {
-        "name": "ENERGYSG",
-        "country": "Switzerland",
-        "url": "https://energystgallen.ice.infomaniak.ch/energystgallen-high.mp3",
-        "icon": "switzerland_energysg.png"
-    },
-    {
         "name": "Energy Basel",
         "country": "Switzerland",
         "url": "https://energybasel.ice.infomaniak.ch/energybasel-high.mp3",
@@ -5884,6 +5878,12 @@
         "country": "Switzerland",
         "url": "https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3",
         "icon": "switzerland_energy_zurich.png"
+    },
+    {
+        "name": "ENERGYSG",
+        "country": "Switzerland",
+        "url": "https://energystgallen.ice.infomaniak.ch/energystgallen-high.mp3",
+        "icon": "switzerland_energysg.png"
     },
     {
         "name": "Espace 2",
@@ -5962,54 +5962,6 @@
         "country": "Switzerland",
         "url": "https://stream.srg-ssr.ch/m/option-musique/mp3_128",
         "icon": "switzerland_option_musique.png"
-    },
-    {
-        "name": "RFJ FM",
-        "country": "Switzerland",
-        "url": "https://rfj.ice.infomaniak.ch/rfj-low.mp3",
-        "icon": "switzerland_rfj_fm.png"
-    },
-    {
-        "name": "RJB FM",
-        "country": "Switzerland",
-        "url": "https://rjb.ice.infomaniak.ch/rjb-low.mp3",
-        "icon": "switzerland_rjb_fm.png"
-    },
-    {
-        "name": "RSI Rete Due",
-        "country": "Switzerland",
-        "url": "https://stream.srg-ssr.ch/m/retedue/mp3_128",
-        "icon": "switzerland_rsi_rete_due.png"
-    },
-    {
-        "name": "RSI Rete Tre",
-        "country": "Switzerland",
-        "url": "https://stream.srg-ssr.ch/m/retetre/mp3_128",
-        "icon": "switzerland_rsi_rete_tre.png"
-    },
-    {
-        "name": "RSI Rete Uno",
-        "country": "Switzerland",
-        "url": "https://stream.srg-ssr.ch/m/reteuno/mp3_128",
-        "icon": "switzerland_rsi_rete_uno.png"
-    },
-    {
-        "name": "RTR Radio Rumantsch",
-        "country": "Switzerland",
-        "url": "https://stream.srg-ssr.ch/m/rr/mp3_128",
-        "icon": "switzerland_rtr_radio_rumantsch.png"
-    },
-    {
-        "name": "RTS Couleur 3",
-        "country": "Switzerland",
-        "url": "https://stream.srg-ssr.ch/m/couleur3/mp3_128",
-        "icon": "switzerland_rts_couleur_3.png"
-    },
-    {
-        "name": "RTS La Premiere",
-        "country": "Switzerland",
-        "url": "https://stream.srg-ssr.ch/m/la-1ere/mp3_128",
-        "icon": "switzerland_rts_la_premiere.png"
     },
     {
         "name": "Radio 1",
@@ -6168,16 +6120,16 @@
         "icon": "switzerland_radio_r.png"
     },
     {
-        "name": "Radio RTN",
-        "country": "Switzerland",
-        "url": "https://rtn.ice.infomaniak.ch/rtn-low.mp3",
-        "icon": "switzerland_radio_rtn.png"
-    },
-    {
         "name": "Radio Rottu Oberwallis",
         "country": "Switzerland",
         "url": "https://streams.rro.ch/rro.mp3",
         "icon": "switzerland_radio_rottu_oberwallis.png"
+    },
+    {
+        "name": "Radio RTN",
+        "country": "Switzerland",
+        "url": "https://rtn.ice.infomaniak.ch/rtn-low.mp3",
+        "icon": "switzerland_radio_rtn.png"
     },
     {
         "name": "Radio SRF 1",
@@ -6222,10 +6174,22 @@
         "icon": "switzerland_radiobus_fm.png"
     },
     {
+        "name": "RFJ FM",
+        "country": "Switzerland",
+        "url": "https://rfj.ice.infomaniak.ch/rfj-low.mp3",
+        "icon": "switzerland_rfj_fm.png"
+    },
+    {
         "name": "Rhone FM",
         "country": "Switzerland",
         "url": "https://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3",
         "icon": "switzerland_rhone_fm.png"
+    },
+    {
+        "name": "RJB FM",
+        "country": "Switzerland",
+        "url": "https://rjb.ice.infomaniak.ch/rjb-low.mp3",
+        "icon": "switzerland_rjb_fm.png"
     },
     {
         "name": "Rock Star",
@@ -6240,16 +6204,58 @@
         "icon": "switzerland_rouge_fm.png"
     },
     {
-        "name": "SRF 4 News",
+        "name": "rro Swiss Melody",
         "country": "Switzerland",
-        "url": "http://rstreaming.solnet.ch/srf4news",
-        "icon": "switzerland_srf_4_news.png"
+        "url": "https://streams.rro.ch/swissmelody.mp3",
+        "icon": "switzerland_rro_swiss_melody.png"
+    },
+    {
+        "name": "RSI Rete Due",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/retedue/mp3_128",
+        "icon": "switzerland_rsi_rete_due.png"
+    },
+    {
+        "name": "RSI Rete Tre",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/retetre/mp3_128",
+        "icon": "switzerland_rsi_rete_tre.png"
+    },
+    {
+        "name": "RSI Rete Uno",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/reteuno/mp3_128",
+        "icon": "switzerland_rsi_rete_uno.png"
+    },
+    {
+        "name": "RTR Radio Rumantsch",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/rr/mp3_128",
+        "icon": "switzerland_rtr_radio_rumantsch.png"
+    },
+    {
+        "name": "RTS Couleur 3",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/couleur3/mp3_128",
+        "icon": "switzerland_rts_couleur_3.png"
+    },
+    {
+        "name": "RTS La Premiere",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/la-1ere/mp3_128",
+        "icon": "switzerland_rts_la_premiere.png"
     },
     {
         "name": "Spoon Radio",
         "country": "Switzerland",
         "url": "https://spoonradio.ice.infomaniak.ch/spoonradio-high.mp3",
         "icon": "switzerland_spoon_radio.png"
+    },
+    {
+        "name": "SRF 4 News",
+        "country": "Switzerland",
+        "url": "http://rstreaming.solnet.ch/srf4news",
+        "icon": "switzerland_srf_4_news.png"
     },
     {
         "name": "Stadtfilter",
@@ -6328,12 +6334,6 @@
         "country": "Switzerland",
         "url": "https://streamingr.broadcastradio.com:10295/wrs",
         "icon": "switzerland_world_radio_switzerland.png"
-    },
-    {
-        "name": "rro Swiss Melody",
-        "country": "Switzerland",
-        "url": "https://streams.rro.ch/swissmelody.mp3",
-        "icon": "switzerland_rro_swiss_melody.png"
     },
     {
         "name": "Bayram fm",
@@ -6484,240 +6484,6 @@
         "country": "Turkey",
         "url": "https://stream.radyolarburada.com/radio/8020/yonradyo",
         "icon": "turkey_yon_radyo_-_istanbul.png"
-    },
-    {
-        "name": "Bott radio network",
-        "country": "USA",
-        "url": "https://ic1.sslstream.com:8000/bottradio.mp3",
-        "icon": "usa_bott_radio_network.png"
-    },
-    {
-        "name": "Chileville radio",
-        "country": "USA",
-        "url": "http://us3.internet-radio.com:8313/;",
-        "icon": "usa_chileville_radio.png"
-    },
-    {
-        "name": "Classical mpr - classical 24",
-        "country": "USA",
-        "url": "https://cms.stream.publicradio.org/cms.mp3",
-        "icon": "usa_classical_mpr_-_classical_24.png"
-    },
-    {
-        "name": "Covenant network",
-        "country": "USA",
-        "url": "http://covenantnet.stream.miriamtech.net:8000/stream-sfo",
-        "icon": "usa_covenant_network.png"
-    },
-    {
-        "name": "Ewtn catholic radio",
-        "country": "USA",
-        "url": "https://s37.myradiostream.com:13908/listen.mp3",
-        "icon": "usa_ewtn_catholic_radio.png"
-    },
-    {
-        "name": "Faith 1090",
-        "country": "USA",
-        "url": "https://nwm.streamguys1.com/ktis-am-4",
-        "icon": "usa_faith_1090.png"
-    },
-    {
-        "name": "Freedom radio",
-        "country": "USA",
-        "url": "https://stream.freedomradiofm.com/live.mp3",
-        "icon": "usa_freedom_radio.png"
-    },
-    {
-        "name": "Georgia public broadcasting",
-        "country": "USA",
-        "url": "https://gpb.streamguys1.com/gpb-radio-mp3",
-        "icon": "usa_georgia_public_broadcasting.png"
-    },
-    {
-        "name": "His radio",
-        "country": "USA",
-        "url": "https://myradio24.org/walcon",
-        "icon": "usa_his_radio.png"
-    },
-    {
-        "name": "Ideas network",
-        "country": "USA",
-        "url": "https://wpr-ice.streamguys1.com/wpr-ideas-mp3-64",
-        "icon": "usa_ideas_network.png"
-    },
-    {
-        "name": "Iowa public radio classical",
-        "country": "USA",
-        "url": "https://classical-stream.iowapublicradio.org/Classical.mp3",
-        "icon": "usa_iowa_public_radio_classical.png"
-    },
-    {
-        "name": "Iowa public radio news and studio one",
-        "country": "USA",
-        "url": "https://studioone-stream.iowapublicradio.org/StudioOne.mp3",
-        "icon": "usa_iowa_public_radio_news_and_studio_one.png"
-    },
-    {
-        "name": "Kinship christian radio",
-        "country": "USA",
-        "url": "http://quarrel.str3am.com:7780/stream2",
-        "icon": "usa_kinship_christian_radio.png"
-    },
-    {
-        "name": "La poderosa 96.1 fm",
-        "country": "USA",
-        "url": "https://stream.radiojar.com/2860dfxpvzzuv",
-        "icon": "usa_la_poderosa_96.1_fm.png"
-    },
-    {
-        "name": "Light praise radio",
-        "country": "USA",
-        "url": "https://stream.ktlf.radio/radio/8000/theLight",
-        "icon": "usa_light_praise_radio.png"
-    },
-    {
-        "name": "Moody radio",
-        "country": "USA",
-        "url": "https://primary.moodyradiostream.org/wmbifm.mp3",
-        "icon": "usa_moody_radio.png"
-    },
-    {
-        "name": "Msnbc",
-        "country": "USA",
-        "url": "http://peridot.streamguys.com:7850/live",
-        "icon": "usa_msnbc.png"
-    },
-    {
-        "name": "North carolina public radio",
-        "country": "USA",
-        "url": "https://edg-iad-wunc-ice.streamguys1.com/wunc-hd2-128-mp3",
-        "icon": "usa_north_carolina_public_radio.png"
-    },
-    {
-        "name": "Npr news and talk",
-        "country": "USA",
-        "url": "https://npr-ice.streamguys1.com/live.mp3",
-        "icon": "usa_npr_news_and_talk.png"
-    },
-    {
-        "name": "Radio 74 internationale",
-        "country": "USA",
-        "url": "http://peace.str3am.com:7020/live",
-        "icon": "usa_radio_74_internationale.png"
-    },
-    {
-        "name": "Radio aleluja",
-        "country": "USA",
-        "url": "https://radio.aleluya.cloud/radio/8010/stream",
-        "icon": "usa_radio_aleluja.png"
-    },
-    {
-        "name": "Radio bilingue",
-        "country": "USA",
-        "url": "http://50.245.174.62:7070/broadwave.mp3",
-        "icon": "usa_radio_bilingue.png"
-    },
-    {
-        "name": "Radio heartland - mpr",
-        "country": "USA",
-        "url": "https://rockthecradle.stream.publicradio.org/radioheartland.mp3",
-        "icon": "usa_radio_heartland_-_mpr.png"
-    },
-    {
-        "name": "Radio iq",
-        "country": "USA",
-        "url": "https://wvtf.streamguys1.com/wvtf-edge/radioiq-mp3-64/icecast.audio",
-        "icon": "usa_radio_iq.png"
-    },
-    {
-        "name": "Radio vida",
-        "country": "USA",
-        "url": "http://shout2.brnstream.com:8006/;",
-        "icon": "usa_radio_vida.png"
-    },
-    {
-        "name": "Real presence radio",
-        "country": "USA",
-        "url": "http://realpresence.stream.miriamtech.net:13700/kgll",
-        "icon": "usa_real_presence_radio.png"
-    },
-    {
-        "name": "Rejoice radio",
-        "country": "USA",
-        "url": "http://cld2099ice.audiovideoweb.com:8000/4c3ice5521",
-        "icon": "usa_rejoice_radio.png"
-    },
-    {
-        "name": "Sos radio network",
-        "country": "USA",
-        "url": "https://ic2.sslstream.com:8000/sosnet.mp3",
-        "icon": "usa_sos_radio_network.png"
-    },
-    {
-        "name": "Strong tower radio",
-        "country": "USA",
-        "url": "https://strongtowerradio.streamguys1.com/smartmetadata-live",
-        "icon": "usa_strong_tower_radio.png"
-    },
-    {
-        "name": "Supertalk mississippi",
-        "country": "USA",
-        "url": "https://live.wostreaming.net/direct/telesouth-wfmnfmmp3-imc1",
-        "icon": "usa_supertalk_mississippi.png"
-    },
-    {
-        "name": "The oasis network",
-        "country": "USA",
-        "url": "https://oasis.streamguys1.com/live-mp3",
-        "icon": "usa_the_oasis_network.png"
-    },
-    {
-        "name": "Tudn radio",
-        "country": "USA",
-        "url": "https://live.wostreaming.net/direct/goodkarma-weflammp3-ibc2",
-        "icon": "usa_tudn_radio.png"
-    },
-    {
-        "name": "Utah public radio",
-        "country": "USA",
-        "url": "http://uprxstreamer.usu.edu:8000/stream",
-        "icon": "usa_utah_public_radio.png"
-    },
-    {
-        "name": "Way fm",
-        "country": "USA",
-        "url": "https://wayfm.streamguys1.com/kpwa.mp3",
-        "icon": "usa_way_fm.png"
-    },
-    {
-        "name": "Wcbu hd2",
-        "country": "USA",
-        "url": "https://wglt-ice.streamguys1.com/wcbuclassical-mp3",
-        "icon": "usa_wcbu_hd2.png"
-    },
-    {
-        "name": "Wnyc - new york public radio",
-        "country": "USA",
-        "url": "https://fm939.wnyc.org/wnycfm",
-        "icon": "usa_wnyc_-_new_york_public_radio.png"
-    },
-    {
-        "name": "Wpr - wisconsin public radio news and classical",
-        "country": "USA",
-        "url": "https://wpr-ice.streamguys1.com/wpr-music-mp3-96",
-        "icon": "usa_wpr_-_wisconsin_public_radio_news_and_classical.png"
-    },
-    {
-        "name": "Wyoming public radio",
-        "country": "USA",
-        "url": "https://wyoming-public-ice.streamguys1.com/WPR128MP3",
-        "icon": "usa_wyoming_public_radio.png"
-    },
-    {
-        "name": "Yellowstone public radio",
-        "country": "USA",
-        "url": "https://knmc.streamguys1.com/live-mp3",
-        "icon": "usa_yellowstone_public_radio.png"
     },
     {
         "name": "Angel radio",
@@ -7066,5 +6832,239 @@
         "country": "United Kingdom",
         "url": "https://radio.virginradio.co.uk/stream",
         "icon": "united kingdom_virgin_radio_uk.png"
+    },
+    {
+        "name": "Bott radio network",
+        "country": "USA",
+        "url": "https://ic1.sslstream.com:8000/bottradio.mp3",
+        "icon": "usa_bott_radio_network.png"
+    },
+    {
+        "name": "Chileville radio",
+        "country": "USA",
+        "url": "http://us3.internet-radio.com:8313/;",
+        "icon": "usa_chileville_radio.png"
+    },
+    {
+        "name": "Classical mpr - classical 24",
+        "country": "USA",
+        "url": "https://cms.stream.publicradio.org/cms.mp3",
+        "icon": "usa_classical_mpr_-_classical_24.png"
+    },
+    {
+        "name": "Covenant network",
+        "country": "USA",
+        "url": "http://covenantnet.stream.miriamtech.net:8000/stream-sfo",
+        "icon": "usa_covenant_network.png"
+    },
+    {
+        "name": "Ewtn catholic radio",
+        "country": "USA",
+        "url": "https://s37.myradiostream.com:13908/listen.mp3",
+        "icon": "usa_ewtn_catholic_radio.png"
+    },
+    {
+        "name": "Faith 1090",
+        "country": "USA",
+        "url": "https://nwm.streamguys1.com/ktis-am-4",
+        "icon": "usa_faith_1090.png"
+    },
+    {
+        "name": "Freedom radio",
+        "country": "USA",
+        "url": "https://stream.freedomradiofm.com/live.mp3",
+        "icon": "usa_freedom_radio.png"
+    },
+    {
+        "name": "Georgia public broadcasting",
+        "country": "USA",
+        "url": "https://gpb.streamguys1.com/gpb-radio-mp3",
+        "icon": "usa_georgia_public_broadcasting.png"
+    },
+    {
+        "name": "His radio",
+        "country": "USA",
+        "url": "https://myradio24.org/walcon",
+        "icon": "usa_his_radio.png"
+    },
+    {
+        "name": "Ideas network",
+        "country": "USA",
+        "url": "https://wpr-ice.streamguys1.com/wpr-ideas-mp3-64",
+        "icon": "usa_ideas_network.png"
+    },
+    {
+        "name": "Iowa public radio classical",
+        "country": "USA",
+        "url": "https://classical-stream.iowapublicradio.org/Classical.mp3",
+        "icon": "usa_iowa_public_radio_classical.png"
+    },
+    {
+        "name": "Iowa public radio news and studio one",
+        "country": "USA",
+        "url": "https://studioone-stream.iowapublicradio.org/StudioOne.mp3",
+        "icon": "usa_iowa_public_radio_news_and_studio_one.png"
+    },
+    {
+        "name": "Kinship christian radio",
+        "country": "USA",
+        "url": "http://quarrel.str3am.com:7780/stream2",
+        "icon": "usa_kinship_christian_radio.png"
+    },
+    {
+        "name": "La poderosa 96.1 fm",
+        "country": "USA",
+        "url": "https://stream.radiojar.com/2860dfxpvzzuv",
+        "icon": "usa_la_poderosa_96.1_fm.png"
+    },
+    {
+        "name": "Light praise radio",
+        "country": "USA",
+        "url": "https://stream.ktlf.radio/radio/8000/theLight",
+        "icon": "usa_light_praise_radio.png"
+    },
+    {
+        "name": "Moody radio",
+        "country": "USA",
+        "url": "https://primary.moodyradiostream.org/wmbifm.mp3",
+        "icon": "usa_moody_radio.png"
+    },
+    {
+        "name": "Msnbc",
+        "country": "USA",
+        "url": "http://peridot.streamguys.com:7850/live",
+        "icon": "usa_msnbc.png"
+    },
+    {
+        "name": "North carolina public radio",
+        "country": "USA",
+        "url": "https://edg-iad-wunc-ice.streamguys1.com/wunc-hd2-128-mp3",
+        "icon": "usa_north_carolina_public_radio.png"
+    },
+    {
+        "name": "Npr news and talk",
+        "country": "USA",
+        "url": "https://npr-ice.streamguys1.com/live.mp3",
+        "icon": "usa_npr_news_and_talk.png"
+    },
+    {
+        "name": "Radio 74 internationale",
+        "country": "USA",
+        "url": "http://peace.str3am.com:7020/live",
+        "icon": "usa_radio_74_internationale.png"
+    },
+    {
+        "name": "Radio aleluja",
+        "country": "USA",
+        "url": "https://radio.aleluya.cloud/radio/8010/stream",
+        "icon": "usa_radio_aleluja.png"
+    },
+    {
+        "name": "Radio bilingue",
+        "country": "USA",
+        "url": "http://50.245.174.62:7070/broadwave.mp3",
+        "icon": "usa_radio_bilingue.png"
+    },
+    {
+        "name": "Radio heartland - mpr",
+        "country": "USA",
+        "url": "https://rockthecradle.stream.publicradio.org/radioheartland.mp3",
+        "icon": "usa_radio_heartland_-_mpr.png"
+    },
+    {
+        "name": "Radio iq",
+        "country": "USA",
+        "url": "https://wvtf.streamguys1.com/wvtf-edge/radioiq-mp3-64/icecast.audio",
+        "icon": "usa_radio_iq.png"
+    },
+    {
+        "name": "Radio vida",
+        "country": "USA",
+        "url": "http://shout2.brnstream.com:8006/;",
+        "icon": "usa_radio_vida.png"
+    },
+    {
+        "name": "Real presence radio",
+        "country": "USA",
+        "url": "http://realpresence.stream.miriamtech.net:13700/kgll",
+        "icon": "usa_real_presence_radio.png"
+    },
+    {
+        "name": "Rejoice radio",
+        "country": "USA",
+        "url": "http://cld2099ice.audiovideoweb.com:8000/4c3ice5521",
+        "icon": "usa_rejoice_radio.png"
+    },
+    {
+        "name": "Sos radio network",
+        "country": "USA",
+        "url": "https://ic2.sslstream.com:8000/sosnet.mp3",
+        "icon": "usa_sos_radio_network.png"
+    },
+    {
+        "name": "Strong tower radio",
+        "country": "USA",
+        "url": "https://strongtowerradio.streamguys1.com/smartmetadata-live",
+        "icon": "usa_strong_tower_radio.png"
+    },
+    {
+        "name": "Supertalk mississippi",
+        "country": "USA",
+        "url": "https://live.wostreaming.net/direct/telesouth-wfmnfmmp3-imc1",
+        "icon": "usa_supertalk_mississippi.png"
+    },
+    {
+        "name": "The oasis network",
+        "country": "USA",
+        "url": "https://oasis.streamguys1.com/live-mp3",
+        "icon": "usa_the_oasis_network.png"
+    },
+    {
+        "name": "Tudn radio",
+        "country": "USA",
+        "url": "https://live.wostreaming.net/direct/goodkarma-weflammp3-ibc2",
+        "icon": "usa_tudn_radio.png"
+    },
+    {
+        "name": "Utah public radio",
+        "country": "USA",
+        "url": "http://uprxstreamer.usu.edu:8000/stream",
+        "icon": "usa_utah_public_radio.png"
+    },
+    {
+        "name": "Way fm",
+        "country": "USA",
+        "url": "https://wayfm.streamguys1.com/kpwa.mp3",
+        "icon": "usa_way_fm.png"
+    },
+    {
+        "name": "Wcbu hd2",
+        "country": "USA",
+        "url": "https://wglt-ice.streamguys1.com/wcbuclassical-mp3",
+        "icon": "usa_wcbu_hd2.png"
+    },
+    {
+        "name": "Wnyc - new york public radio",
+        "country": "USA",
+        "url": "https://fm939.wnyc.org/wnycfm",
+        "icon": "usa_wnyc_-_new_york_public_radio.png"
+    },
+    {
+        "name": "Wpr - wisconsin public radio news and classical",
+        "country": "USA",
+        "url": "https://wpr-ice.streamguys1.com/wpr-music-mp3-96",
+        "icon": "usa_wpr_-_wisconsin_public_radio_news_and_classical.png"
+    },
+    {
+        "name": "Wyoming public radio",
+        "country": "USA",
+        "url": "https://wyoming-public-ice.streamguys1.com/WPR128MP3",
+        "icon": "usa_wyoming_public_radio.png"
+    },
+    {
+        "name": "Yellowstone public radio",
+        "country": "USA",
+        "url": "https://knmc.streamguys1.com/live-mp3",
+        "icon": "usa_yellowstone_public_radio.png"
     }
 ]
