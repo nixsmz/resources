@@ -41,5 +41,5 @@ def add(filename: str) -> list:
         except: pass
     return ret
 
-if len(sys.argv) != 2: fatal("html file missing.")
+if len(sys.argv) != 2: add_fatal("html file missing.")
 print(json.dumps(add(sys.argv[1]), indent=4))
