@@ -4,7 +4,7 @@ from fatal import fatal
 
 SIZE = (512,512)
 
-def image_normalize(*args: str):
+def image_normalize(args: list):
     imgfolder = args[0]
     if imgfolder[-1] != '/': imgfolder += '/'
     for filename in glob.glob(f'{imgfolder}*'):
@@ -14,7 +14,7 @@ def image_normalize(*args: str):
             print(f"OK - {filename}")
         except Exception as e: print(f"   - {filename} : {e}")
 
-def image_verify(*args: str):
+def image_verify(args: list):
     jsonfile, imgfolder = args[0], args[1]
     jl = None
     try:

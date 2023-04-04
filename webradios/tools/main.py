@@ -51,5 +51,8 @@ if sys.argv[1] in ['-h','--help']:
     exit(0)
 for x in options:
     if sys.argv[1] in options[x]['opt']:
-        x['f'](sys.argv[2:])
+        try:
+            print(sys.argv[2:])
+            options[x]['f'](sys.argv[2:])
+        except Exception as e : print(f'Usage: python3 {fname} {options[x]["usage"]} ({e})')
         exit(0)

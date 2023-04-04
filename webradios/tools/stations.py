@@ -2,7 +2,7 @@ import  unicodedata, requests, json, bs4
 from bs4 import BeautifulSoup
 from fatal import fatal
 
-def stations_sort(*args: str):
+def stations_sort(args: list):
     jsonfile, outputfile = args[0], args[1]
     jl = None
     try:
@@ -15,17 +15,17 @@ def stations_sort(*args: str):
         with open(outputfile, 'w') as of: json.dump(order, of, indent=4)
     except: fatal("Error while writing to output file.")
 
-def stations_length(*args: str):
+def stations_length(args: list):
     jsonfile = args[0]
     jl = None
     try:
-        with open(jsonfile) as file:
+        with open(jsonfile, 'r') as file:
             jl = json.load(file)
             file.close()
-    except: fatal("Error while reading JSON file.")
+    except: fatal(f"Error while reading JSON file.")
     print(len(jl))
 
-def stations_add(*args: str) -> list:
+def stations_add(args: list) -> list:
     jsonfile, htmlfile, country = args[0], args[1], args[2]
     if country is None: fatal("Country not specified.")
     def stations_add_url(div: bs4.element.Tag) -> str:
@@ -71,7 +71,7 @@ def stations_add(*args: str) -> list:
         except: pass
     return ret
 
-def stations_connect(*args: str):
+def stations_connect(args: list):
     jsonfile = args[0]
     jl = None
     try:
