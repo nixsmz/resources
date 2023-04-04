@@ -1,7 +1,7 @@
-import glob, json
+import glob, json, sys
 
 res = []
-for x in glob.glob("ok/*.json"):
+for x in sys.argv[1:]:
     file = open(x)
     data = json.load(file)
     file.close()
