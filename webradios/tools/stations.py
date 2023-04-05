@@ -69,7 +69,9 @@ def stations_add(args: list) -> list:
                             mem.append(title)
                             print(f"Added: {title.capitalize()}, {ct}")
         except: pass
-    return ret
+    try:
+        with open(jsonfile, 'w+') as of: json.dump(jl, of, indent=4)
+    except: fatal("Error while writing to output file.")
 
 def stations_connect(args: list):
     jsonfile = args[0]
