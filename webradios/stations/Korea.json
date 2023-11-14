@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Gwangju buk fm",
+        "country": "Korea",
+        "url": "http://live.radios.kr:8000/icbn;",
+        "icon": "korea_gwangju_buk_fm.png"
+    },
+    {
+        "name": "Jinli radio",
+        "country": "Korea",
+        "url": "https://streamer.radio.co/s014534c05/listen",
+        "icon": "korea_jinli_radio.png"
+    },
+    {
+        "name": "Mapo fm",
+        "country": "Korea",
+        "url": "http://onair.mapofm.net/mapofm",
+        "icon": "korea_mapo_fm.png"
+    },
+    {
+        "name": "Oldpop cafe",
+        "country": "Korea",
+        "url": "http://cast.page2.kr:7080/;",
+        "icon": "korea_oldpop_cafe.png"
+    },
+    {
+        "name": "Radio free asia - ch 2 vietnamese burmese korean",
+        "country": "Korea",
+        "url": "https://voa17.akacast.akamaistream.net/7/985/433978/v1/ibb.akacast.akamaistream.net/RFALive2",
+        "icon": "korea_radio_free_asia_-_ch_2_vietnamese_burmese_korean.png"
+    },
+    {
+        "name": "Seongn fm",
+        "country": "Korea",
+        "url": "http://115.85.182.39/seongnamfm",
+        "icon": "korea_seongn_fm.png"
+    },
+    {
+        "name": "Y fm",
+        "country": "Korea",
+        "url": "http://220.81.2.147:8000/;",
+        "icon": "korea_y_fm.png"
+    }
+]

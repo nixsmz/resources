@@ -1,0 +1,212 @@
+[
+    {
+        "name": "104.1 fm",
+        "country": "Brazil",
+        "url": "https://cast4.audiostream.com.br:2651/mp3",
+        "icon": "brazil_104.1_fm.png"
+    },
+    {
+        "name": "Antena 1 rio",
+        "country": "Brazil",
+        "url": "http://a1rj.streams.com.br:7801/sm",
+        "icon": "brazil_antena_1_rio.png"
+    },
+    {
+        "name": "Caioba fm",
+        "country": "Brazil",
+        "url": "https://servidor35.brlogic.com:7094/live",
+        "icon": "brazil_caioba_fm.png"
+    },
+    {
+        "name": "Clube fm",
+        "country": "Brazil",
+        "url": "https://shout07.crossradio.com.br:18004/1.mp3",
+        "icon": "brazil_clube_fm.png"
+    },
+    {
+        "name": "Eldorado fm",
+        "country": "Brazil",
+        "url": "http://cast4.audiostream.com.br:8652/mp3",
+        "icon": "brazil_eldorado_fm.png"
+    },
+    {
+        "name": "Gazeta fm",
+        "country": "Brazil",
+        "url": "https://shout25.crossradio.com.br:18156/1;",
+        "icon": "brazil_gazeta_fm.png"
+    },
+    {
+        "name": "Jovem pan fm",
+        "country": "Brazil",
+        "url": "https://shout35.crossradio.com.br:18038/1",
+        "icon": "brazil_jovem_pan_fm.png"
+    },
+    {
+        "name": "Massa fm",
+        "country": "Brazil",
+        "url": "https://radio.saopaulo01.com.br/8198/stream",
+        "icon": "brazil_massa_fm.png"
+    },
+    {
+        "name": "Nativa fm",
+        "country": "Brazil",
+        "url": "https://servidor28.brlogic.com:8264/live",
+        "icon": "brazil_nativa_fm.png"
+    },
+    {
+        "name": "Nossa radio",
+        "country": "Brazil",
+        "url": "https://servidor24.brlogic.com:8524/live",
+        "icon": "brazil_nossa_radio.png"
+    },
+    {
+        "name": "Nossa radio fm",
+        "country": "Brazil",
+        "url": "https://servidor35.brlogic.com:8206/live",
+        "icon": "brazil_nossa_radio_fm.png"
+    },
+    {
+        "name": "Noticia fm",
+        "country": "Brazil",
+        "url": "https://cast.hoost.com.br:20049/live",
+        "icon": "brazil_noticia_fm.png"
+    },
+    {
+        "name": "Nova fm",
+        "country": "Brazil",
+        "url": "http://cast3.hoost.com.br:9071/live",
+        "icon": "brazil_nova_fm.png"
+    },
+    {
+        "name": "Piata fm",
+        "country": "Brazil",
+        "url": "http://str10.hostgator.com.br:9992/;",
+        "icon": "brazil_piata_fm.png"
+    },
+    {
+        "name": "Radio america 750",
+        "country": "Brazil",
+        "url": "https://9735.brasilstream.com.br/mp3",
+        "icon": "brazil_radio_america_750.png"
+    },
+    {
+        "name": "Radio cbn",
+        "country": "Brazil",
+        "url": "https://radio901.webnimbus.cloud/radioalpha/icecast.audio",
+        "icon": "brazil_radio_cbn.png"
+    },
+    {
+        "name": "Radio clube fm",
+        "country": "Brazil",
+        "url": "https://servidor37.brlogic.com:8060/live",
+        "icon": "brazil_radio_clube_fm.png"
+    },
+    {
+        "name": "Radio difusora",
+        "country": "Brazil",
+        "url": "http://euroticast5.euroti.com.br:8114/;",
+        "icon": "brazil_radio_difusora.png"
+    },
+    {
+        "name": "Radio difusora sao francisco",
+        "country": "Brazil",
+        "url": "https://servidor28-3.brlogic.com:8018/live",
+        "icon": "brazil_radio_difusora_sao_francisco.png"
+    },
+    {
+        "name": "Radio educadora fm",
+        "country": "Brazil",
+        "url": "https://streaming.educadora.irdeb.ba.gov.br/stream-01",
+        "icon": "brazil_radio_educadora_fm.png"
+    },
+    {
+        "name": "Radio grenal",
+        "country": "Brazil",
+        "url": "http://cast4.audiostream.com.br:8649/mp3",
+        "icon": "brazil_radio_grenal.png"
+    },
+    {
+        "name": "Radio guaiba",
+        "country": "Brazil",
+        "url": "http://cast4.audiostream.com.br:8007/app",
+        "icon": "brazil_radio_guaiba.png"
+    },
+    {
+        "name": "Radio imaculada conceicao",
+        "country": "Brazil",
+        "url": "https://caikron.com.br:8000/stream",
+        "icon": "brazil_radio_imaculada_conceicao.png"
+    },
+    {
+        "name": "Radio independente",
+        "country": "Brazil",
+        "url": "https://s01.maxcast.com.br:8024/live",
+        "icon": "brazil_radio_independente.png"
+    },
+    {
+        "name": "Radio jk fm",
+        "country": "Brazil",
+        "url": "https://radio.saopaulo01.com.br/8054/stream",
+        "icon": "brazil_radio_jk_fm.png"
+    },
+    {
+        "name": "Radio laser fm",
+        "country": "Brazil",
+        "url": "http://euroticast5.euroti.com.br:8208/;",
+        "icon": "brazil_radio_laser_fm.png"
+    },
+    {
+        "name": "Radio lider fm",
+        "country": "Brazil",
+        "url": "https://264398c.ha.azioncdn.net/primary/radio90_7fm.sdp/playlist.m3u8",
+        "icon": "brazil_radio_lider_fm.png"
+    },
+    {
+        "name": "Radio mania fm",
+        "country": "Brazil",
+        "url": "https://s03.maxcast.com.br:8188/live",
+        "icon": "brazil_radio_mania_fm.png"
+    },
+    {
+        "name": "Radio melodia",
+        "country": "Brazil",
+        "url": "http://radio2.suaradionanet.net:10574/autodj",
+        "icon": "brazil_radio_melodia.png"
+    },
+    {
+        "name": "Radio morada do sol",
+        "country": "Brazil",
+        "url": "https://r13.ciclano.io:15219/live",
+        "icon": "brazil_radio_morada_do_sol.png"
+    },
+    {
+        "name": "Radio sao francisco",
+        "country": "Brazil",
+        "url": "http://cast.hoost.com.br:9734/stream",
+        "icon": "brazil_radio_sao_francisco.png"
+    },
+    {
+        "name": "Radio tropical fm",
+        "country": "Brazil",
+        "url": "http://r13.ciclano.io:8942/live",
+        "icon": "brazil_radio_tropical_fm.png"
+    },
+    {
+        "name": "Rbn - radio boa nova",
+        "country": "Brazil",
+        "url": "http://srv39.brasilstream.com.br:8592/mp3",
+        "icon": "brazil_rbn_-_radio_boa_nova.png"
+    },
+    {
+        "name": "Rede aleluia brasilia",
+        "country": "Brazil",
+        "url": "https://384398c.ha.azioncdn.net/primary/brasilia.sdp/playlist.m3u8",
+        "icon": "brazil_rede_aleluia_brasilia.png"
+    },
+    {
+        "name": "Terra fm",
+        "country": "Brazil",
+        "url": "https://player.srvstm.com/proxy/6862/3",
+        "icon": "brazil_terra_fm.png"
+    }
+]

@@ -1,0 +1,350 @@
+[
+    {
+        "name": "Angel radio",
+        "country": "United Kingdom",
+        "url": "http://s1.viastreaming.net:7030/;",
+        "icon": "united kingdom_angel_radio.png"
+    },
+    {
+        "name": "Angelxtra",
+        "country": "United Kingdom",
+        "url": "http://s8.viastreaming.net:7030/;",
+        "icon": "united kingdom_angelxtra.png"
+    },
+    {
+        "name": "BBC asian network",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_asian_network",
+        "icon": "united kingdom_bbc_asian_network.png"
+    },
+    {
+        "name": "BBC bangla",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_bangla_radio",
+        "icon": "united kingdom_bbc_bangla.png"
+    },
+    {
+        "name": "BBC radio 1",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one",
+        "icon": "united kingdom_bbc_radio_1.png"
+    },
+    {
+        "name": "BBC radio 1 xtra",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_1xtra",
+        "icon": "united kingdom_bbc_radio_1_xtra.png"
+    },
+    {
+        "name": "BBC radio 2",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_two",
+        "icon": "united kingdom_bbc_radio_2.png"
+    },
+    {
+        "name": "BBC radio 3",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_three",
+        "icon": "united kingdom_bbc_radio_3.png"
+    },
+    {
+        "name": "BBC radio 4",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm",
+        "icon": "united kingdom_bbc_radio_4.png"
+    },
+    {
+        "name": "BBC radio 4 extra",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra",
+        "icon": "united kingdom_bbc_radio_4_extra.png"
+    },
+    {
+        "name": "BBC radio 5 live",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk",
+        "icon": "united kingdom_bbc_radio_5_live.png"
+    },
+    {
+        "name": "BBC radio 6 music",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_6music",
+        "icon": "united kingdom_bbc_radio_6_music.png"
+    },
+    {
+        "name": "BBC radio cumbria",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_cumbria",
+        "icon": "united kingdom_bbc_radio_cumbria.png"
+    },
+    {
+        "name": "BBC radio cymru",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru",
+        "icon": "united kingdom_bbc_radio_cymru.png"
+    },
+    {
+        "name": "BBC radio cymru 2",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_cymru_2",
+        "icon": "united kingdom_bbc_radio_cymru_2.png"
+    },
+    {
+        "name": "BBC radio devon",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_devon",
+        "icon": "united kingdom_bbc_radio_devon.png"
+    },
+    {
+        "name": "BBC radio foyle",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_foyle",
+        "icon": "united kingdom_bbc_radio_foyle.png"
+    },
+    {
+        "name": "BBC radio london",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_london",
+        "icon": "united kingdom_bbc_radio_london.png"
+    },
+    {
+        "name": "BBC radio nan gaidheal",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_nan_gaidheal",
+        "icon": "united kingdom_bbc_radio_nan_gaidheal.png"
+    },
+    {
+        "name": "BBC radio scotland",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_fm",
+        "icon": "united kingdom_bbc_radio_scotland.png"
+    },
+    {
+        "name": "BBC radio solent",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_solent",
+        "icon": "united kingdom_bbc_radio_solent.png"
+    },
+    {
+        "name": "BBC radio solent west dorset",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_solent_west_dorset",
+        "icon": "united kingdom_bbc_radio_solent_west_dorset.png"
+    },
+    {
+        "name": "BBC radio ulster",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_ulster",
+        "icon": "united kingdom_bbc_radio_ulster.png"
+    },
+    {
+        "name": "BBC radio wales",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_radio_wales_fm",
+        "icon": "united kingdom_bbc_radio_wales.png"
+    },
+    {
+        "name": "BBC radio wm",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_wm",
+        "icon": "united kingdom_bbc_radio_wm.png"
+    },
+    {
+        "name": "BBC swahili radio",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_swahili_radio",
+        "icon": "united kingdom_bbc_swahili_radio.png"
+    },
+    {
+        "name": "BBC world service",
+        "country": "United Kingdom",
+        "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+        "icon": "united kingdom_bbc_world_service.png"
+    },
+    {
+        "name": "Bfbs radio 2",
+        "country": "United Kingdom",
+        "url": "https://direct.sharp-stream.com/ssvcbfbs2.mp3",
+        "icon": "united kingdom_bfbs_radio_2.png"
+    },
+    {
+        "name": "Boom radio",
+        "country": "United Kingdom",
+        "url": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128",
+        "icon": "united kingdom_boom_radio.png"
+    },
+    {
+        "name": "Dragon radio",
+        "country": "United Kingdom",
+        "url": "https://listen-nation.sharp-stream.com/tcnationdigital.mp3",
+        "icon": "united kingdom_dragon_radio.png"
+    },
+    {
+        "name": "Fun kids",
+        "country": "United Kingdom",
+        "url": "https://listen-funkids.sharp-stream.com/funkids.mp3",
+        "icon": "united kingdom_fun_kids.png"
+    },
+    {
+        "name": "Gb news radio",
+        "country": "United Kingdom",
+        "url": "https://listen-gbnews.sharp-stream.com/gbnews.mp3",
+        "icon": "united kingdom_gb_news_radio.png"
+    },
+    {
+        "name": "Hope fm",
+        "country": "United Kingdom",
+        "url": "http://stream-hfm.tune-in.co.uk:8008/;",
+        "icon": "united kingdom_hope_fm.png"
+    },
+    {
+        "name": "Jazz fm",
+        "country": "United Kingdom",
+        "url": "http://46.10.150.243/jazz-fm-lounge.mp3",
+        "icon": "united kingdom_jazz_fm.png"
+    },
+    {
+        "name": "Lyca radio 1458",
+        "country": "United Kingdom",
+        "url": "https://ads-direct.sharp-stream.com/1458.mp3",
+        "icon": "united kingdom_lyca_radio_1458.png"
+    },
+    {
+        "name": "Nation radio",
+        "country": "United Kingdom",
+        "url": "https://listen-nation.sharp-stream.com/tcnation.mp3",
+        "icon": "united kingdom_nation_radio.png"
+    },
+    {
+        "name": "Nation radio 80s",
+        "country": "United Kingdom",
+        "url": "https://edge-ads-03-gos2.sharp-stream.com/thamesradio.mp3",
+        "icon": "united kingdom_nation_radio_80s.png"
+    },
+    {
+        "name": "Nation radio ceredigion",
+        "country": "United Kingdom",
+        "url": "https://listen-nation.sharp-stream.com/tcceredigion.mp3",
+        "icon": "united kingdom_nation_radio_ceredigion.png"
+    },
+    {
+        "name": "Nation radio uk",
+        "country": "United Kingdom",
+        "url": "https://listen-nation.sharp-stream.com/thamesradio.mp3",
+        "icon": "united kingdom_nation_radio_uk.png"
+    },
+    {
+        "name": "Premier christian radio",
+        "country": "United Kingdom",
+        "url": "https://streams.radiomast.io/69203abc-1923-4c7a-bbd3-1e4d391a8cd9",
+        "icon": "united kingdom_premier_christian_radio.png"
+    },
+    {
+        "name": "Premier praise",
+        "country": "United Kingdom",
+        "url": "https://streams.radiomast.io/5c45ff7b-5925-46d7-bd1f-6682bbdf8e44",
+        "icon": "united kingdom_premier_praise.png"
+    },
+    {
+        "name": "Q radio belfast",
+        "country": "United Kingdom",
+        "url": "https://edge-audio-03-gos2.sharp-stream.com/qr967mobile.mp3",
+        "icon": "united kingdom_q_radio_belfast.png"
+    },
+    {
+        "name": "Radio angel fm",
+        "country": "United Kingdom",
+        "url": "http://s8.viastreaming.net:7030/;",
+        "icon": "united kingdom_radio_angel_fm.png"
+    },
+    {
+        "name": "Radio caroline",
+        "country": "United Kingdom",
+        "url": "http://sc8.radiocaroline.net:8020/;",
+        "icon": "united kingdom_radio_caroline.png"
+    },
+    {
+        "name": "Radio ucb inspiration dab",
+        "country": "United Kingdom",
+        "url": "https://edge-audio-02-gos1.sharp-stream.com/ucbinspirational.mp3",
+        "icon": "united kingdom_radio_ucb_inspiration_dab.png"
+    },
+    {
+        "name": "Sunrise radio",
+        "country": "United Kingdom",
+        "url": "https://direct.sharp-stream.com/sunriseradio.mp3",
+        "icon": "united kingdom_sunrise_radio.png"
+    },
+    {
+        "name": "Swansea bay radio",
+        "country": "United Kingdom",
+        "url": "https://listen-nation.sharp-stream.com/tcbay.mp3",
+        "icon": "united kingdom_swansea_bay_radio.png"
+    },
+    {
+        "name": "Talk radio",
+        "country": "United Kingdom",
+        "url": "https://radio.talkradio.co.uk/stream",
+        "icon": "united kingdom_talk_radio.png"
+    },
+    {
+        "name": "Talk sport",
+        "country": "United Kingdom",
+        "url": "https://live.talksport.com/channel2m-en",
+        "icon": "united kingdom_talk_sport.png"
+    },
+    {
+        "name": "Talk sport 2",
+        "country": "United Kingdom",
+        "url": "https://radio.talksport.com/stream2",
+        "icon": "united kingdom_talk_sport_2.png"
+    },
+    {
+        "name": "The times radio",
+        "country": "United Kingdom",
+        "url": "https://timesradio.wireless.radio/stream",
+        "icon": "united kingdom_the_times_radio.png"
+    },
+    {
+        "name": "U 105",
+        "country": "United Kingdom",
+        "url": "https://gbradio.cdn.tibus.net/U105",
+        "icon": "united kingdom_u_105.png"
+    },
+    {
+        "name": "Ucb 1",
+        "country": "United Kingdom",
+        "url": "https://direct.sharp-stream.com/ucbuk.mp3",
+        "icon": "united kingdom_ucb_1.png"
+    },
+    {
+        "name": "Ucb 2",
+        "country": "United Kingdom",
+        "url": "https://tx.sharp-stream.com/icecast.php?i=ucbinspirational.mp3",
+        "icon": "united kingdom_ucb_2.png"
+    },
+    {
+        "name": "Virgin anthems",
+        "country": "United Kingdom",
+        "url": "https://radio.virginradio.co.uk/stream-anthems",
+        "icon": "united kingdom_virgin_anthems.png"
+    },
+    {
+        "name": "Virgin chilled",
+        "country": "United Kingdom",
+        "url": "https://radio.virginradio.co.uk/stream-chilled",
+        "icon": "united kingdom_virgin_chilled.png"
+    },
+    {
+        "name": "Virgin radio 80s plus",
+        "country": "United Kingdom",
+        "url": "https://radio.virginradio.co.uk/stream-virginradio4",
+        "icon": "united kingdom_virgin_radio_80s_plus.png"
+    },
+    {
+        "name": "Virgin radio uk",
+        "country": "United Kingdom",
+        "url": "https://radio.virginradio.co.uk/stream",
+        "icon": "united kingdom_virgin_radio_uk.png"
+    }
+]

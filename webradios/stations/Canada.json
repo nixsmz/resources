@@ -1,0 +1,224 @@
+[
+    {
+        "name": "101.7 the one",
+        "country": "Canada",
+        "url": "https://live.leanstream.co/CKNXFM-MP3",
+        "icon": "canada_101.7_the_one.png"
+    },
+    {
+        "name": "107.5 bolt fm",
+        "country": "Canada",
+        "url": "https://goldenwest.leanstream.co/CHBOFM-MP3",
+        "icon": "canada_107.5_bolt_fm.png"
+    },
+    {
+        "name": "89.9 the wave",
+        "country": "Canada",
+        "url": "https://mbsradio.leanstream.co/CHNSFM-MP3",
+        "icon": "canada_89.9_the_wave.png"
+    },
+    {
+        "name": "93.1 fresh radio",
+        "country": "Canada",
+        "url": "https://live.leanstream.co/CHAYFM-MP3",
+        "icon": "canada_93.1_fresh_radio.png"
+    },
+    {
+        "name": "95.3 fresh radio",
+        "country": "Canada",
+        "url": "https://corus.leanstream.co/CINGFM-MP3",
+        "icon": "canada_95.3_fresh_radio.png"
+    },
+    {
+        "name": "Cbc music - atlantic",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_hfx",
+        "icon": "canada_cbc_music_-_atlantic.png"
+    },
+    {
+        "name": "Cbc music - central",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_wpg",
+        "icon": "canada_cbc_music_-_central.png"
+    },
+    {
+        "name": "Cbc music - eastern",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_tor",
+        "icon": "canada_cbc_music_-_eastern.png"
+    },
+    {
+        "name": "Cbc music - mountain",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_edm",
+        "icon": "canada_cbc_music_-_mountain.png"
+    },
+    {
+        "name": "Cbc music - pacific",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r2_vcr",
+        "icon": "canada_cbc_music_-_pacific.png"
+    },
+    {
+        "name": "Cbc radio 1 alberta",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_cgy",
+        "icon": "canada_cbc_radio_1_alberta.png"
+    },
+    {
+        "name": "Cbc radio 1 british columbia",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_vic",
+        "icon": "canada_cbc_radio_1_british_columbia.png"
+    },
+    {
+        "name": "Cbc radio 1 manitoba",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_wpg",
+        "icon": "canada_cbc_radio_1_manitoba.png"
+    },
+    {
+        "name": "Cbc radio 1 new brunswick",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_snb",
+        "icon": "canada_cbc_radio_1_new_brunswick.png"
+    },
+    {
+        "name": "Cbc radio 1 newfoundland and labrador",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_cor",
+        "icon": "canada_cbc_radio_1_newfoundland_and_labrador.png"
+    },
+    {
+        "name": "Cbc radio 1 nova scotia",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_hfx",
+        "icon": "canada_cbc_radio_1_nova_scotia.png"
+    },
+    {
+        "name": "Cbc radio 1 nunavut",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_iqa",
+        "icon": "canada_cbc_radio_1_nunavut.png"
+    },
+    {
+        "name": "Cbc radio 1 ontario",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_eri",
+        "icon": "canada_cbc_radio_1_ontario.png"
+    },
+    {
+        "name": "Cbc radio 1 quebec",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_mtl",
+        "icon": "canada_cbc_radio_1_quebec.png"
+    },
+    {
+        "name": "Cbc radio 1 saskatchewan",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ssk",
+        "icon": "canada_cbc_radio_1_saskatchewan.png"
+    },
+    {
+        "name": "Cbc radio 1 yukon",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_whs",
+        "icon": "canada_cbc_radio_1_yukon.png"
+    },
+    {
+        "name": "Cbn radio",
+        "country": "Canada",
+        "url": "https://audio.cabobranco.tv.br:8000/cbncg",
+        "icon": "canada_cbn_radio.png"
+    },
+    {
+        "name": "Chgo-fm",
+        "country": "Canada",
+        "url": "https://stream2.statsradio.com:8136/stream",
+        "icon": "canada_chgo-fm.png"
+    },
+    {
+        "name": "Ckua radio network",
+        "country": "Canada",
+        "url": "https://ais-sa1.streamon.fm/7000_64k.mp3",
+        "icon": "canada_ckua_radio_network.png"
+    },
+    {
+        "name": "Cool fm",
+        "country": "Canada",
+        "url": "https://live.leanstream.co/CKUEFM-MP3",
+        "icon": "canada_cool_fm.png"
+    },
+    {
+        "name": "Fm96",
+        "country": "Canada",
+        "url": "https://corus.leanstream.co/CFPLFM-MP3",
+        "icon": "canada_fm96.png"
+    },
+    {
+        "name": "Ici musique pacific",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_M-7BVAN0_VAN",
+        "icon": "canada_ici_musique_pacific.png"
+    },
+    {
+        "name": "Ici radio - canada premiere ontario",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2OSUB0_SUB",
+        "icon": "canada_ici_radio_-_canada_premiere_ontario.png"
+    },
+    {
+        "name": "Ici radio - canada premiere qc",
+        "country": "Canada",
+        "url": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QSEP0_SEP",
+        "icon": "canada_ici_radio_-_canada_premiere_qc.png"
+    },
+    {
+        "name": "James bay cree communications society",
+        "country": "Canada",
+        "url": "https://streamingv2.shoutcast.com/cree-nation-radio",
+        "icon": "canada_james_bay_cree_communications_society.png"
+    },
+    {
+        "name": "Kfm",
+        "country": "Canada",
+        "url": "http://sc8.streamingpulse.info:8116/;",
+        "icon": "canada_kfm.png"
+    },
+    {
+        "name": "Nci fm",
+        "country": "Canada",
+        "url": "http://178.obj.netromedia.com:8000/4",
+        "icon": "canada_nci_fm.png"
+    },
+    {
+        "name": "News talk 980 cjme",
+        "country": "Canada",
+        "url": "https://rawlco.leanstream.co/CJMEAM-MP3",
+        "icon": "canada_news_talk_980_cjme.png"
+    },
+    {
+        "name": "Oz fm",
+        "country": "Canada",
+        "url": "https://server10.reliastream.com/proxy/nfbroadc/stream",
+        "icon": "canada_oz_fm.png"
+    },
+    {
+        "name": "Power 97",
+        "country": "Canada",
+        "url": "https://live.leanstream.co/CJKRFM-MP3",
+        "icon": "canada_power_97.png"
+    },
+    {
+        "name": "Rock 101",
+        "country": "Canada",
+        "url": "https://live.leanstream.co/CFMIFM-MP3",
+        "icon": "canada_rock_101.png"
+    },
+    {
+        "name": "Vocm",
+        "country": "Canada",
+        "url": "https://blackburn.leanstream.co/CFCBAM-MP3",
+        "icon": "canada_vocm.png"
+    }
+]

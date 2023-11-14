@@ -1,0 +1,158 @@
+[
+    {
+        "name": "2 fuego fm",
+        "country": "Columbia",
+        "url": "https://radio35.virtualtronics.com:20017/;",
+        "icon": "columbia_2_fuego_fm.png"
+    },
+    {
+        "name": "Aviva 2",
+        "country": "Columbia",
+        "url": "https://stream.avivamientoradio.net/radio/8000/radio.mp3",
+        "icon": "columbia_aviva_2.png"
+    },
+    {
+        "name": "Besame ibague",
+        "country": "Columbia",
+        "url": "https://radiohd.streaminghd.co:7345/stream",
+        "icon": "columbia_besame_ibague.png"
+    },
+    {
+        "name": "Brisas del san juan",
+        "country": "Columbia",
+        "url": "https://virtualtronics.net/proxy/brisasdelsanjuan",
+        "icon": "columbia_brisas_del_san_juan.png"
+    },
+    {
+        "name": "Cabrera stereo",
+        "country": "Columbia",
+        "url": "https://play10.tikast.com/proxy/mogotes?mp=/stream%E2%80%A8",
+        "icon": "columbia_cabrera_stereo.png"
+    },
+    {
+        "name": "Carbon stereo",
+        "country": "Columbia",
+        "url": "http://radio40.virtualtronics.com:8318/;",
+        "icon": "columbia_carbon_stereo.png"
+    },
+    {
+        "name": "Clasica",
+        "country": "Columbia",
+        "url": "https://s37.myradiostream.com:9434/listen.mp3",
+        "icon": "columbia_clasica.png"
+    },
+    {
+        "name": "Colombia estereo",
+        "country": "Columbia",
+        "url": "https://radiolatina.info/8154/stream",
+        "icon": "columbia_colombia_estereo.png"
+    },
+    {
+        "name": "Doble k",
+        "country": "Columbia",
+        "url": "http://academyf.radioca.st:8292/HJKKneiva",
+        "icon": "columbia_doble_k.png"
+    },
+    {
+        "name": "Javeriana estereo",
+        "country": "Columbia",
+        "url": "https://lira.servidoranonimo.org/proxy/javerian?mp=/stream",
+        "icon": "columbia_javeriana_estereo.png"
+    },
+    {
+        "name": "La caquetena",
+        "country": "Columbia",
+        "url": "http://academyf.radioca.st:8319/LaMesa",
+        "icon": "columbia_la_caquetena.png"
+    },
+    {
+        "name": "La voz de yopal",
+        "country": "Columbia",
+        "url": "http://167.114.113.108:10048/;",
+        "icon": "columbia_la_voz_de_yopal.png"
+    },
+    {
+        "name": "La z",
+        "country": "Columbia",
+        "url": "https://streamingmediaradio.live/8086/stream",
+        "icon": "columbia_la_z.png"
+    },
+    {
+        "name": "Lobana stereo",
+        "country": "Columbia",
+        "url": "https://radiolatina.info/9374/;",
+        "icon": "columbia_lobana_stereo.png"
+    },
+    {
+        "name": "Ondas del fusacatan",
+        "country": "Columbia",
+        "url": "https://stream.zeno.fm/t8p6b9b2cm8uv",
+        "icon": "columbia_ondas_del_fusacatan.png"
+    },
+    {
+        "name": "Ondas del tonusco",
+        "country": "Columbia",
+        "url": "http://dattavolt.com:8030/;",
+        "icon": "columbia_ondas_del_tonusco.png"
+    },
+    {
+        "name": "Radio bolivariana fm",
+        "country": "Columbia",
+        "url": "http://streaming.radiobolivarianavirtual.com:7630/stream",
+        "icon": "columbia_radio_bolivariana_fm.png"
+    },
+    {
+        "name": "Radio guatapuri",
+        "country": "Columbia",
+        "url": "http://sonic.paulatina.co:7106/;",
+        "icon": "columbia_radio_guatapuri.png"
+    },
+    {
+        "name": "Radio libertad",
+        "country": "Columbia",
+        "url": "https://radiolatina.info/8034/stream;",
+        "icon": "columbia_radio_libertad.png"
+    },
+    {
+        "name": "Radio policia nacional bogota",
+        "country": "Columbia",
+        "url": "http://play12.tikast.com:8185/;",
+        "icon": "columbia_radio_policia_nacional_bogota.png"
+    },
+    {
+        "name": "Radio policia nacional medellin",
+        "country": "Columbia",
+        "url": "https://turadio.accesopanel.com:7056/;",
+        "icon": "columbia_radio_policia_nacional_medellin.png"
+    },
+    {
+        "name": "Radio tiempo",
+        "country": "Columbia",
+        "url": "http://giss.tv:8000/r90.mp3",
+        "icon": "columbia_radio_tiempo.png"
+    },
+    {
+        "name": "Radio waira",
+        "country": "Columbia",
+        "url": "https://emisorasvirtuales.com.co:9324/stream",
+        "icon": "columbia_radio_waira.png"
+    },
+    {
+        "name": "Sensacion stereo",
+        "country": "Columbia",
+        "url": "http://streaming.shockmedia.com.ar:8550/;",
+        "icon": "columbia_sensacion_stereo.png"
+    },
+    {
+        "name": "Todelar - la x medellin",
+        "country": "Columbia",
+        "url": "http://server.2015server.info:8070/;",
+        "icon": "columbia_todelar_-_la_x_medellin.png"
+    },
+    {
+        "name": "Violeta stereo",
+        "country": "Columbia",
+        "url": "https://cloudoledgo.com:8048/stream",
+        "icon": "columbia_violeta_stereo.png"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Bayram fm",
+        "country": "Turkey",
+        "url": "http://sunucu.radyodinle.com:3442/;",
+        "icon": "turkey_bayram_fm.png"
+    },
+    {
+        "name": "CNN turk radyo",
+        "country": "Turkey",
+        "url": "https://radyo.duhnet.tv/ak_dtvh_cnnturk",
+        "icon": "turkey_cnn_turk_radyo.png"
+    },
+    {
+        "name": "Cri turk fm",
+        "country": "Turkey",
+        "url": "https://stream.guventechnology.com:2020/stream/criturkradyo",
+        "icon": "turkey_cri_turk_fm.png"
+    },
+    {
+        "name": "Dost fm",
+        "country": "Turkey",
+        "url": "http://yayin.dostfm.com:8920/DOSTFM",
+        "icon": "turkey_dost_fm.png"
+    },
+    {
+        "name": "Erk radyo",
+        "country": "Turkey",
+        "url": "https://yayin2.canliyayin.org:10910/;",
+        "icon": "turkey_erk_radyo.png"
+    },
+    {
+        "name": "Kral pop",
+        "country": "Turkey",
+        "url": "http://kralpopwmp.radyotvonline.com/;",
+        "icon": "turkey_kral_pop.png"
+    },
+    {
+        "name": "Lalegul - istanbul fm",
+        "country": "Turkey",
+        "url": "https://icecast.netmedya.net/lalegulfm",
+        "icon": "turkey_lalegul_-_istanbul_fm.png"
+    },
+    {
+        "name": "Mercan - eynesil fm",
+        "country": "Turkey",
+        "url": "https://ip169.ozelip.com:10975/;",
+        "icon": "turkey_mercan_-_eynesil_fm.png"
+    },
+    {
+        "name": "Meteorolojinin sesi radyosu",
+        "country": "Turkey",
+        "url": "https://radyomgm.canliyayinda.com/;",
+        "icon": "turkey_meteorolojinin_sesi_radyosu.png"
+    },
+    {
+        "name": "Ntv radyo",
+        "country": "Turkey",
+        "url": "http://ntvrdwmp.radyotvonline.com/;",
+        "icon": "turkey_ntv_radyo.png"
+    },
+    {
+        "name": "Power - love",
+        "country": "Turkey",
+        "url": "https://listen.powerapp.com.tr/powerlove/mpeg/icecast.audio",
+        "icon": "turkey_power_-_love.png"
+    },
+    {
+        "name": "Power - pop",
+        "country": "Turkey",
+        "url": "https://listen.powerapp.com.tr/powerpop/mpeg/icecast.audio",
+        "icon": "turkey_power_-_pop.png"
+    },
+    {
+        "name": "Radio fg - istanbul",
+        "country": "Turkey",
+        "url": "http://sc.vargonen.net:9001/;",
+        "icon": "turkey_radio_fg_-_istanbul.png"
+    },
+    {
+        "name": "Radyo 45 lik - izmir",
+        "country": "Turkey",
+        "url": "https://stream.radyo45lik.com:4545/stream",
+        "icon": "turkey_radyo_45_lik_-_izmir.png"
+    },
+    {
+        "name": "Radyo d",
+        "country": "Turkey",
+        "url": "https://radyo.duhnet.tv/radyod",
+        "icon": "turkey_radyo_d.png"
+    },
+    {
+        "name": "Radyo duble - istanbul",
+        "country": "Turkey",
+        "url": "https://radyo.yayin.com.tr:6030/;",
+        "icon": "turkey_radyo_duble_-_istanbul.png"
+    },
+    {
+        "name": "Radyo turk",
+        "country": "Turkey",
+        "url": "https://stream.rcast.net/200346",
+        "icon": "turkey_radyo_turk.png"
+    },
+    {
+        "name": "Radyo voyage - istanbul",
+        "country": "Turkey",
+        "url": "http://voyagewmp.radyotvonline.com/;",
+        "icon": "turkey_radyo_voyage_-_istanbul.png"
+    },
+    {
+        "name": "Rs fm",
+        "country": "Turkey",
+        "url": "https://icecast-rian.cdnvideo.ru/voicestm",
+        "icon": "turkey_rs_fm.png"
+    },
+    {
+        "name": "Sawt al-khaleej",
+        "country": "Turkey",
+        "url": "https://edge-audio-04-thn.sharp-stream.com/spectrum4.mp3",
+        "icon": "turkey_sawt_al-khaleej.png"
+    },
+    {
+        "name": "Semerkand radyo",
+        "country": "Turkey",
+        "url": "https://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/Playlist.m3u8",
+        "icon": "turkey_semerkand_radyo.png"
+    },
+    {
+        "name": "Seyr - istanbul fm",
+        "country": "Turkey",
+        "url": "https://sslyayin.netyayin.net/8024/stream",
+        "icon": "turkey_seyr_-_istanbul_fm.png"
+    },
+    {
+        "name": "Slow turk",
+        "country": "Turkey",
+        "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
+        "icon": "turkey_slow_turk.png"
+    },
+    {
+        "name": "Super show radyo",
+        "country": "Turkey",
+        "url": "https://windows.showradyo.com.tr/;",
+        "icon": "turkey_super_show_radyo.png"
+    },
+    {
+        "name": "Yon radyo - istanbul",
+        "country": "Turkey",
+        "url": "https://stream.radyolarburada.com/radio/8020/yonradyo",
+        "icon": "turkey_yon_radyo_-_istanbul.png"
+    }
+]

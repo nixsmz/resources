@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Ashiyaradio",
+        "country": "Japan",
+        "url": "https://s3.radio.co/sc8d895604/listen",
+        "icon": "japan_ashiyaradio.png"
+    },
+    {
+        "name": "Asia dream j-club",
+        "country": "Japan",
+        "url": "https://kathy.torontocast.com:3350/;",
+        "icon": "japan_asia_dream_j-club.png"
+    },
+    {
+        "name": "Asia dream j-pop",
+        "country": "Japan",
+        "url": "https://kathy.torontocast.com:3560/;",
+        "icon": "japan_asia_dream_j-pop.png"
+    },
+    {
+        "name": "Asia dream japan hits",
+        "country": "Japan",
+        "url": "https://igor.torontocast.com:1025/;",
+        "icon": "japan_asia_dream_japan_hits.png"
+    },
+    {
+        "name": "Asia dream radio",
+        "country": "Japan",
+        "url": "https://kathy.torontocast.com:3560/;",
+        "icon": "japan_asia_dream_radio.png"
+    },
+    {
+        "name": "Asia dream radio",
+        "country": "Japan",
+        "url": "https://kathy.torontocast.com:3340/;",
+        "icon": "japan_asia_dream_radio.png"
+    },
+    {
+        "name": "Bb-shout - forestmoon",
+        "country": "Japan",
+        "url": "http://shoutcast.tristate.ne.jp:8004",
+        "icon": "japan_bb-shout_-_forestmoon.png"
+    },
+    {
+        "name": "Bb-shout - shypaul kubota",
+        "country": "Japan",
+        "url": "http://shoutcast.tristate.ne.jp:8002",
+        "icon": "japan_bb-shout_-_shypaul_kubota.png"
+    },
+    {
+        "name": "Bb-shout - takamitsu fujita organ trio",
+        "country": "Japan",
+        "url": "http://shoutcast.tristate.ne.jp:8008",
+        "icon": "japan_bb-shout_-_takamitsu_fujita_organ_trio.png"
+    },
+    {
+        "name": "Bb-shout - touch tomakomai",
+        "country": "Japan",
+        "url": "http://shoutcast.tristate.ne.jp:8006",
+        "icon": "japan_bb-shout_-_touch_tomakomai.png"
+    },
+    {
+        "name": "Be radio",
+        "country": "Japan",
+        "url": "https://be100radio.out.airtime.pro:8000/be100radio_a",
+        "icon": "japan_be_radio.png"
+    },
+    {
+        "name": "Booty fm",
+        "country": "Japan",
+        "url": "http://60.45.66.12:88/bootyfm",
+        "icon": "japan_booty_fm.png"
+    },
+    {
+        "name": "Chouchou - azul",
+        "country": "Japan",
+        "url": "http://stream1.10223.cc:8025/AZUL",
+        "icon": "japan_chouchou_-_azul.png"
+    },
+    {
+        "name": "Chouchou - memento mori",
+        "country": "Japan",
+        "url": "http://stream2.10223.cc:8025/memento_v3",
+        "icon": "japan_chouchou_-_memento_mori.png"
+    },
+    {
+        "name": "Cyber forest - shigakogen",
+        "country": "Japan",
+        "url": "https://mp3s.nc.u-tokyo.ac.jp/OTANOMO_CyberForest.mp3",
+        "icon": "japan_cyber_forest_-_shigakogen.png"
+    },
+    {
+        "name": "Cyber forest - yamanakako",
+        "country": "Japan",
+        "url": "https://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3",
+        "icon": "japan_cyber_forest_-_yamanakako.png"
+    },
+    {
+        "name": "Disc pro",
+        "country": "Japan",
+        "url": "https://stream.radiojar.com/udzx48hmb",
+        "icon": "japan_disc_pro.png"
+    },
+    {
+        "name": "Farai radio",
+        "country": "Japan",
+        "url": "http://broadcast_01.dustdevilmedia.com:8038/;",
+        "icon": "japan_farai_radio.png"
+    },
+    {
+        "name": "Free fm rock japan",
+        "country": "Japan",
+        "url": "https://rocafmadrid.radioca.st/stream?1656762587518",
+        "icon": "japan_free_fm_rock_japan.png"
+    },
+    {
+        "name": "Freebird radio all country-rock",
+        "country": "Japan",
+        "url": "http://freebird.ddns.net:8010/;",
+        "icon": "japan_freebird_radio_all_country-rock.png"
+    },
+    {
+        "name": "Futuregroove fm",
+        "country": "Japan",
+        "url": "https://streamer.radio.co/s4b3dafa6d/listen",
+        "icon": "japan_futuregroove_fm.png"
+    },
+    {
+        "name": "Gensokyo radio",
+        "country": "Japan",
+        "url": "https://stream.gensokyoradio.net/1",
+        "icon": "japan_gensokyo_radio.png"
+    },
+    {
+        "name": "Gig",
+        "country": "Japan",
+        "url": "http://219.117.222.167:8020/giglive",
+        "icon": "japan_gig.png"
+    },
+    {
+        "name": "Gig side b",
+        "country": "Japan",
+        "url": "http://219.117.222.166:8020/giglive2",
+        "icon": "japan_gig_side_b.png"
+    },
+    {
+        "name": "H a p y radio d c o e",
+        "country": "Japan",
+        "url": "https://www.happyhardcore.com/livestreams/p/u1",
+        "icon": "japan_h_a_p_y_radio_d_c_o_e.png"
+    },
+    {
+        "name": "Hitsujikai radio",
+        "country": "Japan",
+        "url": "https://streaming.radio.co/se4a8e6a93/listen",
+        "icon": "japan_hitsujikai_radio.png"
+    },
+    {
+        "name": "J-club powerplay hiphop",
+        "country": "Japan",
+        "url": "https://kathy.torontocast.com:3350/;",
+        "icon": "japan_j-club_powerplay_hiphop.png"
+    },
+    {
+        "name": "J-pop haru sakura",
+        "country": "Japan",
+        "url": "https://igor.torontocast.com:1710/;",
+        "icon": "japan_j-pop_haru_sakura.png"
+    },
+    {
+        "name": "J-pop powerplay kawaii",
+        "country": "Japan",
+        "url": "https://kathy.torontocast.com:3060/;",
+        "icon": "japan_j-pop_powerplay_kawaii.png"
+    },
+    {
+        "name": "J-pop sakura",
+        "country": "Japan",
+        "url": "https://igor.torontocast.com:1710/;",
+        "icon": "japan_j-pop_sakura.png"
+    },
+    {
+        "name": "J-rock power play",
+        "country": "Japan",
+        "url": "https://kathy.torontocast.com:3340/;",
+        "icon": "japan_j-rock_power_play.png"
+    },
+    {
+        "name": "Japan-a-radio - japan s best music mix",
+        "country": "Japan",
+        "url": "https://audio.misproductions.com/japansub192k",
+        "icon": "japan_japan-a-radio_-_japan_s_best_music_mix.png"
+    },
+    {
+        "name": "Jazz sakura",
+        "country": "Japan",
+        "url": "https://kathy.torontocast.com:3330/;",
+        "icon": "japan_jazz_sakura.png"
+    },
+    {
+        "name": "Jpopsuki radio",
+        "country": "Japan",
+        "url": "http://jpopsuki.fm:8000/stream",
+        "icon": "japan_jpopsuki_radio.png"
+    },
+    {
+        "name": "Latte world",
+        "country": "Japan",
+        "url": "http://shoutcast.tristate.ne.jp:8000",
+        "icon": "japan_latte_world.png"
+    },
+    {
+        "name": "Lwbcast - living word broadcast of willi branh se",
+        "country": "Japan",
+        "url": "http://173.161.13.228:9010/FrenchStream",
+        "icon": "japan_lwbcast_-_living_word_broadcast_of_willi_branh_se.png"
+    },
+    {
+        "name": "Moon mission recordings tokyo deep and electronic",
+        "country": "Japan",
+        "url": "http://uk5.internet-radio.com:8306/;",
+        "icon": "japan_moon_mission_recordings_tokyo_deep_and_electronic.png"
+    },
+    {
+        "name": "Nei-di's acg music",
+        "country": "Japan",
+        "url": "http://neidi.homeip.net:8080/;",
+        "icon": "japan_nei-di's_acg_music.png"
+    }
+]

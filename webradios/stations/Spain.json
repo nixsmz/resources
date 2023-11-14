@@ -1,0 +1,380 @@
+[
+    {
+        "name": "Aragon Radio",
+        "country": "Spain",
+        "url": "https://cartv.streaming.aranova.es/mp3/tunein/aragonradio_aragonradio1_96.mp3",
+        "icon": "spain_aragon_radio.png"
+    },
+    {
+        "name": "Bikini FM",
+        "country": "Spain",
+        "url": "https://stream.mediasector.es/radio/8030/bikinifm-alicante.mp3",
+        "icon": "spain_bikini_fm.png"
+    },
+    {
+        "name": "Bizkaia Irratia",
+        "country": "Spain",
+        "url": "http://nerbioi.radiopopular.eus:8000/bizkaiairratia2",
+        "icon": "spain_bizkaia_irratia.png"
+    },
+    {
+        "name": "Cadena 100",
+        "country": "Spain",
+        "url": "http://eu1.lhdserver.es:8016/stream",
+        "icon": "spain_cadena_100.png"
+    },
+    {
+        "name": "Cadena FM",
+        "country": "Spain",
+        "url": "https://flucast-b05-01.flumotion.com/cope/cadena100-low.mp3",
+        "icon": "spain_cadena_fm.png"
+    },
+    {
+        "name": "Cadena Luna",
+        "country": "Spain",
+        "url": "https://streaming.sonmedia.es:7004/stream",
+        "icon": "spain_cadena_luna.png"
+    },
+    {
+        "name": "Canal 4 Radio FM",
+        "country": "Spain",
+        "url": "http://capdeperaradio.recasound.es:8011/stream#.mp3",
+        "icon": "spain_canal_4_radio_fm.png"
+    },
+    {
+        "name": "Capital Radio",
+        "country": "Spain",
+        "url": "https://capitalradio-live.flumotion.com/capital-radio/capitalradio.mp3",
+        "icon": "spain_capital_radio.png"
+    },
+    {
+        "name": "Ciudad Real",
+        "country": "Spain",
+        "url": "https://wecast-b01-04.flumotion.com/copesedes/ciudadreal.mp3",
+        "icon": "spain_ciudad_real.png"
+    },
+    {
+        "name": "COPE",
+        "country": "Spain",
+        "url": "http://centova.nsprimario.com:8008/stream",
+        "icon": "spain_cope.png"
+    },
+    {
+        "name": "Crtvg Radio Galega",
+        "country": "Spain",
+        "url": "https://wecast-b01-02.flumotion.com/radiogalega/live.mp3",
+        "icon": "spain_crtvg_radio_galega.png"
+    },
+    {
+        "name": "Crtvg RG Musica",
+        "country": "Spain",
+        "url": "https://canalextremadura-radio.flumotion.com/radiogalega-musica/live.mp3",
+        "icon": "spain_crtvg_rg_musica.png"
+    },
+    {
+        "name": "Decisiun Radio",
+        "country": "Spain",
+        "url": "https://s2.radio.co/s41b5a1af1/listen",
+        "icon": "spain_decisiun_radio.png"
+    },
+    {
+        "name": "Digital Hits FM",
+        "country": "Spain",
+        "url": "http://chrome.frilab.com:8000/digitalhits",
+        "icon": "spain_digital_hits_fm.png"
+    },
+    {
+        "name": "Dynamis Radio",
+        "country": "Spain",
+        "url": "https://control.streaming-pro.com:8014/stream",
+        "icon": "spain_dynamis_radio.png"
+    },
+    {
+        "name": "Ei TB Gaztea",
+        "country": "Spain",
+        "url": "http://mp3-eitb.stream.flumotion.com/eitb/gaztea.mp3",
+        "icon": "spain_ei_tb_gaztea.png"
+    },
+    {
+        "name": "Eitb Musika",
+        "country": "Spain",
+        "url": "http://mp3-eitb.stream.flumotion.com/eitb/eitbmusika.mp3",
+        "icon": "spain_eitb_musika.png"
+    },
+    {
+        "name": "esRadio",
+        "country": "Spain",
+        "url": "https://server10.emitironline.com:9604/radio.mp3",
+        "icon": "spain_esradio.png"
+    },
+    {
+        "name": "Euskadi Irratia",
+        "country": "Spain",
+        "url": "http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3",
+        "icon": "spain_euskadi_irratia.png"
+    },
+    {
+        "name": "Exito Radio",
+        "country": "Spain",
+        "url": "https://eu1.lhdserver.es:8009/stream",
+        "icon": "spain_exito_radio.png"
+    },
+    {
+        "name": "Fibwi Radio",
+        "country": "Spain",
+        "url": "http://stream.fibwi.com:9000/stream#.mp3",
+        "icon": "spain_fibwi_radio.png"
+    },
+    {
+        "name": "Flaix FM",
+        "country": "Spain",
+        "url": "https://nodo05-cloud01.streaming-pro.com:8001/flaixfm.mp3",
+        "icon": "spain_flaix_fm.png"
+    },
+    {
+        "name": "Formula Hit",
+        "country": "Spain",
+        "url": "https://server1.emitironline.com:9400/formulahit",
+        "icon": "spain_formula_hit.png"
+    },
+    {
+        "name": "Gaztea",
+        "country": "Spain",
+        "url": "https://eitb-gaztea.flumotion.com/eitb/gaztea.mp3",
+        "icon": "spain_gaztea.png"
+    },
+    {
+        "name": "Gum FM",
+        "country": "Spain",
+        "url": "https://s4.radio.co/sc1cb45a9f/listen",
+        "icon": "spain_gum_fm.png"
+    },
+    {
+        "name": "Hit FM",
+        "country": "Spain",
+        "url": "https://hitfm.kissfmradio.cires21.com/hitfm.mp3",
+        "icon": "spain_hit_fm.png"
+    },
+    {
+        "name": "IB 3 Radio",
+        "country": "Spain",
+        "url": "http://streaming01.ib3radio.com:8000/ib3radio.mp3",
+        "icon": "spain_ib_3_radio.png"
+    },
+    {
+        "name": "Informa Radio",
+        "country": "Spain",
+        "url": "https://streams.radio.co/se18e1e587/listen",
+        "icon": "spain_informa_radio.png"
+    },
+    {
+        "name": "Inselradio",
+        "country": "Spain",
+        "url": "https://stream.inselradio.com/high.inselradio.mp3",
+        "icon": "spain_inselradio.png"
+    },
+    {
+        "name": "Kiss FM",
+        "country": "Spain",
+        "url": "https://kissfm.kissfmradio.cires21.com/kissfm.mp3",
+        "icon": "spain_kiss_fm.png"
+    },
+    {
+        "name": "Loca FM",
+        "country": "Spain",
+        "url": "http://globalradiofm.es:8649/;",
+        "icon": "spain_loca_fm.png"
+    },
+    {
+        "name": "Loca FM - Urban",
+        "country": "Spain",
+        "url": "http://locafm02.we4stream.com:8015/liv",
+        "icon": "spain_loca_fm_-_urban.png"
+    },
+    {
+        "name": "Mega Star - Solo Temazos Madrid FM",
+        "country": "Spain",
+        "url": "https://flucast-b05-05.flumotion.com/cope/megastar.mp3",
+        "icon": "spain_mega_star_-_solo_temazos_madrid_fm.png"
+    },
+    {
+        "name": "Megastar",
+        "country": "Spain",
+        "url": "https://megastar-cope-rrcast.flumotion.com/cope/megastar-low.mp3",
+        "icon": "spain_megastar.png"
+    },
+    {
+        "name": "Naiz Irratia",
+        "country": "Spain",
+        "url": "https://zuzenean.naiz.eus/naiz_irratia.mp3",
+        "icon": "spain_naiz_irratia.png"
+    },
+    {
+        "name": "Onda Cero",
+        "country": "Spain",
+        "url": "http://217.125.23.154/directo",
+        "icon": "spain_onda_cero.png"
+    },
+    {
+        "name": "Onda Vasca Gipuzkoa",
+        "country": "Spain",
+        "url": "https://stream.ondavasca.com:8001/gipuzkoa",
+        "icon": "spain_onda_vasca_gipuzkoa.png"
+    },
+    {
+        "name": "Radio 010",
+        "country": "Spain",
+        "url": "http://hyades.shoutca.st:8544/;",
+        "icon": "spain_radio_010.png"
+    },
+    {
+        "name": "Radio Adventista",
+        "country": "Spain",
+        "url": "https://stream.radiojar.com/aesy2chkb",
+        "icon": "spain_radio_adventista.png"
+    },
+    {
+        "name": "Radio Euskadi",
+        "country": "Spain",
+        "url": "http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3",
+        "icon": "spain_radio_euskadi.png"
+    },
+    {
+        "name": "Radio Galega",
+        "country": "Spain",
+        "url": "https://canalextremadura-radio.flumotion.com/radiogalega/live.mp3",
+        "icon": "spain_radio_galega.png"
+    },
+    {
+        "name": "Radio Galega Musica",
+        "country": "Spain",
+        "url": "https://wecast03-h-cloud.flumotion.com/radiogalega-musica/live.mp3",
+        "icon": "spain_radio_galega_musica.png"
+    },
+    {
+        "name": "Radio Lebrija FM",
+        "country": "Spain",
+        "url": "http://centova.nsprimario.com:8008/;",
+        "icon": "spain_radio_lebrija_fm.png"
+    },
+    {
+        "name": "Radio Les Borges",
+        "country": "Spain",
+        "url": "http://188.164.198.121:8034/;",
+        "icon": "spain_radio_les_borges.png"
+    },
+    {
+        "name": "Radio Marca",
+        "country": "Spain",
+        "url": "https://marca-sansebastian.streaming-pro.com:6104/marca-le.mp3",
+        "icon": "spain_radio_marca.png"
+    },
+    {
+        "name": "Radio Maria",
+        "country": "Spain",
+        "url": "http://dreamsiteradiocp.com:8060/;",
+        "icon": "spain_radio_maria.png"
+    },
+    {
+        "name": "Radio Maria FM",
+        "country": "Spain",
+        "url": "http://dreamsiteradiocp2.com:8030/;",
+        "icon": "spain_radio_maria_fm.png"
+    },
+    {
+        "name": "Radio Nervion",
+        "country": "Spain",
+        "url": "https://radionervion.streaming-pro.com:6132/radionervion",
+        "icon": "spain_radio_nervion.png"
+    },
+    {
+        "name": "Radio Network RRN",
+        "country": "Spain",
+        "url": "http://94.23.85.189:8000/listen.mp3",
+        "icon": "spain_radio_network_rrn.png"
+    },
+    {
+        "name": "Radio RAC105 FM - Andorra La Vella",
+        "country": "Spain",
+        "url": "http://91.187.93.115:8010/;",
+        "icon": "spain_radio_rac105_fm_-_andorra_la_vella.png"
+    },
+    {
+        "name": "Radio Radio Network",
+        "country": "Spain",
+        "url": "http://stream.radioradio.es:8000/;",
+        "icon": "spain_radio_radio_network.png"
+    },
+    {
+        "name": "Radio Sirena Cope",
+        "country": "Spain",
+        "url": "http://rsirena.dnsalias.com:8000/rsirenacope",
+        "icon": "spain_radio_sirena_cope.png"
+    },
+    {
+        "name": "Radio Tele Taxi",
+        "country": "Spain",
+        "url": "https://radiott-web.streaming-pro.com:6103/radiott.mp3",
+        "icon": "spain_radio_tele_taxi.png"
+    },
+    {
+        "name": "Radio Vida Murcia",
+        "country": "Spain",
+        "url": "https://srv7021.dns-lcinternet.com/8022/stream",
+        "icon": "spain_radio_vida_murcia.png"
+    },
+    {
+        "name": "Radio Vitoria",
+        "country": "Spain",
+        "url": "http://mp3-eitb.stream.flumotion.com/eitb/radiovitoria.mp3",
+        "icon": "spain_radio_vitoria.png"
+    },
+    {
+        "name": "RNE Radio 5 Todo Noticias",
+        "country": "Spain",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne5/nav/mp3/high",
+        "icon": "spain_rne_radio_5_todo_noticias.png"
+    },
+    {
+        "name": "RNE Radio Nacional",
+        "country": "Spain",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne1/ara/mp3/high",
+        "icon": "spain_rne_radio_nacional.png"
+    },
+    {
+        "name": "RNE Radio Nacional Madrid",
+        "country": "Spain",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne1/mad/mp3/high",
+        "icon": "spain_rne_radio_nacional_madrid.png"
+    },
+    {
+        "name": "RNE Radio Nacional Navarra",
+        "country": "Spain",
+        "url": "https://dispatcher.rndfnk.com/crtve/rne1/nav/mp3/high",
+        "icon": "spain_rne_radio_nacional_navarra.png"
+    },
+    {
+        "name": "Rock FM",
+        "country": "Spain",
+        "url": "https://flucast-b02-02.flumotion.com/cope/rockfm-low.mp3",
+        "icon": "spain_rock_fm.png"
+    },
+    {
+        "name": "Talk Radio Europe",
+        "country": "Spain",
+        "url": "https://s3.yesstreaming.net:7014/;",
+        "icon": "spain_talk_radio_europe.png"
+    },
+    {
+        "name": "Tropic FM",
+        "country": "Spain",
+        "url": "https://c6.auracast.net:8050/radio.mp3",
+        "icon": "spain_tropic_fm.png"
+    },
+    {
+        "name": "Vida FM",
+        "country": "Spain",
+        "url": "http://ns3.mycloud-apps.es:8039/stream",
+        "icon": "spain_vida_fm.png"
+    }
+]

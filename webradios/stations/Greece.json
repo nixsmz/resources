@@ -1,0 +1,422 @@
+[
+    {
+        "name": "105 5 Sto Kokkino",
+        "country": "Greece",
+        "url": "https://stream.radiojar.com/kokkino-ath",
+        "icon": "greece_105_5_sto_kokkino.png"
+    },
+    {
+        "name": "91 2 Lamia DeeJay",
+        "country": "Greece",
+        "url": "http://mediacp.32bit.gr:8014/;",
+        "icon": "greece_91_2_lamia_deejay.png"
+    },
+    {
+        "name": "Alpha 98.9",
+        "country": "Greece",
+        "url": "https://stream.radiojar.com/xcdg6yggzfeuv",
+        "icon": "greece_alpha_98.9.png"
+    },
+    {
+        "name": "Apps",
+        "country": "Greece",
+        "url": "http://stream.myip.gr:9234/;",
+        "icon": "greece_apps.png"
+    },
+    {
+        "name": "Athina 984",
+        "country": "Greece",
+        "url": "https://athina984.live24.gr/athina984",
+        "icon": "greece_athina_984.png"
+    },
+    {
+        "name": "Best 926",
+        "country": "Greece",
+        "url": "https://best.live24.gr/best1222",
+        "icon": "greece_best_926.png"
+    },
+    {
+        "name": "City FM",
+        "country": "Greece",
+        "url": "http://eco.onestreaming.com:8173/;",
+        "icon": "greece_city_fm.png"
+    },
+    {
+        "name": "Ditika FM",
+        "country": "Greece",
+        "url": "https://netradio.live24.gr/dytikafm928agrinio",
+        "icon": "greece_ditika_fm.png"
+    },
+    {
+        "name": "Easy 972",
+        "country": "Greece",
+        "url": "https://stream.rcs.revma.com/4vr91u5r4a0uv",
+        "icon": "greece_easy_972.png"
+    },
+    {
+        "name": "Ekklesia tis Ellados Athens",
+        "country": "Greece",
+        "url": "http://85.10.206.222:8002/;",
+        "icon": "greece_ekklesia_tis_ellados_athens.png"
+    },
+    {
+        "name": "Ellinikos 93.2",
+        "country": "Greece",
+        "url": "https://orange.live24.gr/orange9320",
+        "icon": "greece_ellinikos_93.2.png"
+    },
+    {
+        "name": "Emphasis FM",
+        "country": "Greece",
+        "url": "https://streams.enjoyfm.gr:48502/emfasis.mp3",
+        "icon": "greece_emphasis_fm.png"
+    },
+    {
+        "name": "ERA 1 Proto Programma",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-proto",
+        "icon": "greece_era_1_proto_programma.png"
+    },
+    {
+        "name": "ERA 2 Deutero Programma",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-deftero",
+        "icon": "greece_era_2_deutero_programma.png"
+    },
+    {
+        "name": "ERA 3 Trito Programma",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-trito",
+        "icon": "greece_era_3_trito_programma.png"
+    },
+    {
+        "name": "ERA Diktyo Boreiou Aigaiou",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-aigaiou",
+        "icon": "greece_era_diktyo_boreiou_aigaiou.png"
+    },
+    {
+        "name": "ERA Diktyo Epirou - Ioannina",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-ioannina",
+        "icon": "greece_era_diktyo_epirou_-_ioannina.png"
+    },
+    {
+        "name": "ERA Diktyo Ionion Nision Kerkira",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-kerkyra",
+        "icon": "greece_era_diktyo_ionion_nision_kerkira.png"
+    },
+    {
+        "name": "ERA Diktyo Ionion Nision-Zakynthos",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-zakynthos",
+        "icon": "greece_era_diktyo_ionion_nision-zakynthos.png"
+    },
+    {
+        "name": "ERA Diktyo Kritis - Hania",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-chania",
+        "icon": "greece_era_diktyo_kritis_-_hania.png"
+    },
+    {
+        "name": "ERA Diktyo Kritis - Iraklio",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-heraklio",
+        "icon": "greece_era_diktyo_kritis_-_iraklio.png"
+    },
+    {
+        "name": "ERA Diktyo Makedonias - Florina",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-florina",
+        "icon": "greece_era_diktyo_makedonias_-_florina.png"
+    },
+    {
+        "name": "ERA Diktyo Makedonias - Kavala",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-kavala",
+        "icon": "greece_era_diktyo_makedonias_-_kavala.png"
+    },
+    {
+        "name": "ERA Diktyo Makedonias - Kozani",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-kozani",
+        "icon": "greece_era_diktyo_makedonias_-_kozani.png"
+    },
+    {
+        "name": "ERA Diktyo Peloponisou - Patra",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-patra",
+        "icon": "greece_era_diktyo_peloponisou_-_patra.png"
+    },
+    {
+        "name": "ERA Diktyo Peloponisou - Pirgos",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-pyrgos",
+        "icon": "greece_era_diktyo_peloponisou_-_pirgos.png"
+    },
+    {
+        "name": "ERA Diktyo Peloponisou - Tripoli",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-tripoli",
+        "icon": "greece_era_diktyo_peloponisou_-_tripoli.png"
+    },
+    {
+        "name": "ERA Diktyo Thessalias - Volos",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-volos",
+        "icon": "greece_era_diktyo_thessalias_-_volos.png"
+    },
+    {
+        "name": "ERA Diktyo Thrakis - Komotini",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-komotini",
+        "icon": "greece_era_diktyo_thrakis_-_komotini.png"
+    },
+    {
+        "name": "ERA Diktyo Thrakis - Orestiada",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-orestiada",
+        "icon": "greece_era_diktyo_thrakis_-_orestiada.png"
+    },
+    {
+        "name": "ERA Serron",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-serres",
+        "icon": "greece_era_serron.png"
+    },
+    {
+        "name": "ERA Sport",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-erasport",
+        "icon": "greece_era_sport.png"
+    },
+    {
+        "name": "Erotikos FM",
+        "country": "Greece",
+        "url": "http://eu1.fastcast4u.com:21624/;",
+        "icon": "greece_erotikos_fm.png"
+    },
+    {
+        "name": "ERT Rodou",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-rodos",
+        "icon": "greece_ert_rodou.png"
+    },
+    {
+        "name": "Evripos FM",
+        "country": "Greece",
+        "url": "http://hyades.shoutca.st:8570/;",
+        "icon": "greece_evripos_fm.png"
+    },
+    {
+        "name": "Focus Alexandroupoli FM",
+        "country": "Greece",
+        "url": "http://radio.onweb.gr:8014/;",
+        "icon": "greece_focus_alexandroupoli_fm.png"
+    },
+    {
+        "name": "Fos Radio TV",
+        "country": "Greece",
+        "url": "http://eu1.fastcast4u.com:9326/;",
+        "icon": "greece_fos_radio_tv.png"
+    },
+    {
+        "name": "Galaxy FM",
+        "country": "Greece",
+        "url": "https://galaxy.live24.gr/galaxy9292",
+        "icon": "greece_galaxy_fm.png"
+    },
+    {
+        "name": "Hit Radio",
+        "country": "Greece",
+        "url": "http://radio.onweb.gr:8006/;",
+        "icon": "greece_hit_radio.png"
+    },
+    {
+        "name": "Hroma FM",
+        "country": "Greece",
+        "url": "https://hroma1058thess.live24.gr/hroma1058thess",
+        "icon": "greece_hroma_fm.png"
+    },
+    {
+        "name": "Just Radio",
+        "country": "Greece",
+        "url": "http://sp3.streams.ovh:8110/;",
+        "icon": "greece_just_radio.png"
+    },
+    {
+        "name": "Kanali 1 Piraeus",
+        "country": "Greece",
+        "url": "https://netradio.live24.gr/kanali1peiraia",
+        "icon": "greece_kanali_1_piraeus.png"
+    },
+    {
+        "name": "Kiis Extra Patras",
+        "country": "Greece",
+        "url": "https://streams.enjoyfm.gr:48502/kiis.mp3",
+        "icon": "greece_kiis_extra_patras.png"
+    },
+    {
+        "name": "Kosmos FM",
+        "country": "Greece",
+        "url": "https://radiostreaming.ert.gr/ert-kosmos",
+        "icon": "greece_kosmos_fm.png"
+    },
+    {
+        "name": "Love Radio",
+        "country": "Greece",
+        "url": "https://netradio.live24.gr/loveradio-1000",
+        "icon": "greece_love_radio.png"
+    },
+    {
+        "name": "Max FM",
+        "country": "Greece",
+        "url": "https://stream.radiojar.com/qt9gf4hhdwzuv",
+        "icon": "greece_max_fm.png"
+    },
+    {
+        "name": "Metropolis FM",
+        "country": "Greece",
+        "url": "https://metromedia.live24.gr/metropolis955thess",
+        "icon": "greece_metropolis_fm.png"
+    },
+    {
+        "name": "ORT FM",
+        "country": "Greece",
+        "url": "http://radio.onweb.gr:8546/;",
+        "icon": "greece_ort_fm.png"
+    },
+    {
+        "name": "Palmos",
+        "country": "Greece",
+        "url": "https://i3.streams.ovh/ic/palmos/stream",
+        "icon": "greece_palmos.png"
+    },
+    {
+        "name": "Panorama 9.84",
+        "country": "Greece",
+        "url": "https://netradio.live24.gr/panorama984",
+        "icon": "greece_panorama_9.84.png"
+    },
+    {
+        "name": "Pepper",
+        "country": "Greece",
+        "url": "https://pepper966.live24.gr/pepper9660",
+        "icon": "greece_pepper.png"
+    },
+    {
+        "name": "Piraiki Ekklisia",
+        "country": "Greece",
+        "url": "https://impradio.bytemasters.gr/8002/stream",
+        "icon": "greece_piraiki_ekklisia.png"
+    },
+    {
+        "name": "Radio Anamnisi",
+        "country": "Greece",
+        "url": "https://sp.19clouds.net/8112/stream",
+        "icon": "greece_radio_anamnisi.png"
+    },
+    {
+        "name": "Radio Fasma",
+        "country": "Greece",
+        "url": "https://fasmafm.radioca.st/stream",
+        "icon": "greece_radio_fasma.png"
+    },
+    {
+        "name": "Radio Hristianismos",
+        "country": "Greece",
+        "url": "http://eu1.fastcast4u.com:9326/stream",
+        "icon": "greece_radio_hristianismos.png"
+    },
+    {
+        "name": "Radio Lydia",
+        "country": "Greece",
+        "url": "http://eu1.radiolydia.com:1086/;",
+        "icon": "greece_radio_lydia.png"
+    },
+    {
+        "name": "Radio Paradise",
+        "country": "Greece",
+        "url": "https://stream-sd1.radioparadise.com/mp3-32",
+        "icon": "greece_radio_paradise.png"
+    },
+    {
+        "name": "Radio Thessaloniki",
+        "country": "Greece",
+        "url": "http://eu7.fastcast4u.com:6156/;",
+        "icon": "greece_radio_thessaloniki.png"
+    },
+    {
+        "name": "Real FM",
+        "country": "Greece",
+        "url": "https://realfm2.live24.gr/realfm",
+        "icon": "greece_real_fm.png"
+    },
+    {
+        "name": "Red 96.3",
+        "country": "Greece",
+        "url": "https://stream.radiojar.com/red90s",
+        "icon": "greece_red_96.3.png"
+    },
+    {
+        "name": "RSO",
+        "country": "Greece",
+        "url": "http://tachyon.shoutca.st:8594/;",
+        "icon": "greece_rso.png"
+    },
+    {
+        "name": "Rythmos FM",
+        "country": "Greece",
+        "url": "https://stream.radiojar.com/aw1w2xfx1vduv",
+        "icon": "greece_rythmos_fm.png"
+    },
+    {
+        "name": "Sfera FM",
+        "country": "Greece",
+        "url": "https://stream.radiojar.com/mg2vq26eewzuv",
+        "icon": "greece_sfera_fm.png"
+    },
+    {
+        "name": "Skai",
+        "country": "Greece",
+        "url": "http://iphone.live24.gr/skai1003",
+        "icon": "greece_skai.png"
+    },
+    {
+        "name": "Sok FM",
+        "country": "Greece",
+        "url": "https://stream.radiojar.com/zeqcyyvu48hvv",
+        "icon": "greece_sok_fm.png"
+    },
+    {
+        "name": "Spor Patras FM",
+        "country": "Greece",
+        "url": "https://stream.radiojar.com/yb7bcbkfewzuv",
+        "icon": "greece_spor_patras_fm.png"
+    },
+    {
+        "name": "Sport FM",
+        "country": "Greece",
+        "url": "https://sportfm.live24.gr/sportfm7712",
+        "icon": "greece_sport_fm.png"
+    },
+    {
+        "name": "Star FM",
+        "country": "Greece",
+        "url": "http://136.243.102.164:8044/;",
+        "icon": "greece_star_fm.png"
+    },
+    {
+        "name": "Velvet",
+        "country": "Greece",
+        "url": "http://s10.voscast.com:9942/;",
+        "icon": "greece_velvet.png"
+    },
+    {
+        "name": "ZOO",
+        "country": "Greece",
+        "url": "http://s10.voscast.com:9940/;",
+        "icon": "greece_zoo.png"
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "name": "Canale Bari",
+        "country": "Italy",
+        "url": "http://betelgeuse.dribbcast.com:4014/stream",
+        "icon": "italy_canale_bari.png"
+    },
+    {
+        "name": "Canale Italia Plus",
+        "country": "Italy",
+        "url": "http://rci.canaleitalia.tv:8005/",
+        "icon": "italy_canale_italia_plus.png"
+    },
+    {
+        "name": "Giornale Radio",
+        "country": "Italy",
+        "url": "https://ns3159873.ip-51-91-131.eu:2000/stream/GiornaleRadio/;",
+        "icon": "italy_giornale_radio.png"
+    },
+    {
+        "name": "Latte Miele",
+        "country": "Italy",
+        "url": "https://sr15.inmystream.it/stream/lattemiele",
+        "icon": "italy_latte_miele.png"
+    },
+    {
+        "name": "Lifegate FM",
+        "country": "Italy",
+        "url": "http://onair15.xdevel.com:8254/;",
+        "icon": "italy_lifegate_fm.png"
+    },
+    {
+        "name": "Love FM",
+        "country": "Italy",
+        "url": "https://ice17.fluidstream.net/love02.mp3",
+        "icon": "italy_love_fm.png"
+    },
+    {
+        "name": "Radio 1 Mondo",
+        "country": "Italy",
+        "url": "https://icestreaming.rai.it/8.mp3",
+        "icon": "italy_radio_1_mondo.png"
+    },
+    {
+        "name": "Radio 101",
+        "country": "Italy",
+        "url": "https://icy.unitedradio.it/r101_mp3",
+        "icon": "italy_radio_101.png"
+    },
+    {
+        "name": "Radio 105",
+        "country": "Italy",
+        "url": "https://icy.unitedradio.it/Radio105.mp3",
+        "icon": "italy_radio_105.png"
+    },
+    {
+        "name": "Radio 24",
+        "country": "Italy",
+        "url": "http://shoutcast2.radio24.it:8000/;",
+        "icon": "italy_radio_24.png"
+    },
+    {
+        "name": "Radio 80",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/radio80.mp3",
+        "icon": "italy_radio_80.png"
+    },
+    {
+        "name": "Radio Alta",
+        "country": "Italy",
+        "url": "https://live.radioalta.it/stream.mp3",
+        "icon": "italy_radio_alta.png"
+    },
+    {
+        "name": "Radio Azzura Sud",
+        "country": "Italy",
+        "url": "https://ice09.fluidstream.net/fluid0906.mp3",
+        "icon": "italy_radio_azzura_sud.png"
+    },
+    {
+        "name": "Radio Bellla e Monella",
+        "country": "Italy",
+        "url": "https://ice02.fluidstream.net/bella.mp3",
+        "icon": "italy_radio_bellla_e_monella.png"
+    },
+    {
+        "name": "Radio Birikina",
+        "country": "Italy",
+        "url": "https://ice02.fluidstream.net/birikina.mp3",
+        "icon": "italy_radio_birikina.png"
+    },
+    {
+        "name": "Radio Bruno",
+        "country": "Italy",
+        "url": "http://onair7.xdevel.com:8752/;",
+        "icon": "italy_radio_bruno.png"
+    },
+    {
+        "name": "Radio Company",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/company.mp3",
+        "icon": "italy_radio_company.png"
+    },
+    {
+        "name": "Radio Freccia",
+        "country": "Italy",
+        "url": "https://streamingv2.shoutcast.com/radiofreccia",
+        "icon": "italy_radio_freccia.png"
+    },
+    {
+        "name": "Radio Galileo",
+        "country": "Italy",
+        "url": "http://81.25.96.98:8000/RG",
+        "icon": "italy_radio_galileo.png"
+    },
+    {
+        "name": "Radio Globo",
+        "country": "Italy",
+        "url": "https://italia.lolliradio.net/proxy/radioglobo?mp=/globorm128",
+        "icon": "italy_radio_globo.png"
+    },
+    {
+        "name": "Radio Italia 5",
+        "country": "Italy",
+        "url": "https://stream1.xdevel.com/audio0s975662-256/stream/icecast.audio",
+        "icon": "italy_radio_italia_5.png"
+    },
+    {
+        "name": "Radio Italia Anni 60",
+        "country": "Italy",
+        "url": "https://str01.fluidstream.net/anni60.mp3",
+        "icon": "italy_radio_italia_anni_60.png"
+    },
+    {
+        "name": "Radio Kiss Kiss",
+        "country": "Italy",
+        "url": "http://wma07.fluidstream.net:4608/;",
+        "icon": "italy_radio_kiss_kiss.png"
+    },
+    {
+        "name": "Radio Kiss Kiss Italia",
+        "country": "Italy",
+        "url": "http://wma07.fluidstream.net:3616/;",
+        "icon": "italy_radio_kiss_kiss_italia.png"
+    },
+    {
+        "name": "Radio Linea N 1",
+        "country": "Italy",
+        "url": "https://rblive80.it/radiobrand2/8324",
+        "icon": "italy_radio_linea_n_1.png"
+    },
+    {
+        "name": "Radio Lombardia",
+        "country": "Italy",
+        "url": "http://onair11.xdevel.com:10014/;",
+        "icon": "italy_radio_lombardia.png"
+    },
+    {
+        "name": "Radio Margherita",
+        "country": "Italy",
+        "url": "https://stream5.xdevel.com/audio0s975929-659/stream/icecast.audio",
+        "icon": "italy_radio_margherita.png"
+    },
+    {
+        "name": "Radio Maria",
+        "country": "Italy",
+        "url": "http://dreamsiteradiocp.com:8092/;",
+        "icon": "italy_radio_maria.png"
+    },
+    {
+        "name": "Radio Marilu",
+        "country": "Italy",
+        "url": "https://ice02.fluidstream.net/marilu.mp3",
+        "icon": "italy_radio_marilu.png"
+    },
+    {
+        "name": "Radio Mille Note",
+        "country": "Italy",
+        "url": "https://str04.fluidstream.net/millenote.mp3",
+        "icon": "italy_radio_mille_note.png"
+    },
+    {
+        "name": "Radio Napoli",
+        "country": "Italy",
+        "url": "https://ice06.fluidstream.net/RadioNapoli.mp3",
+        "icon": "italy_radio_napoli.png"
+    },
+    {
+        "name": "Radio NBC Rete Regione",
+        "country": "Italy",
+        "url": "https://trentov2.meway.host/live",
+        "icon": "italy_radio_nbc_rete_regione.png"
+    },
+    {
+        "name": "Radio NBC Rete Regione - Bolzano",
+        "country": "Italy",
+        "url": "http://audio1.meway.tv:8016/;",
+        "icon": "italy_radio_nbc_rete_regione_-_bolzano.png"
+    },
+    {
+        "name": "Radio Nostalgia",
+        "country": "Italy",
+        "url": "https://sc.streamingfm.it:8072/nostalgia.mp3",
+        "icon": "italy_radio_nostalgia.png"
+    },
+    {
+        "name": "Radio Number One",
+        "country": "Italy",
+        "url": "https://rn1.fluidstream.eu/rn1.mp3",
+        "icon": "italy_radio_number_one.png"
+    },
+    {
+        "name": "Radio Number One Dance",
+        "country": "Italy",
+        "url": "http://ice10.fluidstream.net/rn1_2.mp3",
+        "icon": "italy_radio_number_one_dance.png"
+    },
+    {
+        "name": "Radio Onda Libera",
+        "country": "Italy",
+        "url": "http://onair15.xdevel.com:8972/;",
+        "icon": "italy_radio_onda_libera.png"
+    },
+    {
+        "name": "Radio Oreb",
+        "country": "Italy",
+        "url": "http://onair11.xdevel.com:8200/;",
+        "icon": "italy_radio_oreb.png"
+    },
+    {
+        "name": "Radio Padania Libera",
+        "country": "Italy",
+        "url": "http://onair15.xdevel.com:8258/;",
+        "icon": "italy_radio_padania_libera.png"
+    },
+    {
+        "name": "Radio Piter Pan",
+        "country": "Italy",
+        "url": "https://ice02.fluidstream.net/piterpan.mp3",
+        "icon": "italy_radio_piter_pan.png"
+    },
+    {
+        "name": "Radio Piu",
+        "country": "Italy",
+        "url": "http://distorzi.radioca.st:8532/1",
+        "icon": "italy_radio_piu.png"
+    },
+    {
+        "name": "Radio Puglia",
+        "country": "Italy",
+        "url": "http://audio1.meway.tv:8108/;",
+        "icon": "italy_radio_puglia.png"
+    },
+    {
+        "name": "Radio Punto Nuovo",
+        "country": "Italy",
+        "url": "http://onair15.xdevel.com:8062/;",
+        "icon": "italy_radio_punto_nuovo.png"
+    },
+    {
+        "name": "Radio Radicale",
+        "country": "Italy",
+        "url": "https://live.radioradicale.it/live.mp3",
+        "icon": "italy_radio_radicale.png"
+    },
+    {
+        "name": "Radio Radio",
+        "country": "Italy",
+        "url": "http://sr6.inmystream.it:8102/stream",
+        "icon": "italy_radio_radio.png"
+    },
+    {
+        "name": "Radio Sorrriso",
+        "country": "Italy",
+        "url": "https://wma02.fluidstream.net:8080/sorriso",
+        "icon": "italy_radio_sorrriso.png"
+    },
+    {
+        "name": "Radio Spazio",
+        "country": "Italy",
+        "url": "http://nrf1.newradio.it:10228/stream",
+        "icon": "italy_radio_spazio.png"
+    },
+    {
+        "name": "Radio Sportiva",
+        "country": "Italy",
+        "url": "http://46.105.114.57:8000/stream",
+        "icon": "italy_radio_sportiva.png"
+    },
+    {
+        "name": "Radio Stella Citta",
+        "country": "Italy",
+        "url": "http://onair18.xdevel.com:8086/;",
+        "icon": "italy_radio_stella_citta.png"
+    },
+    {
+        "name": "Radio Studio Delta",
+        "country": "Italy",
+        "url": "http://shoutcast.streamingmedia.it:7203/;",
+        "icon": "italy_radio_studio_delta.png"
+    },
+    {
+        "name": "Radio Subasio",
+        "country": "Italy",
+        "url": "https://icy.unitedradio.it/Subasio.mp3",
+        "icon": "italy_radio_subasio.png"
+    },
+    {
+        "name": "Radio Torino",
+        "country": "Italy",
+        "url": "http://stream15.top-ix.org:8000/radiotorino",
+        "icon": "italy_radio_torino.png"
+    },
+    {
+        "name": "Radio Toscana",
+        "country": "Italy",
+        "url": "http://stream5.xdevel.com/audio4s976317-1148/stream/icecast.audio",
+        "icon": "italy_radio_toscana.png"
+    },
+    {
+        "name": "Radio Venezia - La che Balla",
+        "country": "Italy",
+        "url": "http://audio.streamshow.it:8012/;",
+        "icon": "italy_radio_venezia_-_la_che_balla.png"
+    },
+    {
+        "name": "Radio Verona",
+        "country": "Italy",
+        "url": "https://ice04.fluidstream.net/fluid0405.mp3",
+        "icon": "italy_radio_verona.png"
+    },
+    {
+        "name": "Radio Wow",
+        "country": "Italy",
+        "url": "https://sphera.fluidstream.eu/fluid_wow.mp3",
+        "icon": "italy_radio_wow.png"
+    },
+    {
+        "name": "Radio Zeta",
+        "country": "Italy",
+        "url": "http://hirschmilch.de:7000/chillout.mp3",
+        "icon": "italy_radio_zeta.png"
+    },
+    {
+        "name": "Rai 1 Sport",
+        "country": "Italy",
+        "url": "https://icestreaming.rai.it/13.mp3",
+        "icon": "italy_rai_1_sport.png"
+    },
+    {
+        "name": "Rai GR Parlamento",
+        "country": "Italy",
+        "url": "https://icestreaming.rai.it/7.mp3",
+        "icon": "italy_rai_gr_parlamento.png"
+    },
+    {
+        "name": "Rai Isoradio",
+        "country": "Italy",
+        "url": "https://icestreaming.rai.it/6.mp3",
+        "icon": "italy_rai_isoradio.png"
+    },
+    {
+        "name": "Rai Radio 1",
+        "country": "Italy",
+        "url": "https://icestreaming.rai.it/1.mp3",
+        "icon": "italy_rai_radio_1.png"
+    },
+    {
+        "name": "Rai Radio 2",
+        "country": "Italy",
+        "url": "https://icestreaming.rai.it/2.mp3",
+        "icon": "italy_rai_radio_2.png"
+    },
+    {
+        "name": "Rai Radio 3",
+        "country": "Italy",
+        "url": "https://icestreaming.rai.it/3.mp3",
+        "icon": "italy_rai_radio_3.png"
+    },
+    {
+        "name": "Rai Radio Classica",
+        "country": "Italy",
+        "url": "https://icestreaming.rai.it/5.mp3",
+        "icon": "italy_rai_radio_classica.png"
+    },
+    {
+        "name": "Rai Sudtirol",
+        "country": "Italy",
+        "url": "https://radiobzlive.rai.it/RAIBZ_Livestream",
+        "icon": "italy_rai_sudtirol.png"
+    },
+    {
+        "name": "RAI Suedtirol",
+        "country": "Italy",
+        "url": "https://radiobzlive.rai.it/RAI_Suedtirol",
+        "icon": "italy_rai_suedtirol.png"
+    },
+    {
+        "name": "Rete Sport",
+        "country": "Italy",
+        "url": "https://icecast.ithost.it/retesport.ogg",
+        "icon": "italy_rete_sport.png"
+    },
+    {
+        "name": "RMC Radio Monte Carlo",
+        "country": "Italy",
+        "url": "https://icecast.unitedradio.it/RMC.mp3",
+        "icon": "italy_rmc_radio_monte_carlo.png"
+    },
+    {
+        "name": "RR News",
+        "country": "Italy",
+        "url": "https://live.radioradicale.it/dab.mp3",
+        "icon": "italy_rr_news.png"
+    },
+    {
+        "name": "RTL - Best",
+        "country": "Italy",
+        "url": "https://streamingv2.shoutcast.com/rtl-1025-best",
+        "icon": "italy_rtl_-_best.png"
+    },
+    {
+        "name": "RTL - Napule",
+        "country": "Italy",
+        "url": "https://streamingv2.shoutcast.com/rtl-1025-napule",
+        "icon": "italy_rtl_-_napule.png"
+    },
+    {
+        "name": "RTL - Romeo & Juliet",
+        "country": "Italy",
+        "url": "https://streamingv2.shoutcast.com/rtl-1025-romeoandjuliet",
+        "icon": "italy_rtl_-_romeo_&_juliet.png"
+    },
+    {
+        "name": "RTL 102.5",
+        "country": "Italy",
+        "url": "https://streamingv2.shoutcast.com/rtl-1025",
+        "icon": "italy_rtl_102.5.png"
+    },
+    {
+        "name": "RTL 102.5 DOC",
+        "country": "Italy",
+        "url": "https://streamingv2.shoutcast.com/rtl-1025-doc",
+        "icon": "italy_rtl_102.5_doc.png"
+    },
+    {
+        "name": "RTL Via Radio",
+        "country": "Italy",
+        "url": "http://eu9.fastcast4u.com:5068/;",
+        "icon": "italy_rtl_via_radio.png"
+    },
+    {
+        "name": "RTT",
+        "country": "Italy",
+        "url": "https://str01.fluidstream.net/rtt.mp3",
+        "icon": "italy_rtt.png"
+    },
+    {
+        "name": "Subasio PIU",
+        "country": "Italy",
+        "url": "https://icy.unitedradio.it/SubasioPiu.mp3",
+        "icon": "italy_subasio_piu.png"
+    },
+    {
+        "name": "Umbria Radio",
+        "country": "Italy",
+        "url": "http://s3.shoutitaly.com:8065/stream",
+        "icon": "italy_umbria_radio.png"
+    },
+    {
+        "name": "Virgin Radio",
+        "country": "Italy",
+        "url": "https://icecast.unitedradio.it/Virgin.mp3",
+        "icon": "italy_virgin_radio.png"
+    },
+    {
+        "name": "Viva FM",
+        "country": "Italy",
+        "url": "http://stream2.vivafm.it:8002/;",
+        "icon": "italy_viva_fm.png"
+    }
+]

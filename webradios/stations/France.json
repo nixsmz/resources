@@ -1,0 +1,512 @@
+[
+    {
+        "name": "Africa No 1",
+        "country": "France",
+        "url": "https://african1paris.ice.infomaniak.ch/african1paris-64.mp3",
+        "icon": "france_africa_no_1.png"
+    },
+    {
+        "name": "Alta Frequenza",
+        "country": "France",
+        "url": "https://altafrequenza.ice.infomaniak.ch/altafrequenza-128.mp3",
+        "icon": "france_alta_frequenza.png"
+    },
+    {
+        "name": "Autoroute Info Nord",
+        "country": "France",
+        "url": "https://media.autorouteinfo.fr/direct_nord.mp3",
+        "icon": "france_autoroute_info_nord.png"
+    },
+    {
+        "name": "B FM Business",
+        "country": "France",
+        "url": "https://bfmbusiness.bfmtv.com/bfmbradio-mp3?id=Pmo9Oq0H5z",
+        "icon": "france_b_fm_business.png"
+    },
+    {
+        "name": "Beur FM",
+        "country": "France",
+        "url": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
+        "icon": "france_beur_fm.png"
+    },
+    {
+        "name": "BFM RADIO",
+        "country": "France",
+        "url": "https://audio.bfmtv.com/bfmradio_128.mp3",
+        "icon": "france_bfm_radio.png"
+    },
+    {
+        "name": "Cerise FM",
+        "country": "France",
+        "url": "https://n26a-eu.rcs.revma.com/q90fb3dwnwzuv.mp3?rj-ttl=5&rj-tok=AAABgpc_-yoAjKVhVkKfShwMpQ",
+        "icon": "france_cerise_fm.png"
+    },
+    {
+        "name": "Chante France",
+        "country": "France",
+        "url": "https://stream1.evasionfm.com/Chante_France",
+        "icon": "france_chante_france.png"
+    },
+    {
+        "name": "Cherie FM",
+        "country": "France",
+        "url": "https://scdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3",
+        "icon": "france_cherie_fm.png"
+    },
+    {
+        "name": "Classic FM",
+        "country": "France",
+        "url": "https://classicfm.ice.infomaniak.ch/classic-fm.mp3",
+        "icon": "france_classic_fm.png"
+    },
+    {
+        "name": "Europe 1",
+        "country": "France",
+        "url": "http://ais-live.cloud-services.paris:8000/europe1.mp3",
+        "icon": "france_europe_1.png"
+    },
+    {
+        "name": "Europe 2",
+        "country": "France",
+        "url": "https://europe2.lmn.fm/europe2.mp3",
+        "icon": "france_europe_2.png"
+    },
+    {
+        "name": "FIP",
+        "country": "France",
+        "url": "https://direct.fipradio.fr/live/fipnantes-lofi.mp3",
+        "icon": "france_fip.png"
+    },
+    {
+        "name": "Forum FM",
+        "country": "France",
+        "url": "https://forumlive.ice.infomaniak.ch/forumlive.mp3",
+        "icon": "france_forum_fm.png"
+    },
+    {
+        "name": "France Bleu Alsace",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbalsace-midfi.mp3",
+        "icon": "france_france_bleu_alsace.png"
+    },
+    {
+        "name": "France Bleu Armorique",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbarmorique-lofi.mp3",
+        "icon": "france_france_bleu_armorique.png"
+    },
+    {
+        "name": "France Bleu Azur",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbazur-lofi.mp3",
+        "icon": "france_france_bleu_azur.png"
+    },
+    {
+        "name": "France Bleu Bourgogne",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbbourgogne-lofi.mp3",
+        "icon": "france_france_bleu_bourgogne.png"
+    },
+    {
+        "name": "France Bleu Breizh Izel",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbbreizizel-lofi.mp3",
+        "icon": "france_france_bleu_breizh_izel.png"
+    },
+    {
+        "name": "France Bleu Gard Lozere",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbgardlozere-lofi.mp3",
+        "icon": "france_france_bleu_gard_lozere.png"
+    },
+    {
+        "name": "France Bleu Isere",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbisere-lofi.mp3",
+        "icon": "france_france_bleu_isere.png"
+    },
+    {
+        "name": "France Bleu Limousin",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fblimousin-lofi.mp3",
+        "icon": "france_france_bleu_limousin.png"
+    },
+    {
+        "name": "France Bleu Loire Ocean",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbloireocean-lofi.mp3",
+        "icon": "france_france_bleu_loire_ocean.png"
+    },
+    {
+        "name": "France Bleu Nord",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbnord-lofi.mp3",
+        "icon": "france_france_bleu_nord.png"
+    },
+    {
+        "name": "France Bleu Normandie Calvados - Orne",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbbassenormandie-lofi.mp3",
+        "icon": "france_france_bleu_normandie_calvados_-_orne.png"
+    },
+    {
+        "name": "France Bleu Normandie Seine-Maritime - Eure",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbhautenormandie-lofi.mp3",
+        "icon": "france_france_bleu_normandie_seine-maritime_-_eure.png"
+    },
+    {
+        "name": "France Bleu Occitanie",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbtoulouse-lofi.mp3",
+        "icon": "france_france_bleu_occitanie.png"
+    },
+    {
+        "name": "France Bleu Pays D Auvergne",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbpaysdauvergne-lofi.mp3",
+        "icon": "france_france_bleu_pays_d_auvergne.png"
+    },
+    {
+        "name": "France Bleu Pays de Savoie",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbpaysdesavoie-lofi.mp3",
+        "icon": "france_france_bleu_pays_de_savoie.png"
+    },
+    {
+        "name": "France Bleu Perigord",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbperigord-lofi.mp3",
+        "icon": "france_france_bleu_perigord.png"
+    },
+    {
+        "name": "France Bleu Picardie",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbpicardie-lofi.mp3",
+        "icon": "france_france_bleu_picardie.png"
+    },
+    {
+        "name": "France Bleu Provence",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbprovence-lofi.mp3",
+        "icon": "france_france_bleu_provence.png"
+    },
+    {
+        "name": "France Bleu Rc FM",
+        "country": "France",
+        "url": "https://direct.francebleu.fr/live/fbfrequenzamora-lofi.mp3",
+        "icon": "france_france_bleu_rc_fm.png"
+    },
+    {
+        "name": "France Culture",
+        "country": "France",
+        "url": "https://direct.franceculture.fr/live/franceculture-lofi.mp3",
+        "icon": "france_france_culture.png"
+    },
+    {
+        "name": "France Info",
+        "country": "France",
+        "url": "https://direct.franceinfo.fr/live/franceinfo-lofi.mp3",
+        "icon": "france_france_info.png"
+    },
+    {
+        "name": "France Inter",
+        "country": "France",
+        "url": "https://direct.franceinter.fr/live/franceinter-lofi.mp3",
+        "icon": "france_france_inter.png"
+    },
+    {
+        "name": "France Maghreb 2",
+        "country": "France",
+        "url": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
+        "icon": "france_france_maghreb_2.png"
+    },
+    {
+        "name": "France Musique",
+        "country": "France",
+        "url": "https://direct.francemusique.fr/live/francemusique-lofi.mp3",
+        "icon": "france_france_musique.png"
+    },
+    {
+        "name": "FUN Radio",
+        "country": "France",
+        "url": "https://icecast.funradio.fr/fun-1-44-64",
+        "icon": "france_fun_radio.png"
+    },
+    {
+        "name": "Generations FM",
+        "country": "France",
+        "url": "https://generationfm.ice.infomaniak.ch/generationfm-high.mp3",
+        "icon": "france_generations_fm.png"
+    },
+    {
+        "name": "Jazz Radio",
+        "country": "France",
+        "url": "https://jazzradio.ice.infomaniak.ch/jazzradio-monaco.mp3",
+        "icon": "france_jazz_radio.png"
+    },
+    {
+        "name": "La Radio Plus",
+        "country": "France",
+        "url": "https://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3",
+        "icon": "france_la_radio_plus.png"
+    },
+    {
+        "name": "M Radio",
+        "country": "France",
+        "url": "https://mfm.ice.infomaniak.ch/mfm-128",
+        "icon": "france_m_radio.png"
+    },
+    {
+        "name": "MC Doualiya",
+        "country": "France",
+        "url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+        "icon": "france_mc_doualiya.png"
+    },
+    {
+        "name": "Melody Vintage Radio",
+        "country": "France",
+        "url": "https://str0.creacast.com/melody2",
+        "icon": "france_melody_vintage_radio.png"
+    },
+    {
+        "name": "Mouv FM",
+        "country": "France",
+        "url": "https://direct.mouv.fr/live/mouv-lofi.mp3",
+        "icon": "france_mouv_fm.png"
+    },
+    {
+        "name": "Nostalgie",
+        "country": "France",
+        "url": "https://scdn.nrjaudio.fm/adwz2/fr/30601/mp3_128.mp3",
+        "icon": "france_nostalgie.png"
+    },
+    {
+        "name": "Nova Paris",
+        "country": "France",
+        "url": "https://radionova.ice.infomaniak.ch/novazz-128.mp3",
+        "icon": "france_nova_paris.png"
+    },
+    {
+        "name": "NRJ",
+        "country": "France",
+        "url": "http://185.52.127.155/fr/30001/mp3_128.mp3",
+        "icon": "france_nrj.png"
+    },
+    {
+        "name": "Radio Benin",
+        "country": "France",
+        "url": "https://listen.radioking.com/radio/47608/stream/84424",
+        "icon": "france_radio_benin.png"
+    },
+    {
+        "name": "Radio Bonheur",
+        "country": "France",
+        "url": "https://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3",
+        "icon": "france_radio_bonheur.png"
+    },
+    {
+        "name": "Radio Cap Sao",
+        "country": "France",
+        "url": "https://capsaopremium.ice.infomaniak.ch/capsaopremium-128.mp3",
+        "icon": "france_radio_cap_sao.png"
+    },
+    {
+        "name": "Radio Classique",
+        "country": "France",
+        "url": "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3",
+        "icon": "france_radio_classique.png"
+    },
+    {
+        "name": "Radio Crooner",
+        "country": "France",
+        "url": "https://croonerradio_american.ice.infomaniak.ch/croonerradio-american-midfi",
+        "icon": "france_radio_crooner.png"
+    },
+    {
+        "name": "Radio Esperance",
+        "country": "France",
+        "url": "https://bretagne5.streamakaci.com/esperance.mp3",
+        "icon": "france_radio_esperance.png"
+    },
+    {
+        "name": "Radio FG",
+        "country": "France",
+        "url": "https://radiofg.impek.com/fg",
+        "icon": "france_radio_fg.png"
+    },
+    {
+        "name": "Radio Maria France",
+        "country": "France",
+        "url": "https://dreamsiteradiocp6.com/proxy/rmfrance1?mp=/stream",
+        "icon": "france_radio_maria_france.png"
+    },
+    {
+        "name": "Radio Orient",
+        "country": "France",
+        "url": "https://stream.rcs.revma.com/7hnrkawf4p8uv.mp3",
+        "icon": "france_radio_orient.png"
+    },
+    {
+        "name": "Radio Presence",
+        "country": "France",
+        "url": "https://direct.radiopresence.com/radio-presence-figeac",
+        "icon": "france_radio_presence.png"
+    },
+    {
+        "name": "Radio Scoop",
+        "country": "France",
+        "url": "https://radioscoopbourg-en-bresse.ice.infomaniak.ch/radioscoop-bourg-128.mp3",
+        "icon": "france_radio_scoop.png"
+    },
+    {
+        "name": "Radio Star",
+        "country": "France",
+        "url": "https://www.radioking.com/play/radio-star",
+        "icon": "france_radio_star.png"
+    },
+    {
+        "name": "Radio Vinci Autoroutes",
+        "country": "France",
+        "url": "https://str0.creacast.com/radio_vinci_autoroutes_4",
+        "icon": "france_radio_vinci_autoroutes.png"
+    },
+    {
+        "name": "RCF",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf17.mp3",
+        "icon": "france_rcf.png"
+    },
+    {
+        "name": "RCF en Bourgogne",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf21.mp3",
+        "icon": "france_rcf_en_bourgogne.png"
+    },
+    {
+        "name": "RCF Haute-Savoie",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf74.mp3",
+        "icon": "france_rcf_haute-savoie.png"
+    },
+    {
+        "name": "RCF Jura",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf39.mp3",
+        "icon": "france_rcf_jura.png"
+    },
+    {
+        "name": "RCF M",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf83.mp3",
+        "icon": "france_rcf_m.png"
+    },
+    {
+        "name": "RCF Maguelone Herault",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf34.mp3",
+        "icon": "france_rcf_maguelone_herault.png"
+    },
+    {
+        "name": "RCF Poitou",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf86.mp3",
+        "icon": "france_rcf_poitou.png"
+    },
+    {
+        "name": "RCF Puy de Dome",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf63.mp3",
+        "icon": "france_rcf_puy_de_dome.png"
+    },
+    {
+        "name": "RCF Savoie",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf73.mp3",
+        "icon": "france_rcf_savoie.png"
+    },
+    {
+        "name": "RCF Vendee",
+        "country": "France",
+        "url": "https://rcf.streamakaci.com/rcf85.mp3",
+        "icon": "france_rcf_vendee.png"
+    },
+    {
+        "name": "RFM",
+        "country": "France",
+        "url": "http://ais-live.cloud-services.paris:8000/rfm.mp3",
+        "icon": "france_rfm.png"
+    },
+    {
+        "name": "RMC FM",
+        "country": "France",
+        "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
+        "icon": "france_rmc_fm.png"
+    },
+    {
+        "name": "RTL",
+        "country": "France",
+        "url": "https://icecast.funradio.fr/rtl-1-44-64",
+        "icon": "france_rtl.png"
+    },
+    {
+        "name": "RTL 2",
+        "country": "France",
+        "url": "https://streamer-02.rtl.fr/rtl2-1-44-128",
+        "icon": "france_rtl_2.png"
+    },
+    {
+        "name": "Sanef",
+        "country": "France",
+        "url": "https://sanef.ice.infomaniak.ch/sanef1077-ouest.mp3",
+        "icon": "france_sanef.png"
+    },
+    {
+        "name": "Skyrock",
+        "country": "France",
+        "url": "https://icecast.skyrock.net/s/natio_mp3_128k",
+        "icon": "france_skyrock.png"
+    },
+    {
+        "name": "Sud Radio",
+        "country": "France",
+        "url": "https://start-sud.ice.infomaniak.ch/start-sud-high.mp3",
+        "icon": "france_sud_radio.png"
+    },
+    {
+        "name": "Sweet FM",
+        "country": "France",
+        "url": "https://sweetfm-lemans.ice.infomaniak.ch/sweetfm-lemans-192.mp3",
+        "icon": "france_sweet_fm.png"
+    },
+    {
+        "name": "Swigg FM",
+        "country": "France",
+        "url": "https://start-adofm.ice.infomaniak.ch/start-adofm-high",
+        "icon": "france_swigg_fm.png"
+    },
+    {
+        "name": "Tendance Ouest",
+        "country": "France",
+        "url": "https://streaming.tendanceouest.com/toorne.mp3",
+        "icon": "france_tendance_ouest.png"
+    },
+    {
+        "name": "Totem FM",
+        "country": "France",
+        "url": "https://aratotem.ice.infomaniak.ch/auvergne.mp3",
+        "icon": "france_totem_fm.png"
+    },
+    {
+        "name": "Vibration FM",
+        "country": "France",
+        "url": "https://vibration.ice.infomaniak.ch/vibration-high.mp3",
+        "icon": "france_vibration_fm.png"
+    },
+    {
+        "name": "Virage Radio",
+        "country": "France",
+        "url": "https://virageradio.ice.infomaniak.ch/virageradio-villefranche.mp3",
+        "icon": "france_virage_radio.png"
+    }
+]

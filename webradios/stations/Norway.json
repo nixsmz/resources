@@ -1,0 +1,446 @@
+[
+    {
+        "name": "Ariel radio",
+        "country": "Norway",
+        "url": "https://streams.radio.co/sf069f3c03/listen",
+        "icon": "norway_ariel_radio.png"
+    },
+    {
+        "name": "Big hiphop & rnb",
+        "country": "Norway",
+        "url": "https://live-bauerno.sharp-stream.com/station10_no_hq",
+        "icon": "norway_big_hiphop_&_rnb.png"
+    },
+    {
+        "name": "Bingokanalen",
+        "country": "Norway",
+        "url": "http://radioip.no:8000/stream/5/;",
+        "icon": "norway_bingokanalen.png"
+    },
+    {
+        "name": "Bygderadio vest radio nordvest volda sunnmre",
+        "country": "Norway",
+        "url": "http://radio.bygderadiovest.no:8000/radio",
+        "icon": "norway_bygderadio_vest_radio_nordvest_volda_sunnmre.png"
+    },
+    {
+        "name": "Elverums radioen",
+        "country": "Norway",
+        "url": "https://lyd.radioene.no/elverum.mp3",
+        "icon": "norway_elverums_radioen.png"
+    },
+    {
+        "name": "Guovdageainnu lagasradio (glr), radio dsf, bbc ws",
+        "country": "Norway",
+        "url": "https://streaming.radio.co/s5b773f8d3/listen",
+        "icon": "norway_guovdageainnu_lagasradio_(glr),_radio_dsf,_bbc_ws.png"
+    },
+    {
+        "name": "Hamar radioen mjsradioen",
+        "country": "Norway",
+        "url": "http://lyd.radioene.no:8000/hamar.mp3",
+        "icon": "norway_hamar_radioen_mjsradioen.png"
+    },
+    {
+        "name": "Hjalarhornet radio telemark",
+        "country": "Norway",
+        "url": "https://lyd.hjalar.no/hjalar_hq",
+        "icon": "norway_hjalarhornet_radio_telemark.png"
+    },
+    {
+        "name": "Jm radio",
+        "country": "Norway",
+        "url": "http://radioip.no:443/jm",
+        "icon": "norway_jm_radio.png"
+    },
+    {
+        "name": "Jul i innlandet",
+        "country": "Norway",
+        "url": "http://lyd.radioene.no:8000/jul.mp3",
+        "icon": "norway_jul_i_innlandet.png"
+    },
+    {
+        "name": "Kiss",
+        "country": "Norway",
+        "url": "https://live-bauerno.sharp-stream.com/kiss_no_mp3",
+        "icon": "norway_kiss.png"
+    },
+    {
+        "name": "Klem fm",
+        "country": "Norway",
+        "url": "https://p7.p4groupaudio.com/P07_MH",
+        "icon": "norway_klem_fm.png"
+    },
+    {
+        "name": "Kristenradio vest",
+        "country": "Norway",
+        "url": "http://5604.cloudrad.io:8268/kristenradiovest.mp3",
+        "icon": "norway_kristenradio_vest.png"
+    },
+    {
+        "name": "Nea radio",
+        "country": "Norway",
+        "url": "https://nettradio.nearadio.no:8100/stream",
+        "icon": "norway_nea_radio.png"
+    },
+    {
+        "name": "Nea trnderhits",
+        "country": "Norway",
+        "url": "https://nettradio.nearadio.no:8112/stream",
+        "icon": "norway_nea_trnderhits.png"
+    },
+    {
+        "name": "Norsk pop",
+        "country": "Norway",
+        "url": "https://live-bauerno.sharp-stream.com/norskpop_no_mp3",
+        "icon": "norway_norsk_pop.png"
+    },
+    {
+        "name": "Nrj bergen",
+        "country": "Norway",
+        "url": "https://nrj.p4groupaudio.com/NRJ_MM",
+        "icon": "norway_nrj_bergen.png"
+    },
+    {
+        "name": "Nrj fm",
+        "country": "Norway",
+        "url": "https://nrj.p4groupaudio.com/NRJ_MM",
+        "icon": "norway_nrj_fm.png"
+    },
+    {
+        "name": "Nrk alltid nyheter",
+        "country": "Norway",
+        "url": "https://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_l",
+        "icon": "norway_nrk_alltid_nyheter.png"
+    },
+    {
+        "name": "Nrk folkemusikk",
+        "country": "Norway",
+        "url": "https://lyd.nrk.no/nrk_radio_folkemusikk_mp3_m",
+        "icon": "norway_nrk_folkemusikk.png"
+    },
+    {
+        "name": "Nrk jazz",
+        "country": "Norway",
+        "url": "https://lyd.nrk.no/nrk_radio_jazz_mp3_l",
+        "icon": "norway_nrk_jazz.png"
+    },
+    {
+        "name": "Nrk klassisk",
+        "country": "Norway",
+        "url": "https://lyd.nrk.no/nrk_radio_klassisk_mp3_m",
+        "icon": "norway_nrk_klassisk.png"
+    },
+    {
+        "name": "Nrk mp3",
+        "country": "Norway",
+        "url": "https://lyd.nrk.no/nrk_radio_mp3_mp3_l",
+        "icon": "norway_nrk_mp3.png"
+    },
+    {
+        "name": "Nrk p1",
+        "country": "Norway",
+        "url": "https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_l",
+        "icon": "norway_nrk_p1.png"
+    },
+    {
+        "name": "Nrk p1+",
+        "country": "Norway",
+        "url": "https://lyd.nrk.no/nrk_radio_p1pluss_mp3_m",
+        "icon": "norway_nrk_p1+.png"
+    },
+    {
+        "name": "Nrk p13",
+        "country": "Norway",
+        "url": "https://lyd.nrk.no/nrk_radio_p13_mp3_l",
+        "icon": "norway_nrk_p13.png"
+    },
+    {
+        "name": "Nrk p2",
+        "country": "Norway",
+        "url": "https://lyd.nrk.no/nrk_radio_p2_mp3_m",
+        "icon": "norway_nrk_p2.png"
+    },
+    {
+        "name": "Nrk p3",
+        "country": "Norway",
+        "url": "https://lyd.nrk.no/nrk_radio_p3_mp3_l",
+        "icon": "norway_nrk_p3.png"
+    },
+    {
+        "name": "Nrk sport",
+        "country": "Norway",
+        "url": "https://lyd.nrk.no/nrk_radio_sport_mp3_m",
+        "icon": "norway_nrk_sport.png"
+    },
+    {
+        "name": "P10 country",
+        "country": "Norway",
+        "url": "https://p10.p4groupaudio.com/P10_MM",
+        "icon": "norway_p10_country.png"
+    },
+    {
+        "name": "P4 lyden av norge",
+        "country": "Norway",
+        "url": "https://p4.p4groupaudio.com/P04_MM",
+        "icon": "norway_p4_lyden_av_norge.png"
+    },
+    {
+        "name": "P5 bergen",
+        "country": "Norway",
+        "url": "https://p5.p4groupaudio.com/P05_MM",
+        "icon": "norway_p5_bergen.png"
+    },
+    {
+        "name": "P5 hits",
+        "country": "Norway",
+        "url": "https://p5.p4groupaudio.com/P05_MH",
+        "icon": "norway_p5_hits.png"
+    },
+    {
+        "name": "P6 rock",
+        "country": "Norway",
+        "url": "https://p6.p4groupaudio.com/P06_MM",
+        "icon": "norway_p6_rock.png"
+    },
+    {
+        "name": "P7.no - kystradioen",
+        "country": "Norway",
+        "url": "https://radio.p7.no/radio/8020/kristen_riksradio",
+        "icon": "norway_p7.no_-_kystradioen.png"
+    },
+    {
+        "name": "P8 pop",
+        "country": "Norway",
+        "url": "https://p8.p4groupaudio.com/P08_MM",
+        "icon": "norway_p8_pop.png"
+    },
+    {
+        "name": "P9 retro",
+        "country": "Norway",
+        "url": "https://p9.p4groupaudio.com/P09_MM",
+        "icon": "norway_p9_retro.png"
+    },
+    {
+        "name": "Ptro",
+        "country": "Norway",
+        "url": "https://rbx2.hnux.com/149.202.22.75:8048/;",
+        "icon": "norway_ptro.png"
+    },
+    {
+        "name": "Radio alesund",
+        "country": "Norway",
+        "url": "https://audio.jaerradiogruppen.no/aalesund_hq",
+        "icon": "norway_radio_alesund.png"
+    },
+    {
+        "name": "Radio asky",
+        "country": "Norway",
+        "url": "https://radioaskoy.radioca.st/sender",
+        "icon": "norway_radio_asky.png"
+    },
+    {
+        "name": "Radio atlantic ryfylkeradioen salem",
+        "country": "Norway",
+        "url": "https://audio.jaerradiogruppen.no/atlantic_hq",
+        "icon": "norway_radio_atlantic_ryfylkeradioen_salem.png"
+    },
+    {
+        "name": "Radio b",
+        "country": "Norway",
+        "url": "https://nettradio.radiobo.com/radiobo-high",
+        "icon": "norway_radio_b.png"
+    },
+    {
+        "name": "Radio bardufoss - radio midt-troms",
+        "country": "Norway",
+        "url": "https://stream.bardufoss.no/radiobardufoss192",
+        "icon": "norway_radio_bardufoss_-_radio_midt-troms.png"
+    },
+    {
+        "name": "Radio folgefonn",
+        "country": "Norway",
+        "url": "http://185.35.185.161:8000/radio",
+        "icon": "norway_radio_folgefonn.png"
+    },
+    {
+        "name": "Radio grenland",
+        "country": "Norway",
+        "url": "https://audio.jaerradiogruppen.no/grenland_hq",
+        "icon": "norway_radio_grenland.png"
+    },
+    {
+        "name": "Radio hallingdal",
+        "country": "Norway",
+        "url": "http://audio.visto.no/radiohallingdal",
+        "icon": "norway_radio_hallingdal.png"
+    },
+    {
+        "name": "Radio haugaland",
+        "country": "Norway",
+        "url": "http://radioh.no:8000/rh48.mp3",
+        "icon": "norway_radio_haugaland.png"
+    },
+    {
+        "name": "Radio haugaland gull",
+        "country": "Norway",
+        "url": "http://stream.radioh.no:443/rh.mp3",
+        "icon": "norway_radio_haugaland_gull.png"
+    },
+    {
+        "name": "Radio kongsvinger sentrum",
+        "country": "Norway",
+        "url": "http://lyd.radioene.no:8000/kongsvinger.mp3",
+        "icon": "norway_radio_kongsvinger_sentrum.png"
+    },
+    {
+        "name": "Radio kos",
+        "country": "Norway",
+        "url": "https://lyd.radiokos.no/kos_hq",
+        "icon": "norway_radio_kos.png"
+    },
+    {
+        "name": "Radio ksu 247",
+        "country": "Norway",
+        "url": "https://c4.radioboss.fm:18099/stream2",
+        "icon": "norway_radio_ksu_247.png"
+    },
+    {
+        "name": "Radio kvinesdal scan sat",
+        "country": "Norway",
+        "url": "http://stream.radioh.no:443/scan128",
+        "icon": "norway_radio_kvinesdal_scan_sat.png"
+    },
+    {
+        "name": "Radio latin",
+        "country": "Norway",
+        "url": "https://stream.radiolatinamerika.no/latam_hq",
+        "icon": "norway_radio_latin.png"
+    },
+    {
+        "name": "Radio loland fm",
+        "country": "Norway",
+        "url": "http://stream.radiololand.no:5000/loland128",
+        "icon": "norway_radio_loland_fm.png"
+    },
+    {
+        "name": "Radio lyngdal",
+        "country": "Norway",
+        "url": "https://live.radiolyngdal.com/rly_hq",
+        "icon": "norway_radio_lyngdal.png"
+    },
+    {
+        "name": "Radio norge",
+        "country": "Norway",
+        "url": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3",
+        "icon": "norway_radio_norge.png"
+    },
+    {
+        "name": "Radio nova",
+        "country": "Norway",
+        "url": "https://stream.radiorakel.no/fm993.mp3",
+        "icon": "norway_radio_nova.png"
+    },
+    {
+        "name": "Radio randsfjord",
+        "country": "Norway",
+        "url": "https://stream.radiorandsfjord.no/randsfjord128.mp3",
+        "icon": "norway_radio_randsfjord.png"
+    },
+    {
+        "name": "Radio rjukan",
+        "country": "Norway",
+        "url": "https://stream.radiorjukan.no/rjukan_hq",
+        "icon": "norway_radio_rjukan.png"
+    },
+    {
+        "name": "Radio rock",
+        "country": "Norway",
+        "url": "https://live-bauerno.sharp-stream.com/radiorock_no_mp3",
+        "icon": "norway_radio_rock.png"
+    },
+    {
+        "name": "Radio rox",
+        "country": "Norway",
+        "url": "https://stream.oneplay.no/rox128",
+        "icon": "norway_radio_rox.png"
+    },
+    {
+        "name": "Radio stryn",
+        "country": "Norway",
+        "url": "https://lyd.radiostryn.no/stryn_hq",
+        "icon": "norway_radio_stryn.png"
+    },
+    {
+        "name": "Radio sunnmre nordvest new life",
+        "country": "Norway",
+        "url": "http://ipradio.no:8000/FM101",
+        "icon": "norway_radio_sunnmre_nordvest_new_life.png"
+    },
+    {
+        "name": "Radio tnsberg",
+        "country": "Norway",
+        "url": "https://audio.radiotonsberg.no/tonsberg_hq",
+        "icon": "norway_radio_tnsberg.png"
+    },
+    {
+        "name": "Radio trndelag - budstikka radio",
+        "country": "Norway",
+        "url": "http://nettradio.radiotrondelag.no:8000/radio_trondelag",
+        "icon": "norway_radio_trndelag_-_budstikka_radio.png"
+    },
+    {
+        "name": "Radio vest-telemark",
+        "country": "Norway",
+        "url": "https://stream.radiovt.no/radiovt_hq",
+        "icon": "norway_radio_vest-telemark.png"
+    },
+    {
+        "name": "Radio vinyl",
+        "country": "Norway",
+        "url": "https://live-bauerno.sharp-stream.com/vinyl_no_mp3",
+        "icon": "norway_radio_vinyl.png"
+    },
+    {
+        "name": "Scansat radio",
+        "country": "Norway",
+        "url": "http://stream.radioh.no:443/scan128",
+        "icon": "norway_scansat_radio.png"
+    },
+    {
+        "name": "Silkeveien radio",
+        "country": "Norway",
+        "url": "https://stream.radiojar.com/2arcr5qmb",
+        "icon": "norway_silkeveien_radio.png"
+    },
+    {
+        "name": "Solr radioen radio valer nr",
+        "country": "Norway",
+        "url": "http://lyd.radioene.no:8000/solor.mp3",
+        "icon": "norway_solr_radioen_radio_valer_nr.png"
+    },
+    {
+        "name": "Sterdals radioen",
+        "country": "Norway",
+        "url": "http://lyd.radioene.no:8000/osterdal.mp3",
+        "icon": "norway_sterdals_radioen.png"
+    },
+    {
+        "name": "Topp 40",
+        "country": "Norway",
+        "url": "https://live-bauerno.sharp-stream.com/top40_no_mp3",
+        "icon": "norway_topp_40.png"
+    },
+    {
+        "name": "Trysilradioen",
+        "country": "Norway",
+        "url": "http://lyd.radioene.no:8000/trysil.mp3",
+        "icon": "norway_trysilradioen.png"
+    },
+    {
+        "name": "Valdres radio",
+        "country": "Norway",
+        "url": "http://stream.east.no:8000/valdres.mp3",
+        "icon": "norway_valdres_radio.png"
+    }
+]

@@ -1,0 +1,488 @@
+[
+    {
+        "name": "Aktiv Radio",
+        "country": "Switzerland",
+        "url": "https://s4.radio.co/s7a78bf9d2/listen",
+        "icon": "switzerland_aktiv_radio.png"
+    },
+    {
+        "name": "Classix Radio",
+        "country": "Switzerland",
+        "url": "https://rockitradio.ice.infomaniak.ch/rockitradio-high.mp3",
+        "icon": "switzerland_classix_radio.png"
+    },
+    {
+        "name": "Energy Basel",
+        "country": "Switzerland",
+        "url": "https://energybasel.ice.infomaniak.ch/energybasel-high.mp3",
+        "icon": "switzerland_energy_basel.png"
+    },
+    {
+        "name": "Energy Luzern",
+        "country": "Switzerland",
+        "url": "https://energyluzern.ice.infomaniak.ch/energyluzern-high.mp3",
+        "icon": "switzerland_energy_luzern.png"
+    },
+    {
+        "name": "Energy Zurich",
+        "country": "Switzerland",
+        "url": "https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3",
+        "icon": "switzerland_energy_zurich.png"
+    },
+    {
+        "name": "ENERGYSG",
+        "country": "Switzerland",
+        "url": "https://energystgallen.ice.infomaniak.ch/energystgallen-high.mp3",
+        "icon": "switzerland_energysg.png"
+    },
+    {
+        "name": "Espace 2",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/espace-2/mp3_128",
+        "icon": "switzerland_espace_2.png"
+    },
+    {
+        "name": "FLASHBACK FM",
+        "country": "Switzerland",
+        "url": "https://icecast.radio24.ch/vhits",
+        "icon": "switzerland_flashback_fm.png"
+    },
+    {
+        "name": "Global Sport Vaud",
+        "country": "Switzerland",
+        "url": "http://live9.avf.ch:8000/globalfmlowvd",
+        "icon": "switzerland_global_sport_vaud.png"
+    },
+    {
+        "name": "James FM",
+        "country": "Switzerland",
+        "url": "https://jamesfm.ice.infomaniak.ch/jamesfm.mp3",
+        "icon": "switzerland_james_fm.png"
+    },
+    {
+        "name": "Kanal K",
+        "country": "Switzerland",
+        "url": "https://streamer1.kanalk.ch/kanalkmobile.mp3",
+        "icon": "switzerland_kanal_k.png"
+    },
+    {
+        "name": "Kiss Collector",
+        "country": "Switzerland",
+        "url": "https://dr2101.ice.infomaniak.ch/dr2101.mp3",
+        "icon": "switzerland_kiss_collector.png"
+    },
+    {
+        "name": "L FM",
+        "country": "Switzerland",
+        "url": "http://live9.avf.ch:8000/lfmHQ",
+        "icon": "switzerland_l_fm.png"
+    },
+    {
+        "name": "Latinos FM",
+        "country": "Switzerland",
+        "url": "http://vibrationpoprock-aac.stream2net.eu:8410/;",
+        "icon": "switzerland_latinos_fm.png"
+    },
+    {
+        "name": "M La Radio",
+        "country": "Switzerland",
+        "url": "https://mlaradio.ice.infomaniak.ch/mlaradio.mp3",
+        "icon": "switzerland_m_la_radio.png"
+    },
+    {
+        "name": "Magic Radio",
+        "country": "Switzerland",
+        "url": "https://magicradio.ice.infomaniak.ch/magicradio-high.mp3",
+        "icon": "switzerland_magic_radio.png"
+    },
+    {
+        "name": "NRJ Leman",
+        "country": "Switzerland",
+        "url": "https://scdn.nrjaudio.fm/ch/50001/mp3_128.mp3?cdn_path=audio_lbs12&access_token=44fbd566e1bc41ffb9f71b46cc38f96c",
+        "icon": "switzerland_nrj_leman.png"
+    },
+    {
+        "name": "One FM",
+        "country": "Switzerland",
+        "url": "https://onefm.ice.infomaniak.ch/onefm-high.mp3",
+        "icon": "switzerland_one_fm.png"
+    },
+    {
+        "name": "Option Musique",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/option-musique/mp3_128",
+        "icon": "switzerland_option_musique.png"
+    },
+    {
+        "name": "Radio 1",
+        "country": "Switzerland",
+        "url": "https://stream.radio1.ch/128k",
+        "icon": "switzerland_radio_1.png"
+    },
+    {
+        "name": "Radio 24",
+        "country": "Switzerland",
+        "url": "https://icecast.radio24.ch/radio24",
+        "icon": "switzerland_radio_24.png"
+    },
+    {
+        "name": "Radio 3 Fach",
+        "country": "Switzerland",
+        "url": "http://3fach.ch:8001/mobile",
+        "icon": "switzerland_radio_3_fach.png"
+    },
+    {
+        "name": "Radio 3 i",
+        "country": "Switzerland",
+        "url": "https://radio3i.ice.infomaniak.ch/radio3i-128.mp3",
+        "icon": "switzerland_radio_3_i.png"
+    },
+    {
+        "name": "Radio 32",
+        "country": "Switzerland",
+        "url": "https://stream.radio32.ch/radio32",
+        "icon": "switzerland_radio_32.png"
+    },
+    {
+        "name": "Radio Argovia",
+        "country": "Switzerland",
+        "url": "https://icecast.argovia.ch/argovia-rc-96-aac",
+        "icon": "switzerland_radio_argovia.png"
+    },
+    {
+        "name": "Radio Basilisk",
+        "country": "Switzerland",
+        "url": "https://ohnewerbung.ice.infomaniak.ch/radiobasilisk-64-128-0.mp3",
+        "icon": "switzerland_radio_basilisk.png"
+    },
+    {
+        "name": "Radio Bern 1",
+        "country": "Switzerland",
+        "url": "https://www.radiobern1.ch/webstream.mp3",
+        "icon": "switzerland_radio_bern_1.png"
+    },
+    {
+        "name": "Radio Berner Oberland",
+        "country": "Switzerland",
+        "url": "http://stream11.radiobeo.ch:8000/radiobeo.mp3",
+        "icon": "switzerland_radio_berner_oberland.png"
+    },
+    {
+        "name": "Radio Canal 3 DE",
+        "country": "Switzerland",
+        "url": "https://radio.upstream-cloud.ch/canal3allemand-192.mp3",
+        "icon": "switzerland_radio_canal_3_de.png"
+    },
+    {
+        "name": "Radio Canal 3 FR",
+        "country": "Switzerland",
+        "url": "https://radio.upstream-cloud.ch/canal3francais-192.mp3",
+        "icon": "switzerland_radio_canal_3_fr.png"
+    },
+    {
+        "name": "Radio Central",
+        "country": "Switzerland",
+        "url": "https://radiocentral.ice.infomaniak.ch/radiocentral-128.mp3",
+        "icon": "switzerland_radio_central.png"
+    },
+    {
+        "name": "Radio Central 2",
+        "country": "Switzerland",
+        "url": "https://radiocentral.ice.infomaniak.ch/radiocentral-128.mp3",
+        "icon": "switzerland_radio_central_2.png"
+    },
+    {
+        "name": "Radio Chablais",
+        "country": "Switzerland",
+        "url": "https://radiochablais.ice.infomaniak.ch/radiochablais-high.mp3",
+        "icon": "switzerland_radio_chablais.png"
+    },
+    {
+        "name": "Radio FM1",
+        "country": "Switzerland",
+        "url": "https://radiofm1.ice.infomaniak.ch/radiofm1-128.mp3",
+        "icon": "switzerland_radio_fm1.png"
+    },
+    {
+        "name": "Radio Freundes-Dienst",
+        "country": "Switzerland",
+        "url": "https://radiofd.ice.infomaniak.ch/radiofd.mp3",
+        "icon": "switzerland_radio_freundes-dienst.png"
+    },
+    {
+        "name": "Radio Fribourg",
+        "country": "Switzerland",
+        "url": "https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3",
+        "icon": "switzerland_radio_fribourg.png"
+    },
+    {
+        "name": "Radio Gloria",
+        "country": "Switzerland",
+        "url": "https://ch-be06-ice.dmd2streaming.com/radiogloria_lo",
+        "icon": "switzerland_radio_gloria.png"
+    },
+    {
+        "name": "Radio Lac",
+        "country": "Switzerland",
+        "url": "https://yesfm.ice.infomaniak.ch/yesfm-low.mp3",
+        "icon": "switzerland_radio_lac.png"
+    },
+    {
+        "name": "Radio Lo Ra",
+        "country": "Switzerland",
+        "url": "https://streamer1.kanalk.ch/lora.mp3",
+        "icon": "switzerland_radio_lo_ra.png"
+    },
+    {
+        "name": "Radio Maria Deutschschweiz",
+        "country": "Switzerland",
+        "url": "http://dreamsiteradiocp.com:8020/;",
+        "icon": "switzerland_radio_maria_deutschschweiz.png"
+    },
+    {
+        "name": "Radio Melody",
+        "country": "Switzerland",
+        "url": "https://fm1melody.ice.infomaniak.ch/fm1melody-128.mp3",
+        "icon": "switzerland_radio_melody.png"
+    },
+    {
+        "name": "Radio Net",
+        "country": "Switzerland",
+        "url": "http://vibration.stream2net.eu:8170/stream",
+        "icon": "switzerland_radio_net.png"
+    },
+    {
+        "name": "Radio Pilatus",
+        "country": "Switzerland",
+        "url": "http://radiopilatus.bcast.infomaniak.ch/pilatus128.mp3",
+        "icon": "switzerland_radio_pilatus.png"
+    },
+    {
+        "name": "Radio Positive",
+        "country": "Switzerland",
+        "url": "https://nl.digitalrm.pt:8106/stream",
+        "icon": "switzerland_radio_positive.png"
+    },
+    {
+        "name": "Radio R",
+        "country": "Switzerland",
+        "url": "https://radior.ice.infomaniak.ch/radior-128.mp3",
+        "icon": "switzerland_radio_r.png"
+    },
+    {
+        "name": "Radio Rottu Oberwallis",
+        "country": "Switzerland",
+        "url": "https://streams.rro.ch/rro.mp3",
+        "icon": "switzerland_radio_rottu_oberwallis.png"
+    },
+    {
+        "name": "Radio RTN",
+        "country": "Switzerland",
+        "url": "https://rtn.ice.infomaniak.ch/rtn-low.mp3",
+        "icon": "switzerland_radio_rtn.png"
+    },
+    {
+        "name": "Radio SRF 1",
+        "country": "Switzerland",
+        "url": "http://rstreaming.solnet.ch/srf1",
+        "icon": "switzerland_radio_srf_1.png"
+    },
+    {
+        "name": "Radio SRF 2 Kultur",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/drs2/mp3_128",
+        "icon": "switzerland_radio_srf_2_kultur.png"
+    },
+    {
+        "name": "Radio Sudostschweiz",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/grischa/mp3_128",
+        "icon": "switzerland_radio_sudostschweiz.png"
+    },
+    {
+        "name": "Radio Top",
+        "country": "Switzerland",
+        "url": "http://icecastsrp.radiotop.ch:8000/topsrp128",
+        "icon": "switzerland_radio_top.png"
+    },
+    {
+        "name": "Radio X",
+        "country": "Switzerland",
+        "url": "https://mp3.radiox.ch/web.mp3",
+        "icon": "switzerland_radio_x.png"
+    },
+    {
+        "name": "Radio Zurisee",
+        "country": "Switzerland",
+        "url": "https://mp3.radio.ch/radiozuerisee128k",
+        "icon": "switzerland_radio_zurisee.png"
+    },
+    {
+        "name": "Radiobus FM",
+        "country": "Switzerland",
+        "url": "https://radiobus.ice.infomaniak.ch/radiobus-high.mp3",
+        "icon": "switzerland_radiobus_fm.png"
+    },
+    {
+        "name": "RFJ FM",
+        "country": "Switzerland",
+        "url": "https://rfj.ice.infomaniak.ch/rfj-low.mp3",
+        "icon": "switzerland_rfj_fm.png"
+    },
+    {
+        "name": "Rhone FM",
+        "country": "Switzerland",
+        "url": "https://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3",
+        "icon": "switzerland_rhone_fm.png"
+    },
+    {
+        "name": "RJB FM",
+        "country": "Switzerland",
+        "url": "https://rjb.ice.infomaniak.ch/rjb-low.mp3",
+        "icon": "switzerland_rjb_fm.png"
+    },
+    {
+        "name": "Rock Star",
+        "country": "Switzerland",
+        "url": "https://dr2101.ice.infomaniak.ch/dr2102.mp3",
+        "icon": "switzerland_rock_star.png"
+    },
+    {
+        "name": "Rouge FM",
+        "country": "Switzerland",
+        "url": "https://rougefm.ice.infomaniak.ch/rougefm-low.mp3",
+        "icon": "switzerland_rouge_fm.png"
+    },
+    {
+        "name": "rro Swiss Melody",
+        "country": "Switzerland",
+        "url": "https://streams.rro.ch/swissmelody.mp3",
+        "icon": "switzerland_rro_swiss_melody.png"
+    },
+    {
+        "name": "RSI Rete Due",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/retedue/mp3_128",
+        "icon": "switzerland_rsi_rete_due.png"
+    },
+    {
+        "name": "RSI Rete Tre",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/retetre/mp3_128",
+        "icon": "switzerland_rsi_rete_tre.png"
+    },
+    {
+        "name": "RSI Rete Uno",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/reteuno/mp3_128",
+        "icon": "switzerland_rsi_rete_uno.png"
+    },
+    {
+        "name": "RTR Radio Rumantsch",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/rr/mp3_128",
+        "icon": "switzerland_rtr_radio_rumantsch.png"
+    },
+    {
+        "name": "RTS Couleur 3",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/couleur3/mp3_128",
+        "icon": "switzerland_rts_couleur_3.png"
+    },
+    {
+        "name": "RTS La Premiere",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/la-1ere/mp3_128",
+        "icon": "switzerland_rts_la_premiere.png"
+    },
+    {
+        "name": "Spoon Radio",
+        "country": "Switzerland",
+        "url": "https://spoonradio.ice.infomaniak.ch/spoonradio-high.mp3",
+        "icon": "switzerland_spoon_radio.png"
+    },
+    {
+        "name": "SRF 4 News",
+        "country": "Switzerland",
+        "url": "http://rstreaming.solnet.ch/srf4news",
+        "icon": "switzerland_srf_4_news.png"
+    },
+    {
+        "name": "Stadtfilter",
+        "country": "Switzerland",
+        "url": "http://streamer1.stadtfilter.net:8406/stadtfilter.mp3",
+        "icon": "switzerland_stadtfilter.png"
+    },
+    {
+        "name": "Sunshine Radio",
+        "country": "Switzerland",
+        "url": "https://sunshineradio.ice.infomaniak.ch/sunshineradio-128.mp3",
+        "icon": "switzerland_sunshine_radio.png"
+    },
+    {
+        "name": "Swiss Classic",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/rsc_de/mp3_128",
+        "icon": "switzerland_swiss_classic.png"
+    },
+    {
+        "name": "Swiss Jazz",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/rsj/mp3_128",
+        "icon": "switzerland_swiss_jazz.png"
+    },
+    {
+        "name": "Swiss Pop",
+        "country": "Switzerland",
+        "url": "https://stream.srg-ssr.ch/m/rsp/mp3_128",
+        "icon": "switzerland_swiss_pop.png"
+    },
+    {
+        "name": "Top Two",
+        "country": "Switzerland",
+        "url": "http://icecast.radiotop.ch/toptwo_128",
+        "icon": "switzerland_top_two.png"
+    },
+    {
+        "name": "Toxic FM",
+        "country": "Switzerland",
+        "url": "https://toxicfm.ice.infomaniak.ch/toxicfm-128",
+        "icon": "switzerland_toxic_fm.png"
+    },
+    {
+        "name": "URBN",
+        "country": "Switzerland",
+        "url": "https://dr2101.ice.infomaniak.ch/dr2103.mp3",
+        "icon": "switzerland_urbn.png"
+    },
+    {
+        "name": "Vertical",
+        "country": "Switzerland",
+        "url": "https://verticalradio.ice.infomaniak.ch/verticalradio-128.mp3",
+        "icon": "switzerland_vertical.png"
+    },
+    {
+        "name": "Vintage Radio",
+        "country": "Switzerland",
+        "url": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
+        "icon": "switzerland_vintage_radio.png"
+    },
+    {
+        "name": "Virgin Hits",
+        "country": "Switzerland",
+        "url": "https://icecast.argovia.ch/vhits",
+        "icon": "switzerland_virgin_hits.png"
+    },
+    {
+        "name": "Virgin Rock",
+        "country": "Switzerland",
+        "url": "https://icecast.argovia.ch/vrock",
+        "icon": "switzerland_virgin_rock.png"
+    },
+    {
+        "name": "World Radio Switzerland",
+        "country": "Switzerland",
+        "url": "https://streamingr.broadcastradio.com:10295/wrs",
+        "icon": "switzerland_world_radio_switzerland.png"
+    }
+]

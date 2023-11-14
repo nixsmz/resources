@@ -1,0 +1,380 @@
+[
+    {
+        "name": "24",
+        "country": "Uruguay",
+        "url": "https://streaming2.hostingmontevideo.com:7003/;",
+        "icon": "uruguay_24.png"
+    },
+    {
+        "name": "Aire fm",
+        "country": "Uruguay",
+        "url": "https://streaming1.locucionar.com/proxy/fmcumbiambera?mp=/stream",
+        "icon": "uruguay_aire_fm.png"
+    },
+    {
+        "name": "Alfa fm",
+        "country": "Uruguay",
+        "url": "http://radioonline.netgate.com.uy:8000/alfafm",
+        "icon": "uruguay_alfa_fm.png"
+    },
+    {
+        "name": "Casino fm",
+        "country": "Uruguay",
+        "url": "https://streamingv2.shoutcast.com/casino-fm",
+        "icon": "uruguay_casino_fm.png"
+    },
+    {
+        "name": "Coronilla fm",
+        "country": "Uruguay",
+        "url": "https://securestreams5.autopo.st:1953/;",
+        "icon": "uruguay_coronilla_fm.png"
+    },
+    {
+        "name": "Diamante fm",
+        "country": "Uruguay",
+        "url": "http://radiolatina.live:8058/stream;",
+        "icon": "uruguay_diamante_fm.png"
+    },
+    {
+        "name": "Difusora soriano",
+        "country": "Uruguay",
+        "url": "http://usa15.ciudaddigital.com.uy:8094/DifusoraSoriano",
+        "icon": "uruguay_difusora_soriano.png"
+    },
+    {
+        "name": "El lugar fm",
+        "country": "Uruguay",
+        "url": "http://usa15.ciudaddigital.com.uy:8140/ElLugarFM",
+        "icon": "uruguay_el_lugar_fm.png"
+    },
+    {
+        "name": "Emisora del hum fm",
+        "country": "Uruguay",
+        "url": "http://usa15.ciudaddigital.com.uy:8102/DelHumFM",
+        "icon": "uruguay_emisora_del_hum_fm.png"
+    },
+    {
+        "name": "Emisora del lago",
+        "country": "Uruguay",
+        "url": "http://emisiones.com.uy:8116/lago",
+        "icon": "uruguay_emisora_del_lago.png"
+    },
+    {
+        "name": "Emisora del sol",
+        "country": "Uruguay",
+        "url": "http://radio.dl.uy:9950/radio",
+        "icon": "uruguay_emisora_del_sol.png"
+    },
+    {
+        "name": "Emisora del sur sodre",
+        "country": "Uruguay",
+        "url": "https://radios.iwstreaming.uy/8034/stream",
+        "icon": "uruguay_emisora_del_sur_sodre.png"
+    },
+    {
+        "name": "Emisora del yi",
+        "country": "Uruguay",
+        "url": "http://usa15.ciudaddigital.com.uy:8144/AM960",
+        "icon": "uruguay_emisora_del_yi.png"
+    },
+    {
+        "name": "Emisora nueva era",
+        "country": "Uruguay",
+        "url": "http://emisiones.com.uy:8127/als",
+        "icon": "uruguay_emisora_nueva_era.png"
+    },
+    {
+        "name": "Emisora principal",
+        "country": "Uruguay",
+        "url": "https://s7.myradiostream.com/10764/listen.mp3",
+        "icon": "uruguay_emisora_principal.png"
+    },
+    {
+        "name": "Emisora santa isabel",
+        "country": "Uruguay",
+        "url": "http://emisiones.com.uy:8101/san",
+        "icon": "uruguay_emisora_santa_isabel.png"
+    },
+    {
+        "name": "Estena fm",
+        "country": "Uruguay",
+        "url": "https://radiopro.com.uy/radio/8060/estena",
+        "icon": "uruguay_estena_fm.png"
+    },
+    {
+        "name": "Galaxia stereo fm",
+        "country": "Uruguay",
+        "url": "https://stream.zeno.fm/bf4gt1pem0quv",
+        "icon": "uruguay_galaxia_stereo_fm.png"
+    },
+    {
+        "name": "Impacto fm",
+        "country": "Uruguay",
+        "url": "http://streaming2.hostingmontevideo.com:8012/;",
+        "icon": "uruguay_impacto_fm.png"
+    },
+    {
+        "name": "La voz de artigas",
+        "country": "Uruguay",
+        "url": "http://usa15.ciudaddigital.com.uy:8128/LaVozDeArtigas",
+        "icon": "uruguay_la_voz_de_artigas.png"
+    },
+    {
+        "name": "Latina fm",
+        "country": "Uruguay",
+        "url": "https://streamingv2.shoutcast.com/latinafm",
+        "icon": "uruguay_latina_fm.png"
+    },
+    {
+        "name": "Litoral am 1600",
+        "country": "Uruguay",
+        "url": "http://usa15.ciudaddigital.com.uy:8096/LitoralFM",
+        "icon": "uruguay_litoral_am_1600.png"
+    },
+    {
+        "name": "Maxima fm",
+        "country": "Uruguay",
+        "url": "https://streamingv2.shoutcast.com/maxima-fm-uy-pdu",
+        "icon": "uruguay_maxima_fm.png"
+    },
+    {
+        "name": "Oceano fm",
+        "country": "Uruguay",
+        "url": "http://radio2.oceanofm.com:8010/listen.mp3",
+        "icon": "uruguay_oceano_fm.png"
+    },
+    {
+        "name": "Primavera fm",
+        "country": "Uruguay",
+        "url": "http://s2.netradiofm.com:8030/;",
+        "icon": "uruguay_primavera_fm.png"
+    },
+    {
+        "name": "Radio",
+        "country": "Uruguay",
+        "url": "http://radios-online.info:2990/;",
+        "icon": "uruguay_radio.png"
+    },
+    {
+        "name": "Radio 1010 am",
+        "country": "Uruguay",
+        "url": "https://radiolatina.live/9204/stream.mp3",
+        "icon": "uruguay_radio_1010_am.png"
+    },
+    {
+        "name": "Radio acuarela",
+        "country": "Uruguay",
+        "url": "http://204.197.245.100:8280/;",
+        "icon": "uruguay_radio_acuarela.png"
+    },
+    {
+        "name": "Radio agraria del uruguay",
+        "country": "Uruguay",
+        "url": "https://player.gmpro.top/proxy/7034",
+        "icon": "uruguay_radio_agraria_del_uruguay.png"
+    },
+    {
+        "name": "Radio america",
+        "country": "Uruguay",
+        "url": "https://america1.net.com.uy:8024/;",
+        "icon": "uruguay_radio_america.png"
+    },
+    {
+        "name": "Radio americana 1560",
+        "country": "Uruguay",
+        "url": "http://emisiones.com.uy:8102/difu",
+        "icon": "uruguay_radio_americana_1560.png"
+    },
+    {
+        "name": "Radio bella union - uruguay",
+        "country": "Uruguay",
+        "url": "http://usa15.ciudaddigital.com.uy:8044/BellaUnion",
+        "icon": "uruguay_radio_bella_union_-_uruguay.png"
+    },
+    {
+        "name": "Radio carve",
+        "country": "Uruguay",
+        "url": "https://radiolatina.live/9202/stream;",
+        "icon": "uruguay_radio_carve.png"
+    },
+    {
+        "name": "Radio centenario",
+        "country": "Uruguay",
+        "url": "http://rfm.radio.netgate.com.uy:8000/centenario",
+        "icon": "uruguay_radio_centenario.png"
+    },
+    {
+        "name": "Radio cero",
+        "country": "Uruguay",
+        "url": "http://radiolatina.live:7902/;",
+        "icon": "uruguay_radio_cero.png"
+    },
+    {
+        "name": "Radio city fm",
+        "country": "Uruguay",
+        "url": "http://usa15.ciudaddigital.com.uy:8030/CityFM",
+        "icon": "uruguay_radio_city_fm.png"
+    },
+    {
+        "name": "Radio clarin 580",
+        "country": "Uruguay",
+        "url": "http://usa15.ciudaddigital.com.uy:8032/ClarinAM",
+        "icon": "uruguay_radio_clarin_580.png"
+    },
+    {
+        "name": "Radio continente",
+        "country": "Uruguay",
+        "url": "http://cx10continente.com:8152/;",
+        "icon": "uruguay_radio_continente.png"
+    },
+    {
+        "name": "Radio cuareim",
+        "country": "Uruguay",
+        "url": "http://usa15.ciudaddigital.com.uy:29028/Cuareim",
+        "icon": "uruguay_radio_cuareim.png"
+    },
+    {
+        "name": "Radio del oeste",
+        "country": "Uruguay",
+        "url": "https://server.laradio.online/proxy/martin_barragan02?mp=/stream;",
+        "icon": "uruguay_radio_del_oeste.png"
+    },
+    {
+        "name": "Radio durazno",
+        "country": "Uruguay",
+        "url": "http://usa15.ciudaddigital.com.uy:8038/DuraznoAM",
+        "icon": "uruguay_radio_durazno.png"
+    },
+    {
+        "name": "Radio fenix",
+        "country": "Uruguay",
+        "url": "https://sp3.servidorrprivado.com/8070/;",
+        "icon": "uruguay_radio_fenix.png"
+    },
+    {
+        "name": "Radio frontera am",
+        "country": "Uruguay",
+        "url": "http://emisiones.com.uy:5102/amfront",
+        "icon": "uruguay_radio_frontera_am.png"
+    },
+    {
+        "name": "Radio milenium fm",
+        "country": "Uruguay",
+        "url": "http://emisiones.com.uy:8092/mile",
+        "icon": "uruguay_radio_milenium_fm.png"
+    },
+    {
+        "name": "Radio oriental",
+        "country": "Uruguay",
+        "url": "http://radiolatina.live:7906/1",
+        "icon": "uruguay_radio_oriental.png"
+    },
+    {
+        "name": "Radio paso de los toros",
+        "country": "Uruguay",
+        "url": "https://streaming2.hostingmontevideo.com:7015/;",
+        "icon": "uruguay_radio_paso_de_los_toros.png"
+    },
+    {
+        "name": "Radio paysandu",
+        "country": "Uruguay",
+        "url": "https://salida.stream.com.uy:8510/stream",
+        "icon": "uruguay_radio_paysandu.png"
+    },
+    {
+        "name": "Radio rivera",
+        "country": "Uruguay",
+        "url": "http://usa15.ciudaddigital.com.uy:8060/RiveraAM",
+        "icon": "uruguay_radio_rivera.png"
+    },
+    {
+        "name": "Radio rural",
+        "country": "Uruguay",
+        "url": "http://radiolatina.live:9206/;",
+        "icon": "uruguay_radio_rural.png"
+    },
+    {
+        "name": "Radio salto",
+        "country": "Uruguay",
+        "url": "http://emisiones.com.uy:8087/salto",
+        "icon": "uruguay_radio_salto.png"
+    },
+    {
+        "name": "Radio tabare 740",
+        "country": "Uruguay",
+        "url": "http://emisiones.com.uy:8130/taba",
+        "icon": "uruguay_radio_tabare_740.png"
+    },
+    {
+        "name": "Radio tacuarembo 1280",
+        "country": "Uruguay",
+        "url": "http://usa15.ciudaddigital.com.uy:8114/TacuaremboAM",
+        "icon": "uruguay_radio_tacuarembo_1280.png"
+    },
+    {
+        "name": "Radio universal",
+        "country": "Uruguay",
+        "url": "http://radio.970universal.com:8010/;",
+        "icon": "uruguay_radio_universal.png"
+    },
+    {
+        "name": "Radio viva 96.3",
+        "country": "Uruguay",
+        "url": "https://streaming2.hostingmontevideo.com:7023/;",
+        "icon": "uruguay_radio_viva_96.3.png"
+    },
+    {
+        "name": "Radio yi",
+        "country": "Uruguay",
+        "url": "http://laradio.dyndns.org/am960/sms/noti/audios/200416-132027-20200417-MARIA-RAMOS-ADID.mp3",
+        "icon": "uruguay_radio_yi.png"
+    },
+    {
+        "name": "Rincon fm",
+        "country": "Uruguay",
+        "url": "http://laraza.radioca.st:8366/;",
+        "icon": "uruguay_rincon_fm.png"
+    },
+    {
+        "name": "Rnu clasica",
+        "country": "Uruguay",
+        "url": "https://radios.iwstreaming.uy/8032/stream",
+        "icon": "uruguay_rnu_clasica.png"
+    },
+    {
+        "name": "Rnu radio uruguay",
+        "country": "Uruguay",
+        "url": "https://radios.iwstreaming.uy/8036/stream",
+        "icon": "uruguay_rnu_radio_uruguay.png"
+    },
+    {
+        "name": "Siglo xxi fm",
+        "country": "Uruguay",
+        "url": "http://emisiones.com.uy:8091/2als",
+        "icon": "uruguay_siglo_xxi_fm.png"
+    },
+    {
+        "name": "Sodre",
+        "country": "Uruguay",
+        "url": "https://radios.iwstreaming.uy/8030/stream",
+        "icon": "uruguay_sodre.png"
+    },
+    {
+        "name": "Stereo norte fm",
+        "country": "Uruguay",
+        "url": "http://usa15.ciudaddigital.com.uy:8044/NorteFM",
+        "icon": "uruguay_stereo_norte_fm.png"
+    },
+    {
+        "name": "Toros fm",
+        "country": "Uruguay",
+        "url": "https://streaming2.hostingmontevideo.com:7016/;",
+        "icon": "uruguay_toros_fm.png"
+    },
+    {
+        "name": "Vida fm",
+        "country": "Uruguay",
+        "url": "http://usa15.ciudaddigital.com.uy:8048/VidaFM",
+        "icon": "uruguay_vida_fm.png"
+    }
+]

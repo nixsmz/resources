@@ -1,0 +1,344 @@
+[
+    {
+        "name": "902 fm",
+        "country": "Denmark",
+        "url": "http://media.wlmm.dk/902fmmp3",
+        "icon": "denmark_902_fm.png"
+    },
+    {
+        "name": "Albertslund nrradio",
+        "country": "Denmark",
+        "url": "http://87.61.251.162:8080/stream",
+        "icon": "denmark_albertslund_nrradio.png"
+    },
+    {
+        "name": "Always elvis",
+        "country": "Denmark",
+        "url": "https://radioserver.dk/alwayselvisradio",
+        "icon": "denmark_always_elvis.png"
+    },
+    {
+        "name": "Anr fm",
+        "country": "Denmark",
+        "url": "http://arnehansen.net:8000/stream",
+        "icon": "denmark_anr_fm.png"
+    },
+    {
+        "name": "Arkens radio ucb",
+        "country": "Denmark",
+        "url": "http://46.32.62.72:88/broadwave.mp3?src=2&rate=0",
+        "icon": "denmark_arkens_radio_ucb.png"
+    },
+    {
+        "name": "Classic fm",
+        "country": "Denmark",
+        "url": "https://webradio.classicfm.dk/classicfyn",
+        "icon": "denmark_classic_fm.png"
+    },
+    {
+        "name": "Classic rock kbenhavn",
+        "country": "Denmark",
+        "url": "https://internetradio.salue.de:8443/classicrock.mp3",
+        "icon": "denmark_classic_rock_kbenhavn.png"
+    },
+    {
+        "name": "Dansktopkanalen",
+        "country": "Denmark",
+        "url": "https://netradio.classicfm.dk/dansktop",
+        "icon": "denmark_dansktopkanalen.png"
+    },
+    {
+        "name": "Folkets radio lumi aalborg 10. studenter",
+        "country": "Denmark",
+        "url": "https://balamii.out.airtime.pro:8000/folketsradio_a",
+        "icon": "denmark_folkets_radio_lumi_aalborg_10._studenter.png"
+    },
+    {
+        "name": "Globus guld",
+        "country": "Denmark",
+        "url": "http://stream2.wlmm.dk/guldkoldingmp3",
+        "icon": "denmark_globus_guld.png"
+    },
+    {
+        "name": "Glr - gentofte lokal radio",
+        "country": "Denmark",
+        "url": "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
+        "icon": "denmark_glr_-_gentofte_lokal_radio.png"
+    },
+    {
+        "name": "Halsns radio retro",
+        "country": "Denmark",
+        "url": "http://10312.cloudrad.io:9010/;",
+        "icon": "denmark_halsns_radio_retro.png"
+    },
+    {
+        "name": "Lumi radio syd sydvest syddanmark studio tnder",
+        "country": "Denmark",
+        "url": "http://stream2.wlmm.dk/syddanmark.m3u",
+        "icon": "denmark_lumi_radio_syd_sydvest_syddanmark_studio_tnder.png"
+    },
+    {
+        "name": "Midtfjord radio - radio nibenitten",
+        "country": "Denmark",
+        "url": "http://stream.midtfjordradio.dk/netradio",
+        "icon": "denmark_midtfjord_radio_-_radio_nibenitten.png"
+    },
+    {
+        "name": "Mycountry",
+        "country": "Denmark",
+        "url": "https://netradio.classicfm.dk/country",
+        "icon": "denmark_mycountry.png"
+    },
+    {
+        "name": "Myrock",
+        "country": "Denmark",
+        "url": "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3",
+        "icon": "denmark_myrock.png"
+    },
+    {
+        "name": "Nova fm",
+        "country": "Denmark",
+        "url": "http://stream.novafm.dk/nova128",
+        "icon": "denmark_nova_fm.png"
+    },
+    {
+        "name": "Planet rock",
+        "country": "Denmark",
+        "url": "https://live-bauerdk.sharp-stream.com/planetrock_dk.mp3",
+        "icon": "denmark_planet_rock.png"
+    },
+    {
+        "name": "Pop fm",
+        "country": "Denmark",
+        "url": "http://stream.popfm.dk/pop128",
+        "icon": "denmark_pop_fm.png"
+    },
+    {
+        "name": "Popfm 80'er",
+        "country": "Denmark",
+        "url": "https://live-bauerdk.sharp-stream.com/popfm_dk_tunein_mp3",
+        "icon": "denmark_popfm_80'er.png"
+    },
+    {
+        "name": "Radio 100",
+        "country": "Denmark",
+        "url": "https://tx-bauerdk.sharp-stream.com/http_live.php?i=radio100_dk_tunein_mp3",
+        "icon": "denmark_radio_100.png"
+    },
+    {
+        "name": "Radio 208",
+        "country": "Denmark",
+        "url": "http://stream.wlmm.dk:8010/radio208mp3",
+        "icon": "denmark_radio_208.png"
+    },
+    {
+        "name": "Radio adalen",
+        "country": "Denmark",
+        "url": "http://radio-aadalen.no-ip.net:8000/;",
+        "icon": "denmark_radio_adalen.png"
+    },
+    {
+        "name": "Radio alfa",
+        "country": "Denmark",
+        "url": "https://icecast1.radiostuff.dk/Alfasydfyn128",
+        "icon": "denmark_radio_alfa.png"
+    },
+    {
+        "name": "Radio alfa - gold",
+        "country": "Denmark",
+        "url": "https://radioserver.dk/alfaevent",
+        "icon": "denmark_radio_alfa_-_gold.png"
+    },
+    {
+        "name": "Radio boost",
+        "country": "Denmark",
+        "url": "http://10312.cloudrad.io:8066/;",
+        "icon": "denmark_radio_boost.png"
+    },
+    {
+        "name": "Radio denmark fm",
+        "country": "Denmark",
+        "url": "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3",
+        "icon": "denmark_radio_denmark_fm.png"
+    },
+    {
+        "name": "Radio diablo",
+        "country": "Denmark",
+        "url": "https://icecast1.radiostuff.dk/Diablo128",
+        "icon": "denmark_radio_diablo.png"
+    },
+    {
+        "name": "Radio globus",
+        "country": "Denmark",
+        "url": "http://stream2.wlmm.dk/globus2",
+        "icon": "denmark_radio_globus.png"
+    },
+    {
+        "name": "Radio haderslev",
+        "country": "Denmark",
+        "url": "http://media.wlmm.dk/radiohaderslevmp3",
+        "icon": "denmark_radio_haderslev.png"
+    },
+    {
+        "name": "Radio halsns - retro - stina fm",
+        "country": "Denmark",
+        "url": "http://halsstream.spdns.de/;",
+        "icon": "denmark_radio_halsns_-_retro_-_stina_fm.png"
+    },
+    {
+        "name": "Radio helsingr fm",
+        "country": "Denmark",
+        "url": "https://stream.radiohelsingor.dk/rh",
+        "icon": "denmark_radio_helsingr_fm.png"
+    },
+    {
+        "name": "Radio klitholm det ny kanal 1",
+        "country": "Denmark",
+        "url": "http://stream.radioklitholm.dk:8000/stream",
+        "icon": "denmark_radio_klitholm_det_ny_kanal_1.png"
+    },
+    {
+        "name": "Radio limfjord",
+        "country": "Denmark",
+        "url": "https://media.limfjordnetradio.dk/limfjord128",
+        "icon": "denmark_radio_limfjord.png"
+    },
+    {
+        "name": "Radio limfjord mix",
+        "country": "Denmark",
+        "url": "https://media.limfjordnetradio.dk/mixaac",
+        "icon": "denmark_radio_limfjord_mix.png"
+    },
+    {
+        "name": "Radio limfjord schlager",
+        "country": "Denmark",
+        "url": "https://media.limfjordnetradio.dk/plusslager128",
+        "icon": "denmark_radio_limfjord_schlager.png"
+    },
+    {
+        "name": "Radio loud",
+        "country": "Denmark",
+        "url": "https://stream.radioloud.dk/loud128",
+        "icon": "denmark_radio_loud.png"
+    },
+    {
+        "name": "Radio nordjyske",
+        "country": "Denmark",
+        "url": "https://stream.anr.dk/nordjyske",
+        "icon": "denmark_radio_nordjyske.png"
+    },
+    {
+        "name": "Radio odsherred",
+        "country": "Denmark",
+        "url": "http://87.104.40.139:88/broadwave.mp3",
+        "icon": "denmark_radio_odsherred.png"
+    },
+    {
+        "name": "Radio ringkbing",
+        "country": "Denmark",
+        "url": "http://netradio.radioringkobing.dk:8000/;",
+        "icon": "denmark_radio_ringkbing.png"
+    },
+    {
+        "name": "Radio rnde - radio djursland - kanal 3",
+        "country": "Denmark",
+        "url": "https://stream.probroadcast.dk/djurs",
+        "icon": "denmark_radio_rnde_-_radio_djursland_-_kanal_3.png"
+    },
+    {
+        "name": "Radio silkeborg",
+        "country": "Denmark",
+        "url": "https://stream.radiosilkeborg.dk/silkeborg",
+        "icon": "denmark_radio_silkeborg.png"
+    },
+    {
+        "name": "Radio soft",
+        "country": "Denmark",
+        "url": "https://tx-bauerdk.sharp-stream.com/http_live.php?i=radiosoft_dk_mp3",
+        "icon": "denmark_radio_soft.png"
+    },
+    {
+        "name": "Radio soft kbenhavns nr bispebjerg lr bella chr",
+        "country": "Denmark",
+        "url": "https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3",
+        "icon": "denmark_radio_soft_kbenhavns_nr_bispebjerg_lr_bella_chr.png"
+    },
+    {
+        "name": "Radio solo m",
+        "country": "Denmark",
+        "url": "https://radioserver.dk/solohern",
+        "icon": "denmark_radio_solo_m.png"
+    },
+    {
+        "name": "Radio sydhavserne",
+        "country": "Denmark",
+        "url": "https://stream.probroadcast.dk/sydhavsradiomp3",
+        "icon": "denmark_radio_sydhavserne.png"
+    },
+    {
+        "name": "Radio update - nordsjllands kristne r - din radio",
+        "country": "Denmark",
+        "url": "http://studie.hkr.dk:8000/stream.mp3",
+        "icon": "denmark_radio_update_-_nordsjllands_kristne_r_-_din_radio.png"
+    },
+    {
+        "name": "Radio viborg",
+        "country": "Denmark",
+        "url": "https://webradio.radioviborg.dk/viborg",
+        "icon": "denmark_radio_viborg.png"
+    },
+    {
+        "name": "Sams radio",
+        "country": "Denmark",
+        "url": "https://stream.probroadcast.dk/samsoe",
+        "icon": "denmark_sams_radio.png"
+    },
+    {
+        "name": "Skala fm",
+        "country": "Denmark",
+        "url": "https://webradio.skala.fm/sydfyn",
+        "icon": "denmark_skala_fm.png"
+    },
+    {
+        "name": "Stina fm",
+        "country": "Denmark",
+        "url": "http://10312.cloudrad.io:9208/;",
+        "icon": "denmark_stina_fm.png"
+    },
+    {
+        "name": "The voice",
+        "country": "Denmark",
+        "url": "https://live-bauerdk.sharp-stream.com/voice128.mp3",
+        "icon": "denmark_the_voice.png"
+    },
+    {
+        "name": "Urbanmusic",
+        "country": "Denmark",
+        "url": "https://dab.jfmedier.dk/urban",
+        "icon": "denmark_urbanmusic.png"
+    },
+    {
+        "name": "Vendsyssel frederikshavn lr sby fm",
+        "country": "Denmark",
+        "url": "http://arnehansen.net:8000/;",
+        "icon": "denmark_vendsyssel_frederikshavn_lr_sby_fm.png"
+    },
+    {
+        "name": "Vlr",
+        "country": "Denmark",
+        "url": "https://webradio.vlr.dk/vlrvejle",
+        "icon": "denmark_vlr.png"
+    },
+    {
+        "name": "World music radio",
+        "country": "Denmark",
+        "url": "http://stream.wlmm.dk:8010/wmrmp3",
+        "icon": "denmark_world_music_radio.png"
+    },
+    {
+        "name": "X fm k",
+        "country": "Denmark",
+        "url": "https://uniradio.out.airtime.pro/uniradio_a",
+        "icon": "denmark_x_fm_k.png"
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "name": "94 FM",
+        "country": "Portugal",
+        "url": "http://185.11.164.106:35022/;",
+        "icon": "portugal_94_fm.png"
+    },
+    {
+        "name": "Alive FM",
+        "country": "Portugal",
+        "url": "https://radios2.justweb.pt/8002/stream",
+        "icon": "portugal_alive_fm.png"
+    },
+    {
+        "name": "Antena Minho",
+        "country": "Portugal",
+        "url": "http://centova.radios.pt:9464/;",
+        "icon": "portugal_antena_minho.png"
+    },
+    {
+        "name": "Antena Sul",
+        "country": "Portugal",
+        "url": "https://nl.digitalrm.pt:8022/stream",
+        "icon": "portugal_antena_sul.png"
+    },
+    {
+        "name": "Cidade FM",
+        "country": "Portugal",
+        "url": "https://mcrscast.mcr.iol.pt/cidadefm",
+        "icon": "portugal_cidade_fm.png"
+    },
+    {
+        "name": "Diana FM",
+        "country": "Portugal",
+        "url": "http://centova.radios.pt:9460/;",
+        "icon": "portugal_diana_fm.png"
+    },
+    {
+        "name": "Digital FM",
+        "country": "Portugal",
+        "url": "http://digitalfm.dynu.com:8000/digitalfm64",
+        "icon": "portugal_digital_fm.png"
+    },
+    {
+        "name": "Geice FM",
+        "country": "Portugal",
+        "url": "https://ec2.yesstreaming.net:3275/stream",
+        "icon": "portugal_geice_fm.png"
+    },
+    {
+        "name": "Golo FM",
+        "country": "Portugal",
+        "url": "https://prosc1.evspt.com/golofm",
+        "icon": "portugal_golo_fm.png"
+    },
+    {
+        "name": "Iris FM",
+        "country": "Portugal",
+        "url": "https://centova.radio.com.pt/proxy/529?mp=/stream",
+        "icon": "portugal_iris_fm.png"
+    },
+    {
+        "name": "Kiss FM",
+        "country": "Portugal",
+        "url": "https://nl.digitalrm.pt:8024/stream",
+        "icon": "portugal_kiss_fm.png"
+    },
+    {
+        "name": "M 80 Radio",
+        "country": "Portugal",
+        "url": "https://media3.mcr.iol.pt/livefm/m80.mp3/icecast.audio",
+        "icon": "portugal_m_80_radio.png"
+    },
+    {
+        "name": "Orbital Radio",
+        "country": "Portugal",
+        "url": "https://ec2.yesstreaming.net:3025/stream",
+        "icon": "portugal_orbital_radio.png"
+    },
+    {
+        "name": "Popular FM",
+        "country": "Portugal",
+        "url": "http://185.11.164.106:32281/;",
+        "icon": "portugal_popular_fm.png"
+    },
+    {
+        "name": "Radio 5",
+        "country": "Portugal",
+        "url": "https://radios.justweb.pt/8042/stream",
+        "icon": "portugal_radio_5.png"
+    },
+    {
+        "name": "Radio Altitude FM",
+        "country": "Portugal",
+        "url": "http://centova.radios.pt:9034/;",
+        "icon": "portugal_radio_altitude_fm.png"
+    },
+    {
+        "name": "Radio Alto Minho",
+        "country": "Portugal",
+        "url": "https://ec2.yesstreaming.net:3705/stream",
+        "icon": "portugal_radio_alto_minho.png"
+    },
+    {
+        "name": "Radio Amalia",
+        "country": "Portugal",
+        "url": "http://centova.radios.pt:9496/;",
+        "icon": "portugal_radio_amalia.png"
+    },
+    {
+        "name": "Radio Baia",
+        "country": "Portugal",
+        "url": "https://streamingv2.shoutcast.com/observador_64.aac",
+        "icon": "portugal_radio_baia.png"
+    },
+    {
+        "name": "Radio Brigantia",
+        "country": "Portugal",
+        "url": "http://centova.radios.pt:8491/;",
+        "icon": "portugal_radio_brigantia.png"
+    },
+    {
+        "name": "Radio Castelo Branco",
+        "country": "Portugal",
+        "url": "http://centova.radios.pt:9462/;",
+        "icon": "portugal_radio_castelo_branco.png"
+    },
+    {
+        "name": "Radio Cidade de Tomar",
+        "country": "Portugal",
+        "url": "http://193.164.131.215:9306/;",
+        "icon": "portugal_radio_cidade_de_tomar.png"
+    },
+    {
+        "name": "Radio Cister FM",
+        "country": "Portugal",
+        "url": "http://centova.radios.pt:8453/;",
+        "icon": "portugal_radio_cister_fm.png"
+    },
+    {
+        "name": "Radio Clube de Arganil",
+        "country": "Portugal",
+        "url": "http://cast.evsportugal.com:8135/stream",
+        "icon": "portugal_radio_clube_de_arganil.png"
+    },
+    {
+        "name": "Radio Clube de Lamego",
+        "country": "Portugal",
+        "url": "http://audio.ptisp.com:8110/;",
+        "icon": "portugal_radio_clube_de_lamego.png"
+    },
+    {
+        "name": "Radio Clube de Monsanto",
+        "country": "Portugal",
+        "url": "http://link.radios.pt/radioclubedemonsanto",
+        "icon": "portugal_radio_clube_de_monsanto.png"
+    },
+    {
+        "name": "Radio Clube de Monsanto FM",
+        "country": "Portugal",
+        "url": "http://centova.radio.com.pt:9424/;",
+        "icon": "portugal_radio_clube_de_monsanto_fm.png"
+    },
+    {
+        "name": "Radio Clube de Penafiel",
+        "country": "Portugal",
+        "url": "http://link.radios.pt/radioclubedepenafiel",
+        "icon": "portugal_radio_clube_de_penafiel.png"
+    },
+    {
+        "name": "Radio Clube Foz do Mondego",
+        "country": "Portugal",
+        "url": "https://nl.digitalrm.pt:8216/stream",
+        "icon": "portugal_radio_clube_foz_do_mondego.png"
+    },
+    {
+        "name": "Radio Comercial",
+        "country": "Portugal",
+        "url": "https://media3.mcr.iol.pt/livefm/comercial.mp3/icecast.audio",
+        "icon": "portugal_radio_comercial.png"
+    },
+    {
+        "name": "Radio Condestavel",
+        "country": "Portugal",
+        "url": "http://link.radios.pt/radiocondestavel",
+        "icon": "portugal_radio_condestavel.png"
+    },
+    {
+        "name": "Radio Despertar",
+        "country": "Portugal",
+        "url": "https://stream.zeno.fm/fx5n4m0xkwzuv?zs=O1ySGqnGTliISaprVNqtgw",
+        "icon": "portugal_radio_despertar.png"
+    },
+    {
+        "name": "Radio Elvas",
+        "country": "Portugal",
+        "url": "http://radios.dotsi.pt:8025/;",
+        "icon": "portugal_radio_elvas.png"
+    },
+    {
+        "name": "Radio F",
+        "country": "Portugal",
+        "url": "https://centova.radio.com.pt/proxy/579?mp=/stream",
+        "icon": "portugal_radio_f.png"
+    },
+    {
+        "name": "Radio Festival",
+        "country": "Portugal",
+        "url": "http://centova.radios.pt:9520/;",
+        "icon": "portugal_radio_festival.png"
+    },
+    {
+        "name": "Radio Fundacao",
+        "country": "Portugal",
+        "url": "http://46.105.172.166:8044/;",
+        "icon": "portugal_radio_fundacao.png"
+    },
+    {
+        "name": "Radio Gilao FM",
+        "country": "Portugal",
+        "url": "http://centova.radios.pt:9440/;",
+        "icon": "portugal_radio_gilao_fm.png"
+    },
+    {
+        "name": "Radio Horizonte",
+        "country": "Portugal",
+        "url": "http://centova.radios.pt:9458/;",
+        "icon": "portugal_radio_horizonte.png"
+    },
+    {
+        "name": "Radio Linear",
+        "country": "Portugal",
+        "url": "https://nl.digitalrm.pt:8184/stream",
+        "icon": "portugal_radio_linear.png"
+    },
+    {
+        "name": "Radio Maria",
+        "country": "Portugal",
+        "url": "https://dreamsiteradiocp4.com/proxy/rmportugal2",
+        "icon": "portugal_radio_maria.png"
+    },
+    {
+        "name": "Radio Mirobriga",
+        "country": "Portugal",
+        "url": "https://prosc1.evspt.com/m24",
+        "icon": "portugal_radio_mirobriga.png"
+    },
+    {
+        "name": "Radio Nova",
+        "country": "Portugal",
+        "url": "http://centova.radios.pt:9528/;",
+        "icon": "portugal_radio_nova.png"
+    },
+    {
+        "name": "Radio Nova Antena",
+        "country": "Portugal",
+        "url": "http://radios.dotsi.pt:8023/;",
+        "icon": "portugal_radio_nova_antena.png"
+    },
+    {
+        "name": "Radio Nova Era",
+        "country": "Portugal",
+        "url": "http://centova.radios.pt:9478/;",
+        "icon": "portugal_radio_nova_era.png"
+    },
+    {
+        "name": "Radio Onda Viva",
+        "country": "Portugal",
+        "url": "http://centova.radios.pt:9524/;",
+        "icon": "portugal_radio_onda_viva.png"
+    },
+    {
+        "name": "Radio Portalegre",
+        "country": "Portugal",
+        "url": "http://centova.radio.com.pt:9492/;",
+        "icon": "portugal_radio_portalegre.png"
+    },
+    {
+        "name": "Radio Positiva",
+        "country": "Portugal",
+        "url": "https://nl.digitalrm.pt:8016/stream",
+        "icon": "portugal_radio_positiva.png"
+    },
+    {
+        "name": "Radio Radar",
+        "country": "Portugal",
+        "url": "https://proic1.evspt.com/radar_mp3",
+        "icon": "portugal_radio_radar.png"
+    },
+    {
+        "name": "Radio Riba Tavora",
+        "country": "Portugal",
+        "url": "http://centova.radios.pt:9542/;",
+        "icon": "portugal_radio_riba_tavora.png"
+    },
+    {
+        "name": "Radio Sbsr",
+        "country": "Portugal",
+        "url": "https://centova.radios.pt/proxy/435?mp=/stream",
+        "icon": "portugal_radio_sbsr.png"
+    },
+    {
+        "name": "Radio Telefonia do Alentejo",
+        "country": "Portugal",
+        "url": "https://nl.digitalrm.pt:8046/stream",
+        "icon": "portugal_radio_telefonia_do_alentejo.png"
+    },
+    {
+        "name": "Radio Universidade de Coimbra",
+        "country": "Portugal",
+        "url": "https://stream.ruc.pt/high",
+        "icon": "portugal_radio_universidade_de_coimbra.png"
+    },
+    {
+        "name": "Radio Vale do Minho",
+        "country": "Portugal",
+        "url": "https://centova.radios.pt/proxy/434?mp=/stream",
+        "icon": "portugal_radio_vale_do_minho.png"
+    },
+    {
+        "name": "Radio Voz do Sorraia",
+        "country": "Portugal",
+        "url": "http://centova.radios.pt:8511/;",
+        "icon": "portugal_radio_voz_do_sorraia.png"
+    },
+    {
+        "name": "Radio XL Romantica",
+        "country": "Portugal",
+        "url": "https://radios.justweb.pt:7000/;",
+        "icon": "portugal_radio_xl_romantica.png"
+    },
+    {
+        "name": "RCI FM",
+        "country": "Portugal",
+        "url": "https://nl.digitalrm.pt:8002/stream",
+        "icon": "portugal_rci_fm.png"
+    },
+    {
+        "name": "RDP Africa",
+        "country": "Portugal",
+        "url": "https://radiocast.rtp.pt/rdpafrica80a.mp3",
+        "icon": "portugal_rdp_africa.png"
+    },
+    {
+        "name": "RDP Antena 1",
+        "country": "Portugal",
+        "url": "https://radiocast.rtp.pt/antena180a.mp3",
+        "icon": "portugal_rdp_antena_1.png"
+    },
+    {
+        "name": "RDP Antena 3",
+        "country": "Portugal",
+        "url": "https://radiocast.rtp.pt/antena380a.mp3",
+        "icon": "portugal_rdp_antena_3.png"
+    },
+    {
+        "name": "RDP Internacional",
+        "country": "Portugal",
+        "url": "https://radiocast.rtp.pt/rdpint80a.mp3",
+        "icon": "portugal_rdp_internacional.png"
+    },
+    {
+        "name": "Record FM",
+        "country": "Portugal",
+        "url": "https://nl.digitalrm.pt:8010/stream",
+        "icon": "portugal_record_fm.png"
+    },
+    {
+        "name": "RPS Radio Popular de Soure",
+        "country": "Portugal",
+        "url": "https://nl.digitalrm.pt:8072/stream",
+        "icon": "portugal_rps_radio_popular_de_soure.png"
+    },
+    {
+        "name": "RTP Antena 2",
+        "country": "Portugal",
+        "url": "https://radiocast.rtp.pt/antena280a.mp3",
+        "icon": "portugal_rtp_antena_2.png"
+    },
+    {
+        "name": "RVB Radio Voz Basto",
+        "country": "Portugal",
+        "url": "https://radios.justweb.pt/8018/;",
+        "icon": "portugal_rvb_radio_voz_basto.png"
+    },
+    {
+        "name": "Smooth FM",
+        "country": "Portugal",
+        "url": "https://mcrscast.mcr.iol.pt/smoothfm",
+        "icon": "portugal_smooth_fm.png"
+    },
+    {
+        "name": "Soberania FM",
+        "country": "Portugal",
+        "url": "https://nl.digitalrm.pt:8034/stream",
+        "icon": "portugal_soberania_fm.png"
+    },
+    {
+        "name": "TDS",
+        "country": "Portugal",
+        "url": "http://play.golo.fm:9150/live",
+        "icon": "portugal_tds.png"
+    },
+    {
+        "name": "Terra Quente FM",
+        "country": "Portugal",
+        "url": "http://centova.radios.pt:9402",
+        "icon": "portugal_terra_quente_fm.png"
+    },
+    {
+        "name": "Total FM",
+        "country": "Portugal",
+        "url": "http://sagresfm.pt:9300/mp3",
+        "icon": "portugal_total_fm.png"
+    },
+    {
+        "name": "Tropical FM",
+        "country": "Portugal",
+        "url": "https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream",
+        "icon": "portugal_tropical_fm.png"
+    },
+    {
+        "name": "TSF Radio Noticias",
+        "country": "Portugal",
+        "url": "https://tsfdirecto.tsf.pt/tsfdirecto.mp3",
+        "icon": "portugal_tsf_radio_noticias.png"
+    },
+    {
+        "name": "Vodafone FM",
+        "country": "Portugal",
+        "url": "https://mcrscast.mcr.iol.pt/vodafone",
+        "icon": "portugal_vodafone_fm.png"
+    }
+]
