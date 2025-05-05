@@ -1,0 +1,36 @@
+{
+	"infos": {
+		"extension": "json"
+	},
+	"countries": {
+		"Argentina": {"continent": "South America", "code": "ar"},
+		"Austria": {"continent": "Europe", "code": "at"},
+		"Belgium": {"continent": "Europe", "code": "be"},
+		"Brazil": {"continent": "South America", "code": "br"},
+		"Canada": {"continent": "North America", "code": "ca"},
+		"Colombia": {"continent": "South America", "code": "co"},
+		"Croatia": {"continent": "Europe", "code": "hr"},
+		"Denmark": {"continent": "Europe", "code": "dk"},
+		"Finland": {"continent": "Europe", "code": "fi"},
+		"France": {"continent": "Europe", "code": "fr"},
+		"Germany": {"continent": "Europe", "code": "de"},
+		"Greece": {"continent": "Europe", "code": "gr"},
+		"Ireland": {"continent": "Europe", "code": "ie"},
+		"Italy": {"continent": "Europe", "code": "it"},
+		"Japan": {"continent": "Asia", "code": "jp"},
+		"Lebanon": {"continent": "Asia", "code": "lb"},
+		"Morocco": {"continent": "Africa", "code": "ma"},
+		"Norway": {"continent": "Europe", "code": "no"},
+		"Peru": {"continent": "South America", "code": "pe"},
+		"Portugal": {"continent": "Europe", "code": "pt"},
+		"South Korea": {"continent": "Asia", "code": "kr"},
+		"Spain": {"continent": "Europe", "code": "es"},
+		"Sweden": {"continent": "Europe", "code": "se"},
+		"Switzerland": {"continent": "Europe", "code": "ch"},
+		"Turkey": {"continent": "Asia", "code": "tr"},
+		"United Kingdom": {"continent": "Europe", "code": "gb"},
+		"United States of America": {"continent": "North America", "code": "us"},
+		"Uruguay": {"continent": "South America", "code": "uy"},
+		"Venezuela": {"continent": "South America", "code": "ve"}
+	}
+}
