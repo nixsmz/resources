@@ -1,9 +1,9 @@
-[
-	{"name": "Gwangju buk fm", "url": "http://live.radios.kr:8000/icbn;"},
-	{"name": "Jinli radio", "url": "https://streamer.radio.co/s014534c05/listen"},
-	{"name": "Mapo fm", "url": "http://onair.mapofm.net/mapofm"},
-	{"name": "Oldpop cafe", "url": "http://cast.page2.kr:7080/;"},
-	{"name": "Radio free asia - ch 2 vietnamese burmese korean", "url": "https://voa17.akacast.akamaistream.net/7/985/433978/v1/ibb.akacast.akamaistream.net/RFALive2"},
-	{"name": "Seongn fm", "url": "http://115.85.182.39/seongnamfm"},
-	{"name": "Y fm", "url": "http://220.81.2.147:8000/;"}
-]
+{
+	"Gwangju buk fm": "http://live.radios.kr:8000/icbn;",
+	"Jinli radio": "https://streamer.radio.co/s014534c05/listen",
+	"Mapo fm": "http://onair.mapofm.net/mapofm",
+	"Oldpop cafe": "http://cast.page2.kr:7080/;",
+	"Radio free asia - ch 2 vietnamese burmese korean": "https://voa17.akacast.akamaistream.net/7/985/433978/v1/ibb.akacast.akamaistream.net/RFALive2",
+	"Seongn fm": "http://115.85.182.39/seongnamfm",
+	"Y fm": "http://220.81.2.147:8000/;"
+}
